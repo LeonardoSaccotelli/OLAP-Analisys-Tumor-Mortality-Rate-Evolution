@@ -1,0 +1,1882 @@
+FIPS,NameState,FIPS_County,Name_County,Year_ID,ID_Tumor,Type_Tumor,Sex_ID,Sex_name,Mortality,Population
+10,Delaware,10001,Kent County,2000,444,Lip and oral cavity cancer,1,Male,3.89717682340191,61351
+10,Delaware,10001,Kent County,2001,444,Lip and oral cavity cancer,1,Male,4.00801551361333,62348
+10,Delaware,10001,Kent County,2002,444,Lip and oral cavity cancer,1,Male,3.89765431857718,63488
+10,Delaware,10001,Kent County,2003,444,Lip and oral cavity cancer,1,Male,3.85395771102737,64821
+10,Delaware,10001,Kent County,2004,444,Lip and oral cavity cancer,1,Male,3.75756751735116,67247
+10,Delaware,10001,Kent County,2005,444,Lip and oral cavity cancer,1,Male,3.77963994991696,69572
+10,Delaware,10001,Kent County,2006,444,Lip and oral cavity cancer,1,Male,3.6775053498185,71963
+10,Delaware,10001,Kent County,2007,444,Lip and oral cavity cancer,1,Male,3.64341046817364,74001
+10,Delaware,10001,Kent County,2008,444,Lip and oral cavity cancer,1,Male,3.63040622009082,75938
+10,Delaware,10001,Kent County,2009,444,Lip and oral cavity cancer,1,Male,3.61886528482152,76882
+10,Delaware,10001,Kent County,2010,444,Lip and oral cavity cancer,1,Male,3.56388850769713,78350
+10,Delaware,10001,Kent County,2000,444,Lip and oral cavity cancer,2,Female,1.17897490127135,65878
+10,Delaware,10001,Kent County,2001,444,Lip and oral cavity cancer,2,Female,1.18613654475433,66880
+10,Delaware,10001,Kent County,2002,444,Lip and oral cavity cancer,2,Female,1.13651941289673,68336
+10,Delaware,10001,Kent County,2003,444,Lip and oral cavity cancer,2,Female,1.12695203301623,69784
+10,Delaware,10001,Kent County,2004,444,Lip and oral cavity cancer,2,Female,1.10993239877049,72095
+10,Delaware,10001,Kent County,2005,444,Lip and oral cavity cancer,2,Female,1.11277374630361,75013
+10,Delaware,10001,Kent County,2006,444,Lip and oral cavity cancer,2,Female,1.08334392307482,77741
+10,Delaware,10001,Kent County,2007,444,Lip and oral cavity cancer,2,Female,1.07096686209433,79968
+10,Delaware,10001,Kent County,2008,444,Lip and oral cavity cancer,2,Female,1.06201729752654,81987
+10,Delaware,10001,Kent County,2009,444,Lip and oral cavity cancer,2,Female,1.05458722514237,83199
+10,Delaware,10001,Kent County,2010,444,Lip and oral cavity cancer,2,Female,1.05179809724681,84562
+10,Delaware,10003,New Castle County,2000,444,Lip and oral cavity cancer,1,Male,3.21668521863973,243716
+10,Delaware,10003,New Castle County,2001,444,Lip and oral cavity cancer,1,Male,3.24787782138731,245478
+10,Delaware,10003,New Castle County,2002,444,Lip and oral cavity cancer,1,Male,3.12737656588373,247676
+10,Delaware,10003,New Castle County,2003,444,Lip and oral cavity cancer,1,Male,3.08661952024998,249938
+10,Delaware,10003,New Castle County,2004,444,Lip and oral cavity cancer,1,Male,3.02590787482421,251812
+10,Delaware,10003,New Castle County,2005,444,Lip and oral cavity cancer,1,Male,2.92151059846132,253654
+10,Delaware,10003,New Castle County,2006,444,Lip and oral cavity cancer,1,Male,2.88163542600264,255465
+10,Delaware,10003,New Castle County,2007,444,Lip and oral cavity cancer,1,Male,2.82252516309639,256862
+10,Delaware,10003,New Castle County,2008,444,Lip and oral cavity cancer,1,Male,2.80220239499314,258783
+10,Delaware,10003,New Castle County,2009,444,Lip and oral cavity cancer,1,Male,2.63411984863887,259955
+10,Delaware,10003,New Castle County,2010,444,Lip and oral cavity cancer,1,Male,2.6644988163217,261015
+10,Delaware,10003,New Castle County,2000,444,Lip and oral cavity cancer,2,Female,1.19924138316709,258121
+10,Delaware,10003,New Castle County,2001,444,Lip and oral cavity cancer,2,Female,1.22586855683755,260548
+10,Delaware,10003,New Castle County,2002,444,Lip and oral cavity cancer,2,Female,1.13347276281956,262482
+10,Delaware,10003,New Castle County,2003,444,Lip and oral cavity cancer,2,Female,1.11818393493836,264831
+10,Delaware,10003,New Castle County,2004,444,Lip and oral cavity cancer,2,Female,1.11134600214542,267132
+10,Delaware,10003,New Castle County,2005,444,Lip and oral cavity cancer,2,Female,1.11043327447605,269689
+10,Delaware,10003,New Castle County,2006,444,Lip and oral cavity cancer,2,Female,1.06445191077586,271709
+10,Delaware,10003,New Castle County,2007,444,Lip and oral cavity cancer,2,Female,1.04665567536692,273693
+10,Delaware,10003,New Castle County,2008,444,Lip and oral cavity cancer,2,Female,1.05514084754335,275175
+10,Delaware,10003,New Castle County,2009,444,Lip and oral cavity cancer,2,Female,1.03242108000659,276943
+10,Delaware,10003,New Castle County,2010,444,Lip and oral cavity cancer,2,Female,1.02042425007763,277971
+10,Delaware,10005,Sussex County,2000,444,Lip and oral cavity cancer,1,Male,4.13617119417271,76859
+10,Delaware,10005,Sussex County,2001,444,Lip and oral cavity cancer,1,Male,4.07919585582789,78524
+10,Delaware,10005,Sussex County,2002,444,Lip and oral cavity cancer,1,Male,4.01425312308721,80353
+10,Delaware,10005,Sussex County,2003,444,Lip and oral cavity cancer,1,Male,3.8980374643723,82442
+10,Delaware,10005,Sussex County,2004,444,Lip and oral cavity cancer,1,Male,3.82375939159065,84424
+10,Delaware,10005,Sussex County,2005,444,Lip and oral cavity cancer,1,Male,3.78971647913695,86697
+10,Delaware,10005,Sussex County,2006,444,Lip and oral cavity cancer,1,Male,3.68858372200556,89074
+10,Delaware,10005,Sussex County,2007,444,Lip and oral cavity cancer,1,Male,3.56245151209741,91488
+10,Delaware,10005,Sussex County,2008,444,Lip and oral cavity cancer,1,Male,3.47319298597148,93672
+10,Delaware,10005,Sussex County,2009,444,Lip and oral cavity cancer,1,Male,3.46086437696379,95098
+10,Delaware,10005,Sussex County,2010,444,Lip and oral cavity cancer,1,Male,3.44430613631098,96607
+10,Delaware,10005,Sussex County,2000,444,Lip and oral cavity cancer,2,Female,1.19885281366424,80448
+10,Delaware,10005,Sussex County,2001,444,Lip and oral cavity cancer,2,Female,1.20612728862525,81921
+10,Delaware,10005,Sussex County,2002,444,Lip and oral cavity cancer,2,Female,1.14278313836322,83834
+10,Delaware,10005,Sussex County,2003,444,Lip and oral cavity cancer,2,Female,1.14109152625147,86187
+10,Delaware,10005,Sussex County,2004,444,Lip and oral cavity cancer,2,Female,1.08488930926652,88093
+10,Delaware,10005,Sussex County,2005,444,Lip and oral cavity cancer,2,Female,1.08437438107501,90525
+10,Delaware,10005,Sussex County,2006,444,Lip and oral cavity cancer,2,Female,1.06109753878522,93316
+10,Delaware,10005,Sussex County,2007,444,Lip and oral cavity cancer,2,Female,1.05060628412633,95737
+10,Delaware,10005,Sussex County,2008,444,Lip and oral cavity cancer,2,Female,1.01973481055974,98319
+10,Delaware,10005,Sussex County,2009,444,Lip and oral cavity cancer,2,Female,1.00886921971113,99653
+10,Delaware,10005,Sussex County,2010,444,Lip and oral cavity cancer,2,Female,1.01259496227221,101264
+10,Delaware,10001,Kent County,2000,447,Nasopharynx cancer,1,Male,0.474445888389387,61351
+10,Delaware,10001,Kent County,2001,447,Nasopharynx cancer,1,Male,0.478210361864477,62348
+10,Delaware,10001,Kent County,2002,447,Nasopharynx cancer,1,Male,0.455464292171913,63488
+10,Delaware,10001,Kent County,2003,447,Nasopharynx cancer,1,Male,0.451751556490765,64821
+10,Delaware,10001,Kent County,2004,447,Nasopharynx cancer,1,Male,0.441263797378873,67247
+10,Delaware,10001,Kent County,2005,447,Nasopharynx cancer,1,Male,0.438865331847875,69572
+10,Delaware,10001,Kent County,2006,447,Nasopharynx cancer,1,Male,0.427404752547167,71963
+10,Delaware,10001,Kent County,2007,447,Nasopharynx cancer,1,Male,0.427143409902918,74001
+10,Delaware,10001,Kent County,2008,447,Nasopharynx cancer,1,Male,0.420044203038519,75938
+10,Delaware,10001,Kent County,2009,447,Nasopharynx cancer,1,Male,0.418215251311859,76882
+10,Delaware,10001,Kent County,2010,447,Nasopharynx cancer,1,Male,0.40629981619296,78350
+10,Delaware,10001,Kent County,2000,447,Nasopharynx cancer,2,Female,0.269324172656031,65878
+10,Delaware,10001,Kent County,2001,447,Nasopharynx cancer,2,Female,0.268103131370864,66880
+10,Delaware,10001,Kent County,2002,447,Nasopharynx cancer,2,Female,0.261762137381877,68336
+10,Delaware,10001,Kent County,2003,447,Nasopharynx cancer,2,Female,0.253971269649926,69784
+10,Delaware,10001,Kent County,2004,447,Nasopharynx cancer,2,Female,0.249518793880014,72095
+10,Delaware,10001,Kent County,2005,447,Nasopharynx cancer,2,Female,0.246729925499097,75013
+10,Delaware,10001,Kent County,2006,447,Nasopharynx cancer,2,Female,0.240566124560533,77741
+10,Delaware,10001,Kent County,2007,447,Nasopharynx cancer,2,Female,0.239269001005296,79968
+10,Delaware,10001,Kent County,2008,447,Nasopharynx cancer,2,Female,0.235736469272951,81987
+10,Delaware,10001,Kent County,2009,447,Nasopharynx cancer,2,Female,0.23297335000338,83199
+10,Delaware,10001,Kent County,2010,447,Nasopharynx cancer,2,Female,0.225290145896526,84562
+10,Delaware,10003,New Castle County,2000,447,Nasopharynx cancer,1,Male,0.413769619875078,243716
+10,Delaware,10003,New Castle County,2001,447,Nasopharynx cancer,1,Male,0.411864897307689,245478
+10,Delaware,10003,New Castle County,2002,447,Nasopharynx cancer,1,Male,0.39555057776347,247676
+10,Delaware,10003,New Castle County,2003,447,Nasopharynx cancer,1,Male,0.397835965624757,249938
+10,Delaware,10003,New Castle County,2004,447,Nasopharynx cancer,1,Male,0.397156870155247,251812
+10,Delaware,10003,New Castle County,2005,447,Nasopharynx cancer,1,Male,0.384189215383897,253654
+10,Delaware,10003,New Castle County,2006,447,Nasopharynx cancer,1,Male,0.385941986347732,255465
+10,Delaware,10003,New Castle County,2007,447,Nasopharynx cancer,1,Male,0.384021159705678,256862
+10,Delaware,10003,New Castle County,2008,447,Nasopharynx cancer,1,Male,0.378771454123803,258783
+10,Delaware,10003,New Castle County,2009,447,Nasopharynx cancer,1,Male,0.358069743457052,259955
+10,Delaware,10003,New Castle County,2010,447,Nasopharynx cancer,1,Male,0.360816217963678,261015
+10,Delaware,10003,New Castle County,2000,447,Nasopharynx cancer,2,Female,0.249826168854177,258121
+10,Delaware,10003,New Castle County,2001,447,Nasopharynx cancer,2,Female,0.254324742810159,260548
+10,Delaware,10003,New Castle County,2002,447,Nasopharynx cancer,2,Female,0.239360244964741,262482
+10,Delaware,10003,New Castle County,2003,447,Nasopharynx cancer,2,Female,0.234088240821759,264831
+10,Delaware,10003,New Castle County,2004,447,Nasopharynx cancer,2,Female,0.230585007444564,267132
+10,Delaware,10003,New Castle County,2005,447,Nasopharynx cancer,2,Female,0.22899770487031,269689
+10,Delaware,10003,New Castle County,2006,447,Nasopharynx cancer,2,Female,0.221232397850578,271709
+10,Delaware,10003,New Castle County,2007,447,Nasopharynx cancer,2,Female,0.219309243938192,273693
+10,Delaware,10003,New Castle County,2008,447,Nasopharynx cancer,2,Female,0.216025821003133,275175
+10,Delaware,10003,New Castle County,2009,447,Nasopharynx cancer,2,Female,0.212643588216723,276943
+10,Delaware,10003,New Castle County,2010,447,Nasopharynx cancer,2,Female,0.205364125715895,277971
+10,Delaware,10005,Sussex County,2000,447,Nasopharynx cancer,1,Male,0.464016875193606,76859
+10,Delaware,10005,Sussex County,2001,447,Nasopharynx cancer,1,Male,0.44981937820096,78524
+10,Delaware,10005,Sussex County,2002,447,Nasopharynx cancer,1,Male,0.434189536342305,80353
+10,Delaware,10005,Sussex County,2003,447,Nasopharynx cancer,1,Male,0.420325008078396,82442
+10,Delaware,10005,Sussex County,2004,447,Nasopharynx cancer,1,Male,0.411354918400943,84424
+10,Delaware,10005,Sussex County,2005,447,Nasopharynx cancer,1,Male,0.403229938287918,86697
+10,Delaware,10005,Sussex County,2006,447,Nasopharynx cancer,1,Male,0.390518745982843,89074
+10,Delaware,10005,Sussex County,2007,447,Nasopharynx cancer,1,Male,0.374074344081382,91488
+10,Delaware,10005,Sussex County,2008,447,Nasopharynx cancer,1,Male,0.362803621533785,93672
+10,Delaware,10005,Sussex County,2009,447,Nasopharynx cancer,1,Male,0.357800309783655,95098
+10,Delaware,10005,Sussex County,2010,447,Nasopharynx cancer,1,Male,0.349478970709159,96607
+10,Delaware,10005,Sussex County,2000,447,Nasopharynx cancer,2,Female,0.241865333439533,80448
+10,Delaware,10005,Sussex County,2001,447,Nasopharynx cancer,2,Female,0.238568681778062,81921
+10,Delaware,10005,Sussex County,2002,447,Nasopharynx cancer,2,Female,0.230800245773374,83834
+10,Delaware,10005,Sussex County,2003,447,Nasopharynx cancer,2,Female,0.226429104341231,86187
+10,Delaware,10005,Sussex County,2004,447,Nasopharynx cancer,2,Female,0.214653911406706,88093
+10,Delaware,10005,Sussex County,2005,447,Nasopharynx cancer,2,Female,0.209819664172942,90525
+10,Delaware,10005,Sussex County,2006,447,Nasopharynx cancer,2,Female,0.205818113548027,93316
+10,Delaware,10005,Sussex County,2007,447,Nasopharynx cancer,2,Female,0.202658727031508,95737
+10,Delaware,10005,Sussex County,2008,447,Nasopharynx cancer,2,Female,0.19507232695627,98319
+10,Delaware,10005,Sussex County,2009,447,Nasopharynx cancer,2,Female,0.190511667082624,99653
+10,Delaware,10005,Sussex County,2010,447,Nasopharynx cancer,2,Female,0.187985063047706,101264
+10,Delaware,10001,Kent County,2000,411,Esophageal cancer,1,Male,10.6537504287516,61351
+10,Delaware,10001,Kent County,2001,411,Esophageal cancer,1,Male,11.0451415682448,62348
+10,Delaware,10001,Kent County,2002,411,Esophageal cancer,1,Male,10.8263194558459,63488
+10,Delaware,10001,Kent County,2003,411,Esophageal cancer,1,Male,10.7997420998863,64821
+10,Delaware,10001,Kent County,2004,411,Esophageal cancer,1,Male,10.5902343212527,67247
+10,Delaware,10001,Kent County,2005,411,Esophageal cancer,1,Male,10.7144485069643,69572
+10,Delaware,10001,Kent County,2006,411,Esophageal cancer,1,Male,10.389280993599,71963
+10,Delaware,10001,Kent County,2007,411,Esophageal cancer,1,Male,10.1640321861156,74001
+10,Delaware,10001,Kent County,2008,411,Esophageal cancer,1,Male,10.2715687223463,75938
+10,Delaware,10001,Kent County,2009,411,Esophageal cancer,1,Male,10.0952621653582,76882
+10,Delaware,10001,Kent County,2010,411,Esophageal cancer,1,Male,9.88095155266442,78350
+10,Delaware,10001,Kent County,2000,411,Esophageal cancer,2,Female,2.41756010488147,65878
+10,Delaware,10001,Kent County,2001,411,Esophageal cancer,2,Female,2.42819096893874,66880
+10,Delaware,10001,Kent County,2002,411,Esophageal cancer,2,Female,2.35931293672093,68336
+10,Delaware,10001,Kent County,2003,411,Esophageal cancer,2,Female,2.35035757458977,69784
+10,Delaware,10001,Kent County,2004,411,Esophageal cancer,2,Female,2.3149932715784,72095
+10,Delaware,10001,Kent County,2005,411,Esophageal cancer,2,Female,2.29170675804216,75013
+10,Delaware,10001,Kent County,2006,411,Esophageal cancer,2,Female,2.24206589958517,77741
+10,Delaware,10001,Kent County,2007,411,Esophageal cancer,2,Female,2.21540416654976,79968
+10,Delaware,10001,Kent County,2008,411,Esophageal cancer,2,Female,2.18900261753261,81987
+10,Delaware,10001,Kent County,2009,411,Esophageal cancer,2,Female,2.17309332461778,83199
+10,Delaware,10001,Kent County,2010,411,Esophageal cancer,2,Female,2.13938455509043,84562
+10,Delaware,10003,New Castle County,2000,411,Esophageal cancer,1,Male,11.2237589714152,243716
+10,Delaware,10003,New Castle County,2001,411,Esophageal cancer,1,Male,11.5178531280227,245478
+10,Delaware,10003,New Castle County,2002,411,Esophageal cancer,1,Male,11.207788380673,247676
+10,Delaware,10003,New Castle County,2003,411,Esophageal cancer,1,Male,11.1929916874521,249938
+10,Delaware,10003,New Castle County,2004,411,Esophageal cancer,1,Male,11.1132800112473,251812
+10,Delaware,10003,New Castle County,2005,411,Esophageal cancer,1,Male,10.8718872073672,253654
+10,Delaware,10003,New Castle County,2006,411,Esophageal cancer,1,Male,10.7542318650487,255465
+10,Delaware,10003,New Castle County,2007,411,Esophageal cancer,1,Male,10.5199081700459,256862
+10,Delaware,10003,New Castle County,2008,411,Esophageal cancer,1,Male,10.5009141373464,258783
+10,Delaware,10003,New Castle County,2009,411,Esophageal cancer,1,Male,9.93761260904493,259955
+10,Delaware,10003,New Castle County,2010,411,Esophageal cancer,1,Male,9.9795361988176,261015
+10,Delaware,10003,New Castle County,2000,411,Esophageal cancer,2,Female,2.44539176761967,258121
+10,Delaware,10003,New Castle County,2001,411,Esophageal cancer,2,Female,2.50486320955602,260548
+10,Delaware,10003,New Castle County,2002,411,Esophageal cancer,2,Female,2.35413642765151,262482
+10,Delaware,10003,New Castle County,2003,411,Esophageal cancer,2,Female,2.32623601488378,264831
+10,Delaware,10003,New Castle County,2004,411,Esophageal cancer,2,Female,2.32936818118303,267132
+10,Delaware,10003,New Castle County,2005,411,Esophageal cancer,2,Female,2.28069060409197,269689
+10,Delaware,10003,New Castle County,2006,411,Esophageal cancer,2,Female,2.20239695887055,271709
+10,Delaware,10003,New Castle County,2007,411,Esophageal cancer,2,Female,2.14331247716673,273693
+10,Delaware,10003,New Castle County,2008,411,Esophageal cancer,2,Female,2.16915015071052,275175
+10,Delaware,10003,New Castle County,2009,411,Esophageal cancer,2,Female,2.11967962979926,276943
+10,Delaware,10003,New Castle County,2010,411,Esophageal cancer,2,Female,2.0793340235044,277971
+10,Delaware,10005,Sussex County,2000,411,Esophageal cancer,1,Male,11.2692400736359,76859
+10,Delaware,10005,Sussex County,2001,411,Esophageal cancer,1,Male,11.1463939277162,78524
+10,Delaware,10005,Sussex County,2002,411,Esophageal cancer,1,Male,11.0469049142222,80353
+10,Delaware,10005,Sussex County,2003,411,Esophageal cancer,1,Male,10.8384731489493,82442
+10,Delaware,10005,Sussex County,2004,411,Esophageal cancer,1,Male,10.7206348037507,84424
+10,Delaware,10005,Sussex County,2005,411,Esophageal cancer,1,Male,10.6899183745199,86697
+10,Delaware,10005,Sussex County,2006,411,Esophageal cancer,1,Male,10.3700167380568,89074
+10,Delaware,10005,Sussex County,2007,411,Esophageal cancer,1,Male,10.0430164918065,91488
+10,Delaware,10005,Sussex County,2008,411,Esophageal cancer,1,Male,9.66873415710417,93672
+10,Delaware,10005,Sussex County,2009,411,Esophageal cancer,1,Male,9.67815235646677,95098
+10,Delaware,10005,Sussex County,2010,411,Esophageal cancer,1,Male,9.52751621649742,96607
+10,Delaware,10005,Sussex County,2000,411,Esophageal cancer,2,Female,1.98126984376749,80448
+10,Delaware,10005,Sussex County,2001,411,Esophageal cancer,2,Female,1.97572737919408,81921
+10,Delaware,10005,Sussex County,2002,411,Esophageal cancer,2,Female,1.89761553601957,83834
+10,Delaware,10005,Sussex County,2003,411,Esophageal cancer,2,Female,1.88947958741585,86187
+10,Delaware,10005,Sussex County,2004,411,Esophageal cancer,2,Female,1.78963240768275,88093
+10,Delaware,10005,Sussex County,2005,411,Esophageal cancer,2,Female,1.75059321802336,90525
+10,Delaware,10005,Sussex County,2006,411,Esophageal cancer,2,Female,1.70739735203914,93316
+10,Delaware,10005,Sussex County,2007,411,Esophageal cancer,2,Female,1.66844546534106,95737
+10,Delaware,10005,Sussex County,2008,411,Esophageal cancer,2,Female,1.62325631429145,98319
+10,Delaware,10005,Sussex County,2009,411,Esophageal cancer,2,Female,1.58367156432583,99653
+10,Delaware,10005,Sussex County,2010,411,Esophageal cancer,2,Female,1.56517079777927,101264
+10,Delaware,10001,Kent County,2000,414,Stomach cancer,1,Male,9.4604537983123,61351
+10,Delaware,10001,Kent County,2001,414,Stomach cancer,1,Male,9.57401754943271,62348
+10,Delaware,10001,Kent County,2002,414,Stomach cancer,1,Male,9.20417765737153,63488
+10,Delaware,10001,Kent County,2003,414,Stomach cancer,1,Male,9.05425202806557,64821
+10,Delaware,10001,Kent County,2004,414,Stomach cancer,1,Male,8.67842330636856,67247
+10,Delaware,10001,Kent County,2005,414,Stomach cancer,1,Male,8.59770299228974,69572
+10,Delaware,10001,Kent County,2006,414,Stomach cancer,1,Male,8.15154111506364,71963
+10,Delaware,10001,Kent County,2007,414,Stomach cancer,1,Male,7.83833752772297,74001
+10,Delaware,10001,Kent County,2008,414,Stomach cancer,1,Male,7.94644000783588,75938
+10,Delaware,10001,Kent County,2009,414,Stomach cancer,1,Male,7.67532841882436,76882
+10,Delaware,10001,Kent County,2010,414,Stomach cancer,1,Male,7.46800982533198,78350
+10,Delaware,10001,Kent County,2000,414,Stomach cancer,2,Female,4.55698890311548,65878
+10,Delaware,10001,Kent County,2001,414,Stomach cancer,2,Female,4.51330956300944,66880
+10,Delaware,10001,Kent County,2002,414,Stomach cancer,2,Female,4.36949787392246,68336
+10,Delaware,10001,Kent County,2003,414,Stomach cancer,2,Female,4.313122187957,69784
+10,Delaware,10001,Kent County,2004,414,Stomach cancer,2,Female,4.2153727655611,72095
+10,Delaware,10001,Kent County,2005,414,Stomach cancer,2,Female,4.13875231290652,75013
+10,Delaware,10001,Kent County,2006,414,Stomach cancer,2,Female,3.9771915810538,77741
+10,Delaware,10001,Kent County,2007,414,Stomach cancer,2,Female,3.89041352032428,79968
+10,Delaware,10001,Kent County,2008,414,Stomach cancer,2,Female,3.85523717429348,81987
+10,Delaware,10001,Kent County,2009,414,Stomach cancer,2,Female,3.7885969172188,83199
+10,Delaware,10001,Kent County,2010,414,Stomach cancer,2,Female,3.70988272198887,84562
+10,Delaware,10003,New Castle County,2000,414,Stomach cancer,1,Male,9.82936774832695,243716
+10,Delaware,10003,New Castle County,2001,414,Stomach cancer,1,Male,9.86214402397511,245478
+10,Delaware,10003,New Castle County,2002,414,Stomach cancer,1,Male,9.44491561603829,247676
+10,Delaware,10003,New Castle County,2003,414,Stomach cancer,1,Male,9.2764590467529,249938
+10,Delaware,10003,New Castle County,2004,414,Stomach cancer,1,Male,9.00884427240322,251812
+10,Delaware,10003,New Castle County,2005,414,Stomach cancer,1,Male,8.67900746554425,253654
+10,Delaware,10003,New Castle County,2006,414,Stomach cancer,1,Male,8.41755858254665,255465
+10,Delaware,10003,New Castle County,2007,414,Stomach cancer,1,Male,8.15285717926597,256862
+10,Delaware,10003,New Castle County,2008,414,Stomach cancer,1,Male,8.16123315659101,258783
+10,Delaware,10003,New Castle County,2009,414,Stomach cancer,1,Male,7.61912649248417,259955
+10,Delaware,10003,New Castle County,2010,414,Stomach cancer,1,Male,7.63404948843785,261015
+10,Delaware,10003,New Castle County,2000,414,Stomach cancer,2,Female,4.95836395957166,258121
+10,Delaware,10003,New Castle County,2001,414,Stomach cancer,2,Female,5.01839158546575,260548
+10,Delaware,10003,New Castle County,2002,414,Stomach cancer,2,Female,4.70420859565307,262482
+10,Delaware,10003,New Castle County,2003,414,Stomach cancer,2,Female,4.61113744073007,264831
+10,Delaware,10003,New Castle County,2004,414,Stomach cancer,2,Female,4.57110196904127,267132
+10,Delaware,10003,New Castle County,2005,414,Stomach cancer,2,Female,4.45479103836617,269689
+10,Delaware,10003,New Castle County,2006,414,Stomach cancer,2,Female,4.23935488465499,271709
+10,Delaware,10003,New Castle County,2007,414,Stomach cancer,2,Female,4.12653632458217,273693
+10,Delaware,10003,New Castle County,2008,414,Stomach cancer,2,Female,4.14416025253984,275175
+10,Delaware,10003,New Castle County,2009,414,Stomach cancer,2,Female,4.01127798791023,276943
+10,Delaware,10003,New Castle County,2010,414,Stomach cancer,2,Female,3.88512715936266,277971
+10,Delaware,10005,Sussex County,2000,414,Stomach cancer,1,Male,7.98189388782199,76859
+10,Delaware,10005,Sussex County,2001,414,Stomach cancer,1,Male,7.68453601179905,78524
+10,Delaware,10005,Sussex County,2002,414,Stomach cancer,1,Male,7.43060523128284,80353
+10,Delaware,10005,Sussex County,2003,414,Stomach cancer,1,Male,7.14472213330723,82442
+10,Delaware,10005,Sussex County,2004,414,Stomach cancer,1,Male,6.90781854403463,84424
+10,Delaware,10005,Sussex County,2005,414,Stomach cancer,1,Male,6.7352639115558,86697
+10,Delaware,10005,Sussex County,2006,414,Stomach cancer,1,Male,6.42501283111476,89074
+10,Delaware,10005,Sussex County,2007,414,Stomach cancer,1,Male,6.14549756325399,91488
+10,Delaware,10005,Sussex County,2008,414,Stomach cancer,1,Male,5.81846495859398,93672
+10,Delaware,10005,Sussex County,2009,414,Stomach cancer,1,Male,5.79931565984198,95098
+10,Delaware,10005,Sussex County,2010,414,Stomach cancer,1,Male,5.6173226400303,96607
+10,Delaware,10005,Sussex County,2000,414,Stomach cancer,2,Female,3.78053696093263,80448
+10,Delaware,10005,Sussex County,2001,414,Stomach cancer,2,Female,3.73515687718685,81921
+10,Delaware,10005,Sussex County,2002,414,Stomach cancer,2,Female,3.57454350537514,83834
+10,Delaware,10005,Sussex County,2003,414,Stomach cancer,2,Female,3.54562995346225,86187
+10,Delaware,10005,Sussex County,2004,414,Stomach cancer,2,Female,3.34042153372452,88093
+10,Delaware,10005,Sussex County,2005,414,Stomach cancer,2,Female,3.26671552443298,90525
+10,Delaware,10005,Sussex County,2006,414,Stomach cancer,2,Female,3.14654975692605,93316
+10,Delaware,10005,Sussex County,2007,414,Stomach cancer,2,Female,3.08360690542236,95737
+10,Delaware,10005,Sussex County,2008,414,Stomach cancer,2,Female,2.96390260022921,98319
+10,Delaware,10005,Sussex County,2009,414,Stomach cancer,2,Female,2.91366906917248,99653
+10,Delaware,10005,Sussex County,2010,414,Stomach cancer,2,Female,2.85208231282593,101264
+10,Delaware,10001,Kent County,2000,441,Colon and rectum cancer,1,Male,35.4708156042476,61351
+10,Delaware,10001,Kent County,2001,441,Colon and rectum cancer,1,Male,36.0783849762783,62348
+10,Delaware,10001,Kent County,2002,441,Colon and rectum cancer,1,Male,34.9424737959441,63488
+10,Delaware,10001,Kent County,2003,441,Colon and rectum cancer,1,Male,34.3962787369352,64821
+10,Delaware,10001,Kent County,2004,441,Colon and rectum cancer,1,Male,33.131859577914,67247
+10,Delaware,10001,Kent County,2005,441,Colon and rectum cancer,1,Male,33.0037125914239,69572
+10,Delaware,10001,Kent County,2006,441,Colon and rectum cancer,1,Male,31.5174992912064,71963
+10,Delaware,10001,Kent County,2007,441,Colon and rectum cancer,1,Male,30.5466195309851,74001
+10,Delaware,10001,Kent County,2008,441,Colon and rectum cancer,1,Male,30.7353068955447,75938
+10,Delaware,10001,Kent County,2009,441,Colon and rectum cancer,1,Male,29.8640886509946,76882
+10,Delaware,10001,Kent County,2010,441,Colon and rectum cancer,1,Male,29.1745582744225,78350
+10,Delaware,10001,Kent County,2000,441,Colon and rectum cancer,2,Female,25.5795249545481,65878
+10,Delaware,10001,Kent County,2001,441,Colon and rectum cancer,2,Female,25.2995631410954,66880
+10,Delaware,10001,Kent County,2002,441,Colon and rectum cancer,2,Female,24.3926638675007,68336
+10,Delaware,10001,Kent County,2003,441,Colon and rectum cancer,2,Female,23.939882984656,69784
+10,Delaware,10001,Kent County,2004,441,Colon and rectum cancer,2,Female,23.2795534943873,72095
+10,Delaware,10001,Kent County,2005,441,Colon and rectum cancer,2,Female,22.803218744526,75013
+10,Delaware,10001,Kent County,2006,441,Colon and rectum cancer,2,Female,21.9279438175559,77741
+10,Delaware,10001,Kent County,2007,441,Colon and rectum cancer,2,Female,21.5344978959742,79968
+10,Delaware,10001,Kent County,2008,441,Colon and rectum cancer,2,Female,21.1049391739455,81987
+10,Delaware,10001,Kent County,2009,441,Colon and rectum cancer,2,Female,20.7172141478417,83199
+10,Delaware,10001,Kent County,2010,441,Colon and rectum cancer,2,Female,20.1289516845766,84562
+10,Delaware,10003,New Castle County,2000,441,Colon and rectum cancer,1,Male,34.4029282908658,243716
+10,Delaware,10003,New Castle County,2001,441,Colon and rectum cancer,1,Male,34.5027711431525,245478
+10,Delaware,10003,New Castle County,2002,441,Colon and rectum cancer,1,Male,33.1087901210836,247676
+10,Delaware,10003,New Castle County,2003,441,Colon and rectum cancer,1,Male,32.4737376858175,249938
+10,Delaware,10003,New Castle County,2004,441,Colon and rectum cancer,1,Male,31.3975127841094,251812
+10,Delaware,10003,New Castle County,2005,441,Colon and rectum cancer,1,Male,30.159681463153,253654
+10,Delaware,10003,New Castle County,2006,441,Colon and rectum cancer,1,Male,29.2838876689347,255465
+10,Delaware,10003,New Castle County,2007,441,Colon and rectum cancer,1,Male,28.3272388016994,256862
+10,Delaware,10003,New Castle County,2008,441,Colon and rectum cancer,1,Male,28.1920400369181,258783
+10,Delaware,10003,New Castle County,2009,441,Colon and rectum cancer,1,Male,26.4748468828124,259955
+10,Delaware,10003,New Castle County,2010,441,Colon and rectum cancer,1,Male,26.5617942183675,261015
+10,Delaware,10003,New Castle County,2000,441,Colon and rectum cancer,2,Female,24.2702824865338,258121
+10,Delaware,10003,New Castle County,2001,441,Colon and rectum cancer,2,Female,24.4887674987469,260548
+10,Delaware,10003,New Castle County,2002,441,Colon and rectum cancer,2,Female,22.6853913563937,262482
+10,Delaware,10003,New Castle County,2003,441,Colon and rectum cancer,2,Female,22.09331703794,264831
+10,Delaware,10003,New Castle County,2004,441,Colon and rectum cancer,2,Female,21.6297645469223,267132
+10,Delaware,10003,New Castle County,2005,441,Colon and rectum cancer,2,Female,20.944897536606,269689
+10,Delaware,10003,New Castle County,2006,441,Colon and rectum cancer,2,Female,19.8275258353952,271709
+10,Delaware,10003,New Castle County,2007,441,Colon and rectum cancer,2,Female,19.3213091992574,273693
+10,Delaware,10003,New Castle County,2008,441,Colon and rectum cancer,2,Female,19.2436664227177,275175
+10,Delaware,10003,New Castle County,2009,441,Colon and rectum cancer,2,Female,18.5274558615448,276943
+10,Delaware,10003,New Castle County,2010,441,Colon and rectum cancer,2,Female,17.8618275056685,277971
+10,Delaware,10005,Sussex County,2000,441,Colon and rectum cancer,1,Male,34.2151496036649,76859
+10,Delaware,10005,Sussex County,2001,441,Colon and rectum cancer,1,Male,33.1971089597881,78524
+10,Delaware,10005,Sussex County,2002,441,Colon and rectum cancer,1,Male,32.3892554375085,80353
+10,Delaware,10005,Sussex County,2003,441,Colon and rectum cancer,1,Male,31.2580726216787,82442
+10,Delaware,10005,Sussex County,2004,441,Colon and rectum cancer,1,Male,30.269259339587,84424
+10,Delaware,10005,Sussex County,2005,441,Colon and rectum cancer,1,Male,29.6856432132383,86697
+10,Delaware,10005,Sussex County,2006,441,Colon and rectum cancer,1,Male,28.5772125218295,89074
+10,Delaware,10005,Sussex County,2007,441,Colon and rectum cancer,1,Male,27.5098424180093,91488
+10,Delaware,10005,Sussex County,2008,441,Colon and rectum cancer,1,Male,26.2292270034092,93672
+10,Delaware,10005,Sussex County,2009,441,Colon and rectum cancer,1,Male,26.0035866103823,95098
+10,Delaware,10005,Sussex County,2010,441,Colon and rectum cancer,1,Male,25.4651910423688,96607
+10,Delaware,10005,Sussex County,2000,441,Colon and rectum cancer,2,Female,22.9748911041525,80448
+10,Delaware,10005,Sussex County,2001,441,Colon and rectum cancer,2,Female,22.7090004740953,81921
+10,Delaware,10005,Sussex County,2002,441,Colon and rectum cancer,2,Female,21.6764937398453,83834
+10,Delaware,10005,Sussex County,2003,441,Colon and rectum cancer,2,Female,21.4269846547638,86187
+10,Delaware,10005,Sussex County,2004,441,Colon and rectum cancer,2,Female,20.1125745406154,88093
+10,Delaware,10005,Sussex County,2005,441,Colon and rectum cancer,2,Female,19.577104820308,90525
+10,Delaware,10005,Sussex County,2006,441,Colon and rectum cancer,2,Female,18.9625951653384,93316
+10,Delaware,10005,Sussex County,2007,441,Colon and rectum cancer,2,Female,18.5721895286112,95737
+10,Delaware,10005,Sussex County,2008,441,Colon and rectum cancer,2,Female,17.9055447339161,98319
+10,Delaware,10005,Sussex County,2009,441,Colon and rectum cancer,2,Female,17.4557432777215,99653
+10,Delaware,10005,Sussex County,2010,441,Colon and rectum cancer,2,Female,17.03032258574,101264
+10,Delaware,10001,Kent County,2000,417,Liver cancer,1,Male,7.58489980143359,61351
+10,Delaware,10001,Kent County,2001,417,Liver cancer,1,Male,8.09982739513167,62348
+10,Delaware,10001,Kent County,2002,417,Liver cancer,1,Male,8.24425319823977,63488
+10,Delaware,10001,Kent County,2003,417,Liver cancer,1,Male,8.58155184925061,64821
+10,Delaware,10001,Kent County,2004,417,Liver cancer,1,Male,8.72974731535653,67247
+10,Delaware,10001,Kent County,2005,417,Liver cancer,1,Male,9.15414409934548,69572
+10,Delaware,10001,Kent County,2006,417,Liver cancer,1,Male,9.22699748522123,71963
+10,Delaware,10001,Kent County,2007,417,Liver cancer,1,Male,9.53547856167559,74001
+10,Delaware,10001,Kent County,2008,417,Liver cancer,1,Male,9.99739288016269,75938
+10,Delaware,10001,Kent County,2009,417,Liver cancer,1,Male,10.4308452812599,76882
+10,Delaware,10001,Kent County,2010,417,Liver cancer,1,Male,10.3833217277944,78350
+10,Delaware,10001,Kent County,2000,417,Liver cancer,2,Female,3.44214118981622,65878
+10,Delaware,10001,Kent County,2001,417,Liver cancer,2,Female,3.54448779526496,66880
+10,Delaware,10001,Kent County,2002,417,Liver cancer,2,Female,3.52161590834979,68336
+10,Delaware,10001,Kent County,2003,417,Liver cancer,2,Female,3.58489410615207,69784
+10,Delaware,10001,Kent County,2004,417,Liver cancer,2,Female,3.63053156989604,72095
+10,Delaware,10001,Kent County,2005,417,Liver cancer,2,Female,3.70300055259463,75013
+10,Delaware,10001,Kent County,2006,417,Liver cancer,2,Female,3.69832006678892,77741
+10,Delaware,10001,Kent County,2007,417,Liver cancer,2,Female,3.73462730322721,79968
+10,Delaware,10001,Kent County,2008,417,Liver cancer,2,Female,3.76634696733257,81987
+10,Delaware,10001,Kent County,2009,417,Liver cancer,2,Female,3.8643186278609,83199
+10,Delaware,10001,Kent County,2010,417,Liver cancer,2,Female,3.90030838731935,84562
+10,Delaware,10003,New Castle County,2000,417,Liver cancer,1,Male,7.87685209800264,243716
+10,Delaware,10003,New Castle County,2001,417,Liver cancer,1,Male,8.28475654996649,245478
+10,Delaware,10003,New Castle County,2002,417,Liver cancer,1,Male,8.6067860765995,247676
+10,Delaware,10003,New Castle County,2003,417,Liver cancer,1,Male,8.95669703643839,249938
+10,Delaware,10003,New Castle County,2004,417,Liver cancer,1,Male,9.22882369264225,251812
+10,Delaware,10003,New Castle County,2005,417,Liver cancer,1,Male,9.47221843680875,253654
+10,Delaware,10003,New Castle County,2006,417,Liver cancer,1,Male,9.78627185634278,255465
+10,Delaware,10003,New Castle County,2007,417,Liver cancer,1,Male,10.1234328464508,256862
+10,Delaware,10003,New Castle County,2008,417,Liver cancer,1,Male,10.5555830202155,258783
+10,Delaware,10003,New Castle County,2009,417,Liver cancer,1,Male,10.4747328916298,259955
+10,Delaware,10003,New Castle County,2010,417,Liver cancer,1,Male,10.9983566146806,261015
+10,Delaware,10003,New Castle County,2000,417,Liver cancer,2,Female,3.12700266233606,258121
+10,Delaware,10003,New Castle County,2001,417,Liver cancer,2,Female,3.30157860610592,260548
+10,Delaware,10003,New Castle County,2002,417,Liver cancer,2,Female,3.1750572506281,262482
+10,Delaware,10003,New Castle County,2003,417,Liver cancer,2,Female,3.22751250285907,264831
+10,Delaware,10003,New Castle County,2004,417,Liver cancer,2,Female,3.29988344924872,267132
+10,Delaware,10003,New Castle County,2005,417,Liver cancer,2,Female,3.34105784493402,269689
+10,Delaware,10003,New Castle County,2006,417,Liver cancer,2,Female,3.31229865876427,271709
+10,Delaware,10003,New Castle County,2007,417,Liver cancer,2,Female,3.32736635747879,273693
+10,Delaware,10003,New Castle County,2008,417,Liver cancer,2,Female,3.42321578458185,275175
+10,Delaware,10003,New Castle County,2009,417,Liver cancer,2,Female,3.43323492109243,276943
+10,Delaware,10003,New Castle County,2010,417,Liver cancer,2,Female,3.44558802367327,277971
+10,Delaware,10005,Sussex County,2000,417,Liver cancer,1,Male,6.99901753082965,76859
+10,Delaware,10005,Sussex County,2001,417,Liver cancer,1,Male,7.21189289266387,78524
+10,Delaware,10005,Sussex County,2002,417,Liver cancer,1,Male,7.44015287545962,80353
+10,Delaware,10005,Sussex County,2003,417,Liver cancer,1,Male,7.53650827006851,82442
+10,Delaware,10005,Sussex County,2004,417,Liver cancer,1,Male,7.72785692268929,84424
+10,Delaware,10005,Sussex County,2005,417,Liver cancer,1,Male,7.81251439754773,86697
+10,Delaware,10005,Sussex County,2006,417,Liver cancer,1,Male,7.94109004375411,89074
+10,Delaware,10005,Sussex County,2007,417,Liver cancer,1,Male,8.10260952218341,91488
+10,Delaware,10005,Sussex County,2008,417,Liver cancer,1,Male,8.11505833887061,93672
+10,Delaware,10005,Sussex County,2009,417,Liver cancer,1,Male,8.47344169130232,95098
+10,Delaware,10005,Sussex County,2010,417,Liver cancer,1,Male,8.58864534752874,96607
+10,Delaware,10005,Sussex County,2000,417,Liver cancer,2,Female,3.12005682222408,80448
+10,Delaware,10005,Sussex County,2001,417,Liver cancer,2,Female,3.20205887536117,81921
+10,Delaware,10005,Sussex County,2002,417,Liver cancer,2,Female,3.15599160864878,83834
+10,Delaware,10005,Sussex County,2003,417,Liver cancer,2,Female,3.23305255210287,86187
+10,Delaware,10005,Sussex County,2004,417,Liver cancer,2,Female,3.15576406365649,88093
+10,Delaware,10005,Sussex County,2005,417,Liver cancer,2,Female,3.20196154296402,90525
+10,Delaware,10005,Sussex County,2006,417,Liver cancer,2,Female,3.22380775408715,93316
+10,Delaware,10005,Sussex County,2007,417,Liver cancer,2,Female,3.23067701239048,95737
+10,Delaware,10005,Sussex County,2008,417,Liver cancer,2,Female,3.22152483060938,98319
+10,Delaware,10005,Sussex County,2009,417,Liver cancer,2,Female,3.2635551420949,99653
+10,Delaware,10005,Sussex County,2010,417,Liver cancer,2,Female,3.31936919244079,101264
+10,Delaware,10001,Kent County,2000,453,Gallbladder and biliary tract cancer,1,Male,1.44357333257909,61351
+10,Delaware,10001,Kent County,2001,453,Gallbladder and biliary tract cancer,1,Male,1.47154228269259,62348
+10,Delaware,10001,Kent County,2002,453,Gallbladder and biliary tract cancer,1,Male,1.42012677289626,63488
+10,Delaware,10001,Kent County,2003,453,Gallbladder and biliary tract cancer,1,Male,1.40483702842282,64821
+10,Delaware,10001,Kent County,2004,453,Gallbladder and biliary tract cancer,1,Male,1.35979085770865,67247
+10,Delaware,10001,Kent County,2005,453,Gallbladder and biliary tract cancer,1,Male,1.35342894518854,69572
+10,Delaware,10001,Kent County,2006,453,Gallbladder and biliary tract cancer,1,Male,1.29998090507078,71963
+10,Delaware,10001,Kent County,2007,453,Gallbladder and biliary tract cancer,1,Male,1.26401947758005,74001
+10,Delaware,10001,Kent County,2008,453,Gallbladder and biliary tract cancer,1,Male,1.27337162314106,75938
+10,Delaware,10001,Kent County,2009,453,Gallbladder and biliary tract cancer,1,Male,1.25030446634177,76882
+10,Delaware,10001,Kent County,2010,453,Gallbladder and biliary tract cancer,1,Male,1.23340568111005,78350
+10,Delaware,10001,Kent County,2000,453,Gallbladder and biliary tract cancer,2,Female,1.60681805141876,65878
+10,Delaware,10001,Kent County,2001,453,Gallbladder and biliary tract cancer,2,Female,1.60186364508417,66880
+10,Delaware,10001,Kent County,2002,453,Gallbladder and biliary tract cancer,2,Female,1.53538767550773,68336
+10,Delaware,10001,Kent County,2003,453,Gallbladder and biliary tract cancer,2,Female,1.51811567062449,69784
+10,Delaware,10001,Kent County,2004,453,Gallbladder and biliary tract cancer,2,Female,1.49359254281167,72095
+10,Delaware,10001,Kent County,2005,453,Gallbladder and biliary tract cancer,2,Female,1.47647229344262,75013
+10,Delaware,10001,Kent County,2006,453,Gallbladder and biliary tract cancer,2,Female,1.42897269295177,77741
+10,Delaware,10001,Kent County,2007,453,Gallbladder and biliary tract cancer,2,Female,1.38740987477074,79968
+10,Delaware,10001,Kent County,2008,453,Gallbladder and biliary tract cancer,2,Female,1.37484340758299,81987
+10,Delaware,10001,Kent County,2009,453,Gallbladder and biliary tract cancer,2,Female,1.34996016455442,83199
+10,Delaware,10001,Kent County,2010,453,Gallbladder and biliary tract cancer,2,Female,1.3280833581885,84562
+10,Delaware,10003,New Castle County,2000,453,Gallbladder and biliary tract cancer,1,Male,1.37046009366747,243716
+10,Delaware,10003,New Castle County,2001,453,Gallbladder and biliary tract cancer,1,Male,1.38510849248031,245478
+10,Delaware,10003,New Castle County,2002,453,Gallbladder and biliary tract cancer,1,Male,1.3281891014557,247676
+10,Delaware,10003,New Castle County,2003,453,Gallbladder and biliary tract cancer,1,Male,1.31387390492879,249938
+10,Delaware,10003,New Castle County,2004,453,Gallbladder and biliary tract cancer,1,Male,1.28785741350327,251812
+10,Delaware,10003,New Castle County,2005,453,Gallbladder and biliary tract cancer,1,Male,1.24870105641309,253654
+10,Delaware,10003,New Castle County,2006,453,Gallbladder and biliary tract cancer,1,Male,1.22341768655265,255465
+10,Delaware,10003,New Castle County,2007,453,Gallbladder and biliary tract cancer,1,Male,1.19728272771303,256862
+10,Delaware,10003,New Castle County,2008,453,Gallbladder and biliary tract cancer,1,Male,1.20572277570651,258783
+10,Delaware,10003,New Castle County,2009,453,Gallbladder and biliary tract cancer,1,Male,1.14339459403613,259955
+10,Delaware,10003,New Castle County,2010,453,Gallbladder and biliary tract cancer,1,Male,1.16339141106786,261015
+10,Delaware,10003,New Castle County,2000,453,Gallbladder and biliary tract cancer,2,Female,1.76414331544455,258121
+10,Delaware,10003,New Castle County,2001,453,Gallbladder and biliary tract cancer,2,Female,1.79538947640587,260548
+10,Delaware,10003,New Castle County,2002,453,Gallbladder and biliary tract cancer,2,Female,1.6748269504358,262482
+10,Delaware,10003,New Castle County,2003,453,Gallbladder and biliary tract cancer,2,Female,1.66338907695203,264831
+10,Delaware,10003,New Castle County,2004,453,Gallbladder and biliary tract cancer,2,Female,1.66623110503811,267132
+10,Delaware,10003,New Castle County,2005,453,Gallbladder and biliary tract cancer,2,Female,1.63566255675582,269689
+10,Delaware,10003,New Castle County,2006,453,Gallbladder and biliary tract cancer,2,Female,1.58780587961428,271709
+10,Delaware,10003,New Castle County,2007,453,Gallbladder and biliary tract cancer,2,Female,1.54433180696286,273693
+10,Delaware,10003,New Castle County,2008,453,Gallbladder and biliary tract cancer,2,Female,1.57749816090307,275175
+10,Delaware,10003,New Castle County,2009,453,Gallbladder and biliary tract cancer,2,Female,1.51264938541742,276943
+10,Delaware,10003,New Castle County,2010,453,Gallbladder and biliary tract cancer,2,Female,1.47916675157333,277971
+10,Delaware,10005,Sussex County,2000,453,Gallbladder and biliary tract cancer,1,Male,1.54039703441817,76859
+10,Delaware,10005,Sussex County,2001,453,Gallbladder and biliary tract cancer,1,Male,1.50472864389597,78524
+10,Delaware,10005,Sussex County,2002,453,Gallbladder and biliary tract cancer,1,Male,1.4750487866924,80353
+10,Delaware,10005,Sussex County,2003,453,Gallbladder and biliary tract cancer,1,Male,1.43222374308267,82442
+10,Delaware,10005,Sussex County,2004,453,Gallbladder and biliary tract cancer,1,Male,1.40464362045365,84424
+10,Delaware,10005,Sussex County,2005,453,Gallbladder and biliary tract cancer,1,Male,1.38462526163618,86697
+10,Delaware,10005,Sussex County,2006,453,Gallbladder and biliary tract cancer,1,Male,1.3491054543397,89074
+10,Delaware,10005,Sussex County,2007,453,Gallbladder and biliary tract cancer,1,Male,1.30407650506588,91488
+10,Delaware,10005,Sussex County,2008,453,Gallbladder and biliary tract cancer,1,Male,1.26047033042675,93672
+10,Delaware,10005,Sussex County,2009,453,Gallbladder and biliary tract cancer,1,Male,1.26779949894436,95098
+10,Delaware,10005,Sussex County,2010,453,Gallbladder and biliary tract cancer,1,Male,1.26347340867902,96607
+10,Delaware,10005,Sussex County,2000,453,Gallbladder and biliary tract cancer,2,Female,1.51168039830808,80448
+10,Delaware,10005,Sussex County,2001,453,Gallbladder and biliary tract cancer,2,Female,1.50811516042919,81921
+10,Delaware,10005,Sussex County,2002,453,Gallbladder and biliary tract cancer,2,Female,1.43149849598811,83834
+10,Delaware,10005,Sussex County,2003,453,Gallbladder and biliary tract cancer,2,Female,1.43455002317645,86187
+10,Delaware,10005,Sussex County,2004,453,Gallbladder and biliary tract cancer,2,Female,1.36803375405072,88093
+10,Delaware,10005,Sussex County,2005,453,Gallbladder and biliary tract cancer,2,Female,1.35430047019527,90525
+10,Delaware,10005,Sussex County,2006,453,Gallbladder and biliary tract cancer,2,Female,1.3164156543335,93316
+10,Delaware,10005,Sussex County,2007,453,Gallbladder and biliary tract cancer,2,Female,1.29007098780415,95737
+10,Delaware,10005,Sussex County,2008,453,Gallbladder and biliary tract cancer,2,Female,1.2417185893868,98319
+10,Delaware,10005,Sussex County,2009,453,Gallbladder and biliary tract cancer,2,Female,1.23609381987811,99653
+10,Delaware,10005,Sussex County,2010,453,Gallbladder and biliary tract cancer,2,Female,1.22069807293658,101264
+10,Delaware,10001,Kent County,2000,456,Pancreatic cancer,1,Male,14.8011249628607,61351
+10,Delaware,10001,Kent County,2001,456,Pancreatic cancer,1,Male,15.4824273611621,62348
+10,Delaware,10001,Kent County,2002,456,Pancreatic cancer,1,Male,15.4380624836775,63488
+10,Delaware,10001,Kent County,2003,456,Pancreatic cancer,1,Male,15.6796117046801,64821
+10,Delaware,10001,Kent County,2004,456,Pancreatic cancer,1,Male,15.6247101904446,67247
+10,Delaware,10001,Kent County,2005,456,Pancreatic cancer,1,Male,16.0516474056652,69572
+10,Delaware,10001,Kent County,2006,456,Pancreatic cancer,1,Male,15.8036343002569,71963
+10,Delaware,10001,Kent County,2007,456,Pancreatic cancer,1,Male,15.6692829477272,74001
+10,Delaware,10001,Kent County,2008,456,Pancreatic cancer,1,Male,16.2319603655205,75938
+10,Delaware,10001,Kent County,2009,456,Pancreatic cancer,1,Male,16.2526423480963,76882
+10,Delaware,10001,Kent County,2010,456,Pancreatic cancer,1,Male,16.1973819991332,78350
+10,Delaware,10001,Kent County,2000,456,Pancreatic cancer,2,Female,11.5988820128935,65878
+10,Delaware,10001,Kent County,2001,456,Pancreatic cancer,2,Female,11.9588091930461,66880
+10,Delaware,10001,Kent County,2002,456,Pancreatic cancer,2,Female,11.6962133382685,68336
+10,Delaware,10001,Kent County,2003,456,Pancreatic cancer,2,Female,11.8678238998654,69784
+10,Delaware,10001,Kent County,2004,456,Pancreatic cancer,2,Female,11.9581510999621,72095
+10,Delaware,10001,Kent County,2005,456,Pancreatic cancer,2,Female,12.2556073966712,75013
+10,Delaware,10001,Kent County,2006,456,Pancreatic cancer,2,Female,12.1366610840305,77741
+10,Delaware,10001,Kent County,2007,456,Pancreatic cancer,2,Female,12.0861991666891,79968
+10,Delaware,10001,Kent County,2008,456,Pancreatic cancer,2,Female,12.2244343104754,81987
+10,Delaware,10001,Kent County,2009,456,Pancreatic cancer,2,Female,12.3419923651092,83199
+10,Delaware,10001,Kent County,2010,456,Pancreatic cancer,2,Female,12.3840960495129,84562
+10,Delaware,10003,New Castle County,2000,456,Pancreatic cancer,1,Male,13.9431905558156,243716
+10,Delaware,10003,New Castle County,2001,456,Pancreatic cancer,1,Male,14.3963697991381,245478
+10,Delaware,10003,New Castle County,2002,456,Pancreatic cancer,1,Male,14.2016105581197,247676
+10,Delaware,10003,New Castle County,2003,456,Pancreatic cancer,1,Male,14.3551906991059,249938
+10,Delaware,10003,New Castle County,2004,456,Pancreatic cancer,1,Male,14.4834199212752,251812
+10,Delaware,10003,New Castle County,2005,456,Pancreatic cancer,1,Male,14.4477871516432,253654
+10,Delaware,10003,New Castle County,2006,456,Pancreatic cancer,1,Male,14.495398625982,255465
+10,Delaware,10003,New Castle County,2007,456,Pancreatic cancer,1,Male,14.4072917099074,256862
+10,Delaware,10003,New Castle County,2008,456,Pancreatic cancer,1,Male,14.789481088514,258783
+10,Delaware,10003,New Castle County,2009,456,Pancreatic cancer,1,Male,14.2139157246368,259955
+10,Delaware,10003,New Castle County,2010,456,Pancreatic cancer,1,Male,14.6131419088498,261015
+10,Delaware,10003,New Castle County,2000,456,Pancreatic cancer,2,Female,11.6556728835978,258121
+10,Delaware,10003,New Castle County,2001,456,Pancreatic cancer,2,Female,12.3036856247321,260548
+10,Delaware,10003,New Castle County,2002,456,Pancreatic cancer,2,Female,11.5519278892541,262482
+10,Delaware,10003,New Castle County,2003,456,Pancreatic cancer,2,Female,11.6229618826505,264831
+10,Delaware,10003,New Castle County,2004,456,Pancreatic cancer,2,Female,11.83224997561,267132
+10,Delaware,10003,New Castle County,2005,456,Pancreatic cancer,2,Female,12.0665878671177,269689
+10,Delaware,10003,New Castle County,2006,456,Pancreatic cancer,2,Female,11.7772032054183,271709
+10,Delaware,10003,New Castle County,2007,456,Pancreatic cancer,2,Female,11.6722196106298,273693
+10,Delaware,10003,New Castle County,2008,456,Pancreatic cancer,2,Female,11.9888350790063,275175
+10,Delaware,10003,New Castle County,2009,456,Pancreatic cancer,2,Female,11.8837895101247,276943
+10,Delaware,10003,New Castle County,2010,456,Pancreatic cancer,2,Female,11.805491390621,277971
+10,Delaware,10005,Sussex County,2000,456,Pancreatic cancer,1,Male,14.5422180964673,76859
+10,Delaware,10005,Sussex County,2001,456,Pancreatic cancer,1,Male,14.5028059638363,78524
+10,Delaware,10005,Sussex County,2002,456,Pancreatic cancer,1,Male,14.5175817759599,80353
+10,Delaware,10005,Sussex County,2003,456,Pancreatic cancer,1,Male,14.4864381532396,82442
+10,Delaware,10005,Sussex County,2004,456,Pancreatic cancer,1,Male,14.5411915298327,84424
+10,Delaware,10005,Sussex County,2005,456,Pancreatic cancer,1,Male,14.7453871441388,86697
+10,Delaware,10005,Sussex County,2006,456,Pancreatic cancer,1,Male,14.5543994229433,89074
+10,Delaware,10005,Sussex County,2007,456,Pancreatic cancer,1,Male,14.4002817302419,91488
+10,Delaware,10005,Sussex County,2008,456,Pancreatic cancer,1,Male,14.0536236357173,93672
+10,Delaware,10005,Sussex County,2009,456,Pancreatic cancer,1,Male,14.3723606966807,95098
+10,Delaware,10005,Sussex County,2010,456,Pancreatic cancer,1,Male,14.3980662313017,96607
+10,Delaware,10005,Sussex County,2000,456,Pancreatic cancer,2,Female,10.6394034012313,80448
+10,Delaware,10005,Sussex County,2001,456,Pancreatic cancer,2,Female,10.9480285698614,81921
+10,Delaware,10005,Sussex County,2002,456,Pancreatic cancer,2,Female,10.5778972359917,83834
+10,Delaware,10005,Sussex County,2003,456,Pancreatic cancer,2,Female,10.8324011411145,86187
+10,Delaware,10005,Sussex County,2004,456,Pancreatic cancer,2,Female,10.5157892376569,88093
+10,Delaware,10005,Sussex County,2005,456,Pancreatic cancer,2,Female,10.7186288403087,90525
+10,Delaware,10005,Sussex County,2006,456,Pancreatic cancer,2,Female,10.6992666934442,93316
+10,Delaware,10005,Sussex County,2007,456,Pancreatic cancer,2,Female,10.7125402435248,95737
+10,Delaware,10005,Sussex County,2008,456,Pancreatic cancer,2,Female,10.4994857966964,98319
+10,Delaware,10005,Sussex County,2009,456,Pancreatic cancer,2,Female,10.6116746515489,99653
+10,Delaware,10005,Sussex County,2010,456,Pancreatic cancer,2,Female,10.6774085019481,101264
+10,Delaware,10001,Kent County,2000,423,Larynx cancer,1,Male,3.76854110312632,61351
+10,Delaware,10001,Kent County,2001,423,Larynx cancer,1,Male,3.79574282079343,62348
+10,Delaware,10001,Kent County,2002,423,Larynx cancer,1,Male,3.63206748780464,63488
+10,Delaware,10001,Kent County,2003,423,Larynx cancer,1,Male,3.5773997872987,64821
+10,Delaware,10001,Kent County,2004,423,Larynx cancer,1,Male,3.46021728385564,67247
+10,Delaware,10001,Kent County,2005,423,Larynx cancer,1,Male,3.43777927977783,69572
+10,Delaware,10001,Kent County,2006,423,Larynx cancer,1,Male,3.32539998129952,71963
+10,Delaware,10001,Kent County,2007,423,Larynx cancer,1,Male,3.25190737282998,74001
+10,Delaware,10001,Kent County,2008,423,Larynx cancer,1,Male,3.12773366364874,75938
+10,Delaware,10001,Kent County,2009,423,Larynx cancer,1,Male,3.05278506832149,76882
+10,Delaware,10001,Kent County,2010,423,Larynx cancer,1,Male,2.93055187194768,78350
+10,Delaware,10001,Kent County,2000,423,Larynx cancer,2,Female,0.742653273240417,65878
+10,Delaware,10001,Kent County,2001,423,Larynx cancer,2,Female,0.734967771870915,66880
+10,Delaware,10001,Kent County,2002,423,Larynx cancer,2,Female,0.710455095182339,68336
+10,Delaware,10001,Kent County,2003,423,Larynx cancer,2,Female,0.696249356119,69784
+10,Delaware,10001,Kent County,2004,423,Larynx cancer,2,Female,0.682245273938819,72095
+10,Delaware,10001,Kent County,2005,423,Larynx cancer,2,Female,0.679276700114337,75013
+10,Delaware,10001,Kent County,2006,423,Larynx cancer,2,Female,0.671277866132332,77741
+10,Delaware,10001,Kent County,2007,423,Larynx cancer,2,Female,0.665754536613817,79968
+10,Delaware,10001,Kent County,2008,423,Larynx cancer,2,Female,0.639789097296122,81987
+10,Delaware,10001,Kent County,2009,423,Larynx cancer,2,Female,0.628738471580101,83199
+10,Delaware,10001,Kent County,2010,423,Larynx cancer,2,Female,0.602452503875002,84562
+10,Delaware,10003,New Castle County,2000,423,Larynx cancer,1,Male,4.20828699360697,243716
+10,Delaware,10003,New Castle County,2001,423,Larynx cancer,1,Male,4.20615239054373,245478
+10,Delaware,10003,New Castle County,2002,423,Larynx cancer,1,Male,4.02742892592256,247676
+10,Delaware,10003,New Castle County,2003,423,Larynx cancer,1,Male,4.0033333309763,249938
+10,Delaware,10003,New Castle County,2004,423,Larynx cancer,1,Male,3.93227897567855,251812
+10,Delaware,10003,New Castle County,2005,423,Larynx cancer,1,Male,3.75571528521265,253654
+10,Delaware,10003,New Castle County,2006,423,Larynx cancer,1,Male,3.72005751408399,255465
+10,Delaware,10003,New Castle County,2007,423,Larynx cancer,1,Male,3.6021863392563,256862
+10,Delaware,10003,New Castle County,2008,423,Larynx cancer,1,Male,3.51854625922043,258783
+10,Delaware,10003,New Castle County,2009,423,Larynx cancer,1,Male,3.23645466736711,259955
+10,Delaware,10003,New Castle County,2010,423,Larynx cancer,1,Male,3.23616502226873,261015
+10,Delaware,10003,New Castle County,2000,423,Larynx cancer,2,Female,0.776193805519271,258121
+10,Delaware,10003,New Castle County,2001,423,Larynx cancer,2,Female,0.782562239397369,260548
+10,Delaware,10003,New Castle County,2002,423,Larynx cancer,2,Female,0.740289870189098,262482
+10,Delaware,10003,New Castle County,2003,423,Larynx cancer,2,Female,0.727465747101577,264831
+10,Delaware,10003,New Castle County,2004,423,Larynx cancer,2,Female,0.723025013689515,267132
+10,Delaware,10003,New Castle County,2005,423,Larynx cancer,2,Female,0.706809260494699,269689
+10,Delaware,10003,New Castle County,2006,423,Larynx cancer,2,Female,0.692089148522061,271709
+10,Delaware,10003,New Castle County,2007,423,Larynx cancer,2,Female,0.672529248686478,273693
+10,Delaware,10003,New Castle County,2008,423,Larynx cancer,2,Female,0.675008112108717,275175
+10,Delaware,10003,New Castle County,2009,423,Larynx cancer,2,Female,0.64532054489961,276943
+10,Delaware,10003,New Castle County,2010,423,Larynx cancer,2,Female,0.625342177496056,277971
+10,Delaware,10005,Sussex County,2000,423,Larynx cancer,1,Male,4.11537501913563,76859
+10,Delaware,10005,Sussex County,2001,423,Larynx cancer,1,Male,4.00232764927157,78524
+10,Delaware,10005,Sussex County,2002,423,Larynx cancer,1,Male,3.88013929988643,80353
+10,Delaware,10005,Sussex County,2003,423,Larynx cancer,1,Male,3.75496080300875,82442
+10,Delaware,10005,Sussex County,2004,423,Larynx cancer,1,Male,3.64252296097619,84424
+10,Delaware,10005,Sussex County,2005,423,Larynx cancer,1,Male,3.5548238302406,86697
+10,Delaware,10005,Sussex County,2006,423,Larynx cancer,1,Male,3.42988029777052,89074
+10,Delaware,10005,Sussex County,2007,423,Larynx cancer,1,Male,3.22771817275304,91488
+10,Delaware,10005,Sussex County,2008,423,Larynx cancer,1,Male,3.13605232511532,93672
+10,Delaware,10005,Sussex County,2009,423,Larynx cancer,1,Male,3.00406580474998,95098
+10,Delaware,10005,Sussex County,2010,423,Larynx cancer,1,Male,2.92854591979215,96607
+10,Delaware,10005,Sussex County,2000,423,Larynx cancer,2,Female,0.796550267269573,80448
+10,Delaware,10005,Sussex County,2001,423,Larynx cancer,2,Female,0.793912921677124,81921
+10,Delaware,10005,Sussex County,2002,423,Larynx cancer,2,Female,0.76481838162378,83834
+10,Delaware,10005,Sussex County,2003,423,Larynx cancer,2,Female,0.760320941204184,86187
+10,Delaware,10005,Sussex County,2004,423,Larynx cancer,2,Female,0.717230149092052,88093
+10,Delaware,10005,Sussex County,2005,423,Larynx cancer,2,Female,0.711181451943096,90525
+10,Delaware,10005,Sussex County,2006,423,Larynx cancer,2,Female,0.699002230991878,93316
+10,Delaware,10005,Sussex County,2007,423,Larynx cancer,2,Female,0.674046028621743,95737
+10,Delaware,10005,Sussex County,2008,423,Larynx cancer,2,Female,0.680011725272254,98319
+10,Delaware,10005,Sussex County,2009,423,Larynx cancer,2,Female,0.640528915499235,99653
+10,Delaware,10005,Sussex County,2010,423,Larynx cancer,2,Female,0.630903547424724,101264
+10,Delaware,10001,Kent County,2000,426,"Tracheal, bronchus, and lung cancer",1,Male,102.935651097195,61351
+10,Delaware,10001,Kent County,2001,426,"Tracheal, bronchus, and lung cancer",1,Male,105.388257396519,62348
+10,Delaware,10001,Kent County,2002,426,"Tracheal, bronchus, and lung cancer",1,Male,102.001612374699,63488
+10,Delaware,10001,Kent County,2003,426,"Tracheal, bronchus, and lung cancer",1,Male,101.308652517372,64821
+10,Delaware,10001,Kent County,2004,426,"Tracheal, bronchus, and lung cancer",1,Male,97.8166033851107,67247
+10,Delaware,10001,Kent County,2005,426,"Tracheal, bronchus, and lung cancer",1,Male,97.839450726981,69572
+10,Delaware,10001,Kent County,2006,426,"Tracheal, bronchus, and lung cancer",1,Male,93.2776525210332,71963
+10,Delaware,10001,Kent County,2007,426,"Tracheal, bronchus, and lung cancer",1,Male,90.399759822022,74001
+10,Delaware,10001,Kent County,2008,426,"Tracheal, bronchus, and lung cancer",1,Male,90.821717292365,75938
+10,Delaware,10001,Kent County,2009,426,"Tracheal, bronchus, and lung cancer",1,Male,89.3946393031987,76882
+10,Delaware,10001,Kent County,2010,426,"Tracheal, bronchus, and lung cancer",1,Male,87.0537400478214,78350
+10,Delaware,10001,Kent County,2000,426,"Tracheal, bronchus, and lung cancer",2,Female,59.0872423656008,65878
+10,Delaware,10001,Kent County,2001,426,"Tracheal, bronchus, and lung cancer",2,Female,60.2546476131859,66880
+10,Delaware,10001,Kent County,2002,426,"Tracheal, bronchus, and lung cancer",2,Female,59.2131466199446,68336
+10,Delaware,10001,Kent County,2003,426,"Tracheal, bronchus, and lung cancer",2,Female,59.4103401430993,69784
+10,Delaware,10001,Kent County,2004,426,"Tracheal, bronchus, and lung cancer",2,Female,59.4992757701043,72095
+10,Delaware,10001,Kent County,2005,426,"Tracheal, bronchus, and lung cancer",2,Female,59.7167890940516,75013
+10,Delaware,10001,Kent County,2006,426,"Tracheal, bronchus, and lung cancer",2,Female,58.6393696007386,77741
+10,Delaware,10001,Kent County,2007,426,"Tracheal, bronchus, and lung cancer",2,Female,58.4638939763981,79968
+10,Delaware,10001,Kent County,2008,426,"Tracheal, bronchus, and lung cancer",2,Female,58.2188123234637,81987
+10,Delaware,10001,Kent County,2009,426,"Tracheal, bronchus, and lung cancer",2,Female,57.559701555848,83199
+10,Delaware,10001,Kent County,2010,426,"Tracheal, bronchus, and lung cancer",2,Female,56.7676634067737,84562
+10,Delaware,10003,New Castle County,2000,426,"Tracheal, bronchus, and lung cancer",1,Male,92.9279600333505,243716
+10,Delaware,10003,New Castle County,2001,426,"Tracheal, bronchus, and lung cancer",1,Male,93.6439144771734,245478
+10,Delaware,10003,New Castle County,2002,426,"Tracheal, bronchus, and lung cancer",1,Male,89.7277778329119,247676
+10,Delaware,10003,New Castle County,2003,426,"Tracheal, bronchus, and lung cancer",1,Male,88.5778696614079,249938
+10,Delaware,10003,New Castle County,2004,426,"Tracheal, bronchus, and lung cancer",1,Male,86.7651712781382,251812
+10,Delaware,10003,New Castle County,2005,426,"Tracheal, bronchus, and lung cancer",1,Male,83.2619731265217,253654
+10,Delaware,10003,New Castle County,2006,426,"Tracheal, bronchus, and lung cancer",1,Male,80.4024954828181,255465
+10,Delaware,10003,New Castle County,2007,426,"Tracheal, bronchus, and lung cancer",1,Male,77.333635980004,256862
+10,Delaware,10003,New Castle County,2008,426,"Tracheal, bronchus, and lung cancer",1,Male,77.4725404422312,258783
+10,Delaware,10003,New Castle County,2009,426,"Tracheal, bronchus, and lung cancer",1,Male,71.497668482113,259955
+10,Delaware,10003,New Castle County,2010,426,"Tracheal, bronchus, and lung cancer",1,Male,72.5105618817351,261015
+10,Delaware,10003,New Castle County,2000,426,"Tracheal, bronchus, and lung cancer",2,Female,56.4236127663227,258121
+10,Delaware,10003,New Castle County,2001,426,"Tracheal, bronchus, and lung cancer",2,Female,58.3201553340849,260548
+10,Delaware,10003,New Castle County,2002,426,"Tracheal, bronchus, and lung cancer",2,Female,54.8886884886338,262482
+10,Delaware,10003,New Castle County,2003,426,"Tracheal, bronchus, and lung cancer",2,Female,54.6413434560142,264831
+10,Delaware,10003,New Castle County,2004,426,"Tracheal, bronchus, and lung cancer",2,Female,54.6139049415861,267132
+10,Delaware,10003,New Castle County,2005,426,"Tracheal, bronchus, and lung cancer",2,Female,54.0044779021613,269689
+10,Delaware,10003,New Castle County,2006,426,"Tracheal, bronchus, and lung cancer",2,Female,52.2927381579697,271709
+10,Delaware,10003,New Castle County,2007,426,"Tracheal, bronchus, and lung cancer",2,Female,51.1808298571107,273693
+10,Delaware,10003,New Castle County,2008,426,"Tracheal, bronchus, and lung cancer",2,Female,51.434462658691,275175
+10,Delaware,10003,New Castle County,2009,426,"Tracheal, bronchus, and lung cancer",2,Female,50.0931050924842,276943
+10,Delaware,10003,New Castle County,2010,426,"Tracheal, bronchus, and lung cancer",2,Female,48.7378228624261,277971
+10,Delaware,10005,Sussex County,2000,426,"Tracheal, bronchus, and lung cancer",1,Male,101.832999129181,76859
+10,Delaware,10005,Sussex County,2001,426,"Tracheal, bronchus, and lung cancer",1,Male,98.2882039875519,78524
+10,Delaware,10005,Sussex County,2002,426,"Tracheal, bronchus, and lung cancer",1,Male,95.9485838360574,80353
+10,Delaware,10005,Sussex County,2003,426,"Tracheal, bronchus, and lung cancer",1,Male,92.6146064950769,82442
+10,Delaware,10005,Sussex County,2004,426,"Tracheal, bronchus, and lung cancer",1,Male,90.9413653941907,84424
+10,Delaware,10005,Sussex County,2005,426,"Tracheal, bronchus, and lung cancer",1,Male,89.1671527134085,86697
+10,Delaware,10005,Sussex County,2006,426,"Tracheal, bronchus, and lung cancer",1,Male,85.0176588885967,89074
+10,Delaware,10005,Sussex County,2007,426,"Tracheal, bronchus, and lung cancer",1,Male,81.6163465772769,91488
+10,Delaware,10005,Sussex County,2008,426,"Tracheal, bronchus, and lung cancer",1,Male,77.5242190498891,93672
+10,Delaware,10005,Sussex County,2009,426,"Tracheal, bronchus, and lung cancer",1,Male,76.6596079432059,95098
+10,Delaware,10005,Sussex County,2010,426,"Tracheal, bronchus, and lung cancer",1,Male,74.9496583923515,96607
+10,Delaware,10005,Sussex County,2000,426,"Tracheal, bronchus, and lung cancer",2,Female,57.1256875662527,80448
+10,Delaware,10005,Sussex County,2001,426,"Tracheal, bronchus, and lung cancer",2,Female,58.1011957641079,81921
+10,Delaware,10005,Sussex County,2002,426,"Tracheal, bronchus, and lung cancer",2,Female,56.4086509649771,83834
+10,Delaware,10005,Sussex County,2003,426,"Tracheal, bronchus, and lung cancer",2,Female,57.5940848792346,86187
+10,Delaware,10005,Sussex County,2004,426,"Tracheal, bronchus, and lung cancer",2,Female,55.352528303522,88093
+10,Delaware,10005,Sussex County,2005,426,"Tracheal, bronchus, and lung cancer",2,Female,55.1853608310031,90525
+10,Delaware,10005,Sussex County,2006,426,"Tracheal, bronchus, and lung cancer",2,Female,54.6470986175008,93316
+10,Delaware,10005,Sussex County,2007,426,"Tracheal, bronchus, and lung cancer",2,Female,54.2024236206147,95737
+10,Delaware,10005,Sussex County,2008,426,"Tracheal, bronchus, and lung cancer",2,Female,53.1554516064635,98319
+10,Delaware,10005,Sussex County,2009,426,"Tracheal, bronchus, and lung cancer",2,Female,52.4251155115305,99653
+10,Delaware,10005,Sussex County,2010,426,"Tracheal, bronchus, and lung cancer",2,Female,51.8639496086399,101264
+10,Delaware,10001,Kent County,2000,459,Malignant skin melanoma,1,Male,4.75737927251409,61351
+10,Delaware,10001,Kent County,2001,459,Malignant skin melanoma,1,Male,4.97712125462487,62348
+10,Delaware,10001,Kent County,2002,459,Malignant skin melanoma,1,Male,4.94093043210394,63488
+10,Delaware,10001,Kent County,2003,459,Malignant skin melanoma,1,Male,4.99743574271036,64821
+10,Delaware,10001,Kent County,2004,459,Malignant skin melanoma,1,Male,5.003765923257,67247
+10,Delaware,10001,Kent County,2005,459,Malignant skin melanoma,1,Male,5.07515937777345,69572
+10,Delaware,10001,Kent County,2006,459,Malignant skin melanoma,1,Male,4.96665386256625,71963
+10,Delaware,10001,Kent County,2007,459,Malignant skin melanoma,1,Male,4.90052214571867,74001
+10,Delaware,10001,Kent County,2008,459,Malignant skin melanoma,1,Male,5.02401551369806,75938
+10,Delaware,10001,Kent County,2009,459,Malignant skin melanoma,1,Male,4.99151316543691,76882
+10,Delaware,10001,Kent County,2010,459,Malignant skin melanoma,1,Male,4.92660832957999,78350
+10,Delaware,10001,Kent County,2000,459,Malignant skin melanoma,2,Female,2.19924785769916,65878
+10,Delaware,10001,Kent County,2001,459,Malignant skin melanoma,2,Female,2.23414484497258,66880
+10,Delaware,10001,Kent County,2002,459,Malignant skin melanoma,2,Female,2.18244533728443,68336
+10,Delaware,10001,Kent County,2003,459,Malignant skin melanoma,2,Female,2.19757748715224,69784
+10,Delaware,10001,Kent County,2004,459,Malignant skin melanoma,2,Female,2.19737614128851,72095
+10,Delaware,10001,Kent County,2005,459,Malignant skin melanoma,2,Female,2.23813312700802,75013
+10,Delaware,10001,Kent County,2006,459,Malignant skin melanoma,2,Female,2.16615005375167,77741
+10,Delaware,10001,Kent County,2007,459,Malignant skin melanoma,2,Female,2.14459008815674,79968
+10,Delaware,10001,Kent County,2008,459,Malignant skin melanoma,2,Female,2.16137552374028,81987
+10,Delaware,10001,Kent County,2009,459,Malignant skin melanoma,2,Female,2.16781823951378,83199
+10,Delaware,10001,Kent County,2010,459,Malignant skin melanoma,2,Female,2.14553381763623,84562
+10,Delaware,10003,New Castle County,2000,459,Malignant skin melanoma,1,Male,5.05955757039342,243716
+10,Delaware,10003,New Castle County,2001,459,Malignant skin melanoma,1,Male,5.2104630893547,245478
+10,Delaware,10003,New Castle County,2002,459,Malignant skin melanoma,1,Male,5.05060921578055,247676
+10,Delaware,10003,New Castle County,2003,459,Malignant skin melanoma,1,Male,5.15405934586228,249938
+10,Delaware,10003,New Castle County,2004,459,Malignant skin melanoma,1,Male,5.14750991623254,251812
+10,Delaware,10003,New Castle County,2005,459,Malignant skin melanoma,1,Male,5.11378724875048,253654
+10,Delaware,10003,New Castle County,2006,459,Malignant skin melanoma,1,Male,5.0669797642512,255465
+10,Delaware,10003,New Castle County,2007,459,Malignant skin melanoma,1,Male,5.04428058763666,256862
+10,Delaware,10003,New Castle County,2008,459,Malignant skin melanoma,1,Male,5.10376509922384,258783
+10,Delaware,10003,New Castle County,2009,459,Malignant skin melanoma,1,Male,4.94037053382366,259955
+10,Delaware,10003,New Castle County,2010,459,Malignant skin melanoma,1,Male,5.00213283200682,261015
+10,Delaware,10003,New Castle County,2000,459,Malignant skin melanoma,2,Female,2.10531404143313,258121
+10,Delaware,10003,New Castle County,2001,459,Malignant skin melanoma,2,Female,2.17561004814929,260548
+10,Delaware,10003,New Castle County,2002,459,Malignant skin melanoma,2,Female,2.03935744413524,262482
+10,Delaware,10003,New Castle County,2003,459,Malignant skin melanoma,2,Female,2.0281760884012,264831
+10,Delaware,10003,New Castle County,2004,459,Malignant skin melanoma,2,Female,2.0267966885819,267132
+10,Delaware,10003,New Castle County,2005,459,Malignant skin melanoma,2,Female,2.05265488209656,269689
+10,Delaware,10003,New Castle County,2006,459,Malignant skin melanoma,2,Female,1.97348031673638,271709
+10,Delaware,10003,New Castle County,2007,459,Malignant skin melanoma,2,Female,1.95398497111659,273693
+10,Delaware,10003,New Castle County,2008,459,Malignant skin melanoma,2,Female,1.97048950704149,275175
+10,Delaware,10003,New Castle County,2009,459,Malignant skin melanoma,2,Female,1.97385031948512,276943
+10,Delaware,10003,New Castle County,2010,459,Malignant skin melanoma,2,Female,1.92914458704337,277971
+10,Delaware,10005,Sussex County,2000,459,Malignant skin melanoma,1,Male,5.14877059183218,76859
+10,Delaware,10005,Sussex County,2001,459,Malignant skin melanoma,1,Male,5.14403227267743,78524
+10,Delaware,10005,Sussex County,2002,459,Malignant skin melanoma,1,Male,5.19408739084513,80353
+10,Delaware,10005,Sussex County,2003,459,Malignant skin melanoma,1,Male,5.16169354475685,82442
+10,Delaware,10005,Sussex County,2004,459,Malignant skin melanoma,1,Male,5.18875127387004,84424
+10,Delaware,10005,Sussex County,2005,459,Malignant skin melanoma,1,Male,5.31255948381453,86697
+10,Delaware,10005,Sussex County,2006,459,Malignant skin melanoma,1,Male,5.24748171278223,89074
+10,Delaware,10005,Sussex County,2007,459,Malignant skin melanoma,1,Male,5.23014244388587,91488
+10,Delaware,10005,Sussex County,2008,459,Malignant skin melanoma,1,Male,5.07739744499121,93672
+10,Delaware,10005,Sussex County,2009,459,Malignant skin melanoma,1,Male,5.15838569817079,95098
+10,Delaware,10005,Sussex County,2010,459,Malignant skin melanoma,1,Male,5.11912501495009,96607
+10,Delaware,10005,Sussex County,2000,459,Malignant skin melanoma,2,Female,2.17349949809635,80448
+10,Delaware,10005,Sussex County,2001,459,Malignant skin melanoma,2,Female,2.19373263376907,81921
+10,Delaware,10005,Sussex County,2002,459,Malignant skin melanoma,2,Female,2.1230559420025,83834
+10,Delaware,10005,Sussex County,2003,459,Malignant skin melanoma,2,Female,2.17079680246963,86187
+10,Delaware,10005,Sussex County,2004,459,Malignant skin melanoma,2,Female,2.09932759045252,88093
+10,Delaware,10005,Sussex County,2005,459,Malignant skin melanoma,2,Female,2.13820075766563,90525
+10,Delaware,10005,Sussex County,2006,459,Malignant skin melanoma,2,Female,2.10583191601067,93316
+10,Delaware,10005,Sussex County,2007,459,Malignant skin melanoma,2,Female,2.11433310446735,95737
+10,Delaware,10005,Sussex County,2008,459,Malignant skin melanoma,2,Female,2.0543257179895,98319
+10,Delaware,10005,Sussex County,2009,459,Malignant skin melanoma,2,Female,2.08400663528777,99653
+10,Delaware,10005,Sussex County,2010,459,Malignant skin melanoma,2,Female,2.08291038317502,101264
+10,Delaware,10001,Kent County,2000,462,Non-melanoma skin cancer,1,Male,1.9663190501023,61351
+10,Delaware,10001,Kent County,2001,462,Non-melanoma skin cancer,1,Male,2.13390516852712,62348
+10,Delaware,10001,Kent County,2002,462,Non-melanoma skin cancer,1,Male,1.99262209600922,63488
+10,Delaware,10001,Kent County,2003,462,Non-melanoma skin cancer,1,Male,2.06521932134022,64821
+10,Delaware,10001,Kent County,2004,462,Non-melanoma skin cancer,1,Male,2.03698682019786,67247
+10,Delaware,10001,Kent County,2005,462,Non-melanoma skin cancer,1,Male,2.08118195347676,69572
+10,Delaware,10001,Kent County,2006,462,Non-melanoma skin cancer,1,Male,2.02557006003698,71963
+10,Delaware,10001,Kent County,2007,462,Non-melanoma skin cancer,1,Male,2.10065667950677,74001
+10,Delaware,10001,Kent County,2008,462,Non-melanoma skin cancer,1,Male,2.09915339129927,75938
+10,Delaware,10001,Kent County,2009,462,Non-melanoma skin cancer,1,Male,2.12840094669168,76882
+10,Delaware,10001,Kent County,2010,462,Non-melanoma skin cancer,1,Male,2.26328752928064,78350
+10,Delaware,10001,Kent County,2000,462,Non-melanoma skin cancer,2,Female,0.455052929626774,65878
+10,Delaware,10001,Kent County,2001,462,Non-melanoma skin cancer,2,Female,0.467540736253311,66880
+10,Delaware,10001,Kent County,2002,462,Non-melanoma skin cancer,2,Female,0.453620680767635,68336
+10,Delaware,10001,Kent County,2003,462,Non-melanoma skin cancer,2,Female,0.463350414611268,69784
+10,Delaware,10001,Kent County,2004,462,Non-melanoma skin cancer,2,Female,0.45161927515536,72095
+10,Delaware,10001,Kent County,2005,462,Non-melanoma skin cancer,2,Female,0.452907257001695,75013
+10,Delaware,10001,Kent County,2006,462,Non-melanoma skin cancer,2,Female,0.448560675238307,77741
+10,Delaware,10001,Kent County,2007,462,Non-melanoma skin cancer,2,Female,0.455263774737792,79968
+10,Delaware,10001,Kent County,2008,462,Non-melanoma skin cancer,2,Female,0.461278368387122,81987
+10,Delaware,10001,Kent County,2009,462,Non-melanoma skin cancer,2,Female,0.465211628359897,83199
+10,Delaware,10001,Kent County,2010,462,Non-melanoma skin cancer,2,Female,0.46637219664371,84562
+10,Delaware,10003,New Castle County,2000,462,Non-melanoma skin cancer,1,Male,1.7145556431887,243716
+10,Delaware,10003,New Castle County,2001,462,Non-melanoma skin cancer,1,Male,1.64740067032945,245478
+10,Delaware,10003,New Castle County,2002,462,Non-melanoma skin cancer,1,Male,1.81109314570911,247676
+10,Delaware,10003,New Castle County,2003,462,Non-melanoma skin cancer,1,Male,1.71987923988107,249938
+10,Delaware,10003,New Castle County,2004,462,Non-melanoma skin cancer,1,Male,1.74197847070536,251812
+10,Delaware,10003,New Castle County,2005,462,Non-melanoma skin cancer,1,Male,1.76589522404344,253654
+10,Delaware,10003,New Castle County,2006,462,Non-melanoma skin cancer,1,Male,2.0497850105845,255465
+10,Delaware,10003,New Castle County,2007,462,Non-melanoma skin cancer,1,Male,1.77988248973739,256862
+10,Delaware,10003,New Castle County,2008,462,Non-melanoma skin cancer,1,Male,1.71163497457634,258783
+10,Delaware,10003,New Castle County,2009,462,Non-melanoma skin cancer,1,Male,2.24768343213415,259955
+10,Delaware,10003,New Castle County,2010,462,Non-melanoma skin cancer,1,Male,1.9263708485705,261015
+10,Delaware,10003,New Castle County,2000,462,Non-melanoma skin cancer,2,Female,0.44522291230458,258121
+10,Delaware,10003,New Castle County,2001,462,Non-melanoma skin cancer,2,Female,0.451393518942996,260548
+10,Delaware,10003,New Castle County,2002,462,Non-melanoma skin cancer,2,Female,0.424809650282609,262482
+10,Delaware,10003,New Castle County,2003,462,Non-melanoma skin cancer,2,Female,0.435274658089089,264831
+10,Delaware,10003,New Castle County,2004,462,Non-melanoma skin cancer,2,Female,0.433423740843473,267132
+10,Delaware,10003,New Castle County,2005,462,Non-melanoma skin cancer,2,Female,0.423126706246364,269689
+10,Delaware,10003,New Castle County,2006,462,Non-melanoma skin cancer,2,Female,0.423554783883716,271709
+10,Delaware,10003,New Castle County,2007,462,Non-melanoma skin cancer,2,Female,0.416428993161585,273693
+10,Delaware,10003,New Castle County,2008,462,Non-melanoma skin cancer,2,Female,0.448662127455627,275175
+10,Delaware,10003,New Castle County,2009,462,Non-melanoma skin cancer,2,Female,0.439843670437967,276943
+10,Delaware,10003,New Castle County,2010,462,Non-melanoma skin cancer,2,Female,0.426956517266107,277971
+10,Delaware,10005,Sussex County,2000,462,Non-melanoma skin cancer,1,Male,1.70856199406671,76859
+10,Delaware,10005,Sussex County,2001,462,Non-melanoma skin cancer,1,Male,1.77603453310892,78524
+10,Delaware,10005,Sussex County,2002,462,Non-melanoma skin cancer,1,Male,1.89367930602311,80353
+10,Delaware,10005,Sussex County,2003,462,Non-melanoma skin cancer,1,Male,1.78330211071221,82442
+10,Delaware,10005,Sussex County,2004,462,Non-melanoma skin cancer,1,Male,1.7843370741298,84424
+10,Delaware,10005,Sussex County,2005,462,Non-melanoma skin cancer,1,Male,1.74777792826399,86697
+10,Delaware,10005,Sussex County,2006,462,Non-melanoma skin cancer,1,Male,1.78042085226773,89074
+10,Delaware,10005,Sussex County,2007,462,Non-melanoma skin cancer,1,Male,1.70107448985936,91488
+10,Delaware,10005,Sussex County,2008,462,Non-melanoma skin cancer,1,Male,1.68669659360389,93672
+10,Delaware,10005,Sussex County,2009,462,Non-melanoma skin cancer,1,Male,1.75899853267328,95098
+10,Delaware,10005,Sussex County,2010,462,Non-melanoma skin cancer,1,Male,1.84267038858511,96607
+10,Delaware,10005,Sussex County,2000,462,Non-melanoma skin cancer,2,Female,0.555186507421237,80448
+10,Delaware,10005,Sussex County,2001,462,Non-melanoma skin cancer,2,Female,0.573892601116982,81921
+10,Delaware,10005,Sussex County,2002,462,Non-melanoma skin cancer,2,Female,0.547764349370242,83834
+10,Delaware,10005,Sussex County,2003,462,Non-melanoma skin cancer,2,Female,0.568554798731618,86187
+10,Delaware,10005,Sussex County,2004,462,Non-melanoma skin cancer,2,Female,0.540815728255107,88093
+10,Delaware,10005,Sussex County,2005,462,Non-melanoma skin cancer,2,Female,0.549437558531165,90525
+10,Delaware,10005,Sussex County,2006,462,Non-melanoma skin cancer,2,Female,0.545386305484978,93316
+10,Delaware,10005,Sussex County,2007,462,Non-melanoma skin cancer,2,Female,0.551103712868091,95737
+10,Delaware,10005,Sussex County,2008,462,Non-melanoma skin cancer,2,Female,0.545674969091638,98319
+10,Delaware,10005,Sussex County,2009,462,Non-melanoma skin cancer,2,Female,0.556494511709729,99653
+10,Delaware,10005,Sussex County,2010,462,Non-melanoma skin cancer,2,Female,0.572484517389738,101264
+10,Delaware,10001,Kent County,2000,429,Breast cancer,1,Male,0.526023085950836,61351
+10,Delaware,10001,Kent County,2001,429,Breast cancer,1,Male,0.538316772775769,62348
+10,Delaware,10001,Kent County,2002,429,Breast cancer,1,Male,0.516691366012993,63488
+10,Delaware,10001,Kent County,2003,429,Breast cancer,1,Male,0.50334735973748,64821
+10,Delaware,10001,Kent County,2004,429,Breast cancer,1,Male,0.485183935310547,67247
+10,Delaware,10001,Kent County,2005,429,Breast cancer,1,Male,0.489041585589018,69572
+10,Delaware,10001,Kent County,2006,429,Breast cancer,1,Male,0.473524014776377,71963
+10,Delaware,10001,Kent County,2007,429,Breast cancer,1,Male,0.461568594718362,74001
+10,Delaware,10001,Kent County,2008,429,Breast cancer,1,Male,0.48371021837855,75938
+10,Delaware,10001,Kent County,2009,429,Breast cancer,1,Male,0.47303887342,76882
+10,Delaware,10001,Kent County,2010,429,Breast cancer,1,Male,0.470449159980924,78350
+10,Delaware,10001,Kent County,2000,429,Breast cancer,2,Female,33.1718447006017,65878
+10,Delaware,10001,Kent County,2001,429,Breast cancer,2,Female,33.2443870456667,66880
+10,Delaware,10001,Kent County,2002,429,Breast cancer,2,Female,32.1310665349303,68336
+10,Delaware,10001,Kent County,2003,429,Breast cancer,2,Female,31.8844946817969,69784
+10,Delaware,10001,Kent County,2004,429,Breast cancer,2,Female,31.4824584767904,72095
+10,Delaware,10001,Kent County,2005,429,Breast cancer,2,Female,31.4780201092088,75013
+10,Delaware,10001,Kent County,2006,429,Breast cancer,2,Female,30.7108727743089,77741
+10,Delaware,10001,Kent County,2007,429,Breast cancer,2,Female,30.4409048483143,79968
+10,Delaware,10001,Kent County,2008,429,Breast cancer,2,Female,30.1791075136522,81987
+10,Delaware,10001,Kent County,2009,429,Breast cancer,2,Female,29.9519383326101,83199
+10,Delaware,10001,Kent County,2010,429,Breast cancer,2,Female,29.6139930445999,84562
+10,Delaware,10003,New Castle County,2000,429,Breast cancer,1,Male,0.484975450573221,243716
+10,Delaware,10003,New Castle County,2001,429,Breast cancer,1,Male,0.488028467413192,245478
+10,Delaware,10003,New Castle County,2002,429,Breast cancer,1,Male,0.46181863958306,247676
+10,Delaware,10003,New Castle County,2003,429,Breast cancer,1,Male,0.445380370933542,249938
+10,Delaware,10003,New Castle County,2004,429,Breast cancer,1,Male,0.431812081316555,251812
+10,Delaware,10003,New Castle County,2005,429,Breast cancer,1,Male,0.423386401053642,253654
+10,Delaware,10003,New Castle County,2006,429,Breast cancer,1,Male,0.413403651075232,255465
+10,Delaware,10003,New Castle County,2007,429,Breast cancer,1,Male,0.403774340369589,256862
+10,Delaware,10003,New Castle County,2008,429,Breast cancer,1,Male,0.411859551879202,258783
+10,Delaware,10003,New Castle County,2009,429,Breast cancer,1,Male,0.390065634775912,259955
+10,Delaware,10003,New Castle County,2010,429,Breast cancer,1,Male,0.396693367973628,261015
+10,Delaware,10003,New Castle County,2000,429,Breast cancer,2,Female,32.6444105926427,258121
+10,Delaware,10003,New Castle County,2001,429,Breast cancer,2,Female,33.0992987369601,260548
+10,Delaware,10003,New Castle County,2002,429,Breast cancer,2,Female,30.6740954954061,262482
+10,Delaware,10003,New Castle County,2003,429,Breast cancer,2,Female,30.1511406658717,264831
+10,Delaware,10003,New Castle County,2004,429,Breast cancer,2,Female,29.9739102451049,267132
+10,Delaware,10003,New Castle County,2005,429,Breast cancer,2,Female,29.6206274173781,269689
+10,Delaware,10003,New Castle County,2006,429,Breast cancer,2,Female,28.2621314591568,271709
+10,Delaware,10003,New Castle County,2007,429,Breast cancer,2,Female,27.683895370648,273693
+10,Delaware,10003,New Castle County,2008,429,Breast cancer,2,Female,27.8420873893305,275175
+10,Delaware,10003,New Castle County,2009,429,Breast cancer,2,Female,27.122589646088,276943
+10,Delaware,10003,New Castle County,2010,429,Breast cancer,2,Female,26.6506626490539,277971
+10,Delaware,10005,Sussex County,2000,429,Breast cancer,1,Male,0.474306919642548,76859
+10,Delaware,10005,Sussex County,2001,429,Breast cancer,1,Male,0.460260168731826,78524
+10,Delaware,10005,Sussex County,2002,429,Breast cancer,1,Male,0.442860144955943,80353
+10,Delaware,10005,Sussex County,2003,429,Breast cancer,1,Male,0.421672397086026,82442
+10,Delaware,10005,Sussex County,2004,429,Breast cancer,1,Male,0.410261117035732,84424
+10,Delaware,10005,Sussex County,2005,429,Breast cancer,1,Male,0.407580046227635,86697
+10,Delaware,10005,Sussex County,2006,429,Breast cancer,1,Male,0.393816161579465,89074
+10,Delaware,10005,Sussex County,2007,429,Breast cancer,1,Male,0.384263066258762,91488
+10,Delaware,10005,Sussex County,2008,429,Breast cancer,1,Male,0.370332052341192,93672
+10,Delaware,10005,Sussex County,2009,429,Breast cancer,1,Male,0.374209799162785,95098
+10,Delaware,10005,Sussex County,2010,429,Breast cancer,1,Male,0.37078159241775,96607
+10,Delaware,10005,Sussex County,2000,429,Breast cancer,2,Female,30.1506152347672,80448
+10,Delaware,10005,Sussex County,2001,429,Breast cancer,2,Female,30.3673581702844,81921
+10,Delaware,10005,Sussex County,2002,429,Breast cancer,2,Female,28.9435781154866,83834
+10,Delaware,10005,Sussex County,2003,429,Breast cancer,2,Female,29.201152999484,86187
+10,Delaware,10005,Sussex County,2004,429,Breast cancer,2,Female,27.766185526006,88093
+10,Delaware,10005,Sussex County,2005,429,Breast cancer,2,Female,27.8486922285084,90525
+10,Delaware,10005,Sussex County,2006,429,Breast cancer,2,Female,27.3488110200382,93316
+10,Delaware,10005,Sussex County,2007,429,Breast cancer,2,Female,27.25457632074,95737
+10,Delaware,10005,Sussex County,2008,429,Breast cancer,2,Female,26.2840040887087,98319
+10,Delaware,10005,Sussex County,2009,429,Breast cancer,2,Female,26.139617750376,99653
+10,Delaware,10005,Sussex County,2010,429,Breast cancer,2,Female,26.2456659741646,101264
+10,Delaware,10001,Kent County,2000,432,Cervical cancer,2,Female,5.16840975316415,65878
+10,Delaware,10001,Kent County,2001,432,Cervical cancer,2,Female,5.16797348373004,66880
+10,Delaware,10001,Kent County,2002,432,Cervical cancer,2,Female,5.00327794257747,68336
+10,Delaware,10001,Kent County,2003,432,Cervical cancer,2,Female,4.94048156217927,69784
+10,Delaware,10001,Kent County,2004,432,Cervical cancer,2,Female,4.85822358501585,72095
+10,Delaware,10001,Kent County,2005,432,Cervical cancer,2,Female,4.8541332074093,75013
+10,Delaware,10001,Kent County,2006,432,Cervical cancer,2,Female,4.81623581875023,77741
+10,Delaware,10001,Kent County,2007,432,Cervical cancer,2,Female,4.87758714852353,79968
+10,Delaware,10001,Kent County,2008,432,Cervical cancer,2,Female,4.76479620473969,81987
+10,Delaware,10001,Kent County,2009,432,Cervical cancer,2,Female,4.83262870075929,83199
+10,Delaware,10001,Kent County,2010,432,Cervical cancer,2,Female,4.71389575548886,84562
+10,Delaware,10003,New Castle County,2000,432,Cervical cancer,2,Female,4.28317481895235,258121
+10,Delaware,10003,New Castle County,2001,432,Cervical cancer,2,Female,4.40017939034831,260548
+10,Delaware,10003,New Castle County,2002,432,Cervical cancer,2,Female,4.16111178073121,262482
+10,Delaware,10003,New Castle County,2003,432,Cervical cancer,2,Female,4.1576154126526,264831
+10,Delaware,10003,New Castle County,2004,432,Cervical cancer,2,Female,4.13917223071088,267132
+10,Delaware,10003,New Castle County,2005,432,Cervical cancer,2,Female,4.14688689715445,269689
+10,Delaware,10003,New Castle County,2006,432,Cervical cancer,2,Female,4.09836257477971,271709
+10,Delaware,10003,New Castle County,2007,432,Cervical cancer,2,Female,4.10805670535965,273693
+10,Delaware,10003,New Castle County,2008,432,Cervical cancer,2,Female,4.1250964786359,275175
+10,Delaware,10003,New Castle County,2009,432,Cervical cancer,2,Female,4.10086438751215,276943
+10,Delaware,10003,New Castle County,2010,432,Cervical cancer,2,Female,4.0284043496658,277971
+10,Delaware,10005,Sussex County,2000,432,Cervical cancer,2,Female,5.14073408491711,80448
+10,Delaware,10005,Sussex County,2001,432,Cervical cancer,2,Female,5.12098363378254,81921
+10,Delaware,10005,Sussex County,2002,432,Cervical cancer,2,Female,4.90771556992872,83834
+10,Delaware,10005,Sussex County,2003,432,Cervical cancer,2,Female,4.8685333932905,86187
+10,Delaware,10005,Sussex County,2004,432,Cervical cancer,2,Female,4.57801987397861,88093
+10,Delaware,10005,Sussex County,2005,432,Cervical cancer,2,Female,4.50989766947621,90525
+10,Delaware,10005,Sussex County,2006,432,Cervical cancer,2,Female,4.45566393305656,93316
+10,Delaware,10005,Sussex County,2007,432,Cervical cancer,2,Female,4.38027888914763,95737
+10,Delaware,10005,Sussex County,2008,432,Cervical cancer,2,Female,4.35323488866875,98319
+10,Delaware,10005,Sussex County,2009,432,Cervical cancer,2,Female,4.22647985652941,99653
+10,Delaware,10005,Sussex County,2010,432,Cervical cancer,2,Female,4.22149148317602,101264
+10,Delaware,10001,Kent County,2000,435,Uterine cancer,2,Female,4.20637400691957,65878
+10,Delaware,10001,Kent County,2001,435,Uterine cancer,2,Female,4.30530212232171,66880
+10,Delaware,10001,Kent County,2002,435,Uterine cancer,2,Female,4.26484679856844,68336
+10,Delaware,10001,Kent County,2003,435,Uterine cancer,2,Female,4.32170734081376,69784
+10,Delaware,10001,Kent County,2004,435,Uterine cancer,2,Female,4.35091330954447,72095
+10,Delaware,10001,Kent County,2005,435,Uterine cancer,2,Female,4.42387784278436,75013
+10,Delaware,10001,Kent County,2006,435,Uterine cancer,2,Female,4.4212682397827,77741
+10,Delaware,10001,Kent County,2007,435,Uterine cancer,2,Female,4.46397514296109,79968
+10,Delaware,10001,Kent County,2008,435,Uterine cancer,2,Female,4.53726274816219,81987
+10,Delaware,10001,Kent County,2009,435,Uterine cancer,2,Female,4.59367076444796,83199
+10,Delaware,10001,Kent County,2010,435,Uterine cancer,2,Female,4.62372105004026,84562
+10,Delaware,10003,New Castle County,2000,435,Uterine cancer,2,Female,4.35304461992911,258121
+10,Delaware,10003,New Castle County,2001,435,Uterine cancer,2,Female,4.56096148111117,260548
+10,Delaware,10003,New Castle County,2002,435,Uterine cancer,2,Female,4.3785158216462,262482
+10,Delaware,10003,New Castle County,2003,435,Uterine cancer,2,Female,4.42469365858703,264831
+10,Delaware,10003,New Castle County,2004,435,Uterine cancer,2,Female,4.51260348972823,267132
+10,Delaware,10003,New Castle County,2005,435,Uterine cancer,2,Female,4.57205611087005,269689
+10,Delaware,10003,New Castle County,2006,435,Uterine cancer,2,Female,4.52172354977467,271709
+10,Delaware,10003,New Castle County,2007,435,Uterine cancer,2,Female,4.54725565824339,273693
+10,Delaware,10003,New Castle County,2008,435,Uterine cancer,2,Female,4.70839089449076,275175
+10,Delaware,10003,New Castle County,2009,435,Uterine cancer,2,Female,4.7017445336519,276943
+10,Delaware,10003,New Castle County,2010,435,Uterine cancer,2,Female,4.71702020330904,277971
+10,Delaware,10005,Sussex County,2000,435,Uterine cancer,2,Female,4.2820074354222,80448
+10,Delaware,10005,Sussex County,2001,435,Uterine cancer,2,Female,4.38431111747539,81921
+10,Delaware,10005,Sussex County,2002,435,Uterine cancer,2,Female,4.29096092337094,83834
+10,Delaware,10005,Sussex County,2003,435,Uterine cancer,2,Female,4.3930318121833,86187
+10,Delaware,10005,Sussex County,2004,435,Uterine cancer,2,Female,4.27776309279951,88093
+10,Delaware,10005,Sussex County,2005,435,Uterine cancer,2,Female,4.31763907876567,90525
+10,Delaware,10005,Sussex County,2006,435,Uterine cancer,2,Female,4.33405706948804,93316
+10,Delaware,10005,Sussex County,2007,435,Uterine cancer,2,Female,4.36459382616024,95737
+10,Delaware,10005,Sussex County,2008,435,Uterine cancer,2,Female,4.36171619014442,98319
+10,Delaware,10005,Sussex County,2009,435,Uterine cancer,2,Female,4.39091346703753,99653
+10,Delaware,10005,Sussex County,2010,435,Uterine cancer,2,Female,4.45189413032312,101264
+10,Delaware,10001,Kent County,2000,465,Ovarian cancer,2,Female,10.375571334125,65878
+10,Delaware,10001,Kent County,2001,465,Ovarian cancer,2,Female,10.6060697477846,66880
+10,Delaware,10001,Kent County,2002,465,Ovarian cancer,2,Female,10.3382834083848,68336
+10,Delaware,10001,Kent County,2003,465,Ovarian cancer,2,Female,10.3869969428895,69784
+10,Delaware,10001,Kent County,2004,465,Ovarian cancer,2,Female,10.3086930488781,72095
+10,Delaware,10001,Kent County,2005,465,Ovarian cancer,2,Female,10.3453151160358,75013
+10,Delaware,10001,Kent County,2006,465,Ovarian cancer,2,Female,10.1092874063098,77741
+10,Delaware,10001,Kent County,2007,465,Ovarian cancer,2,Female,9.93202317103797,79968
+10,Delaware,10001,Kent County,2008,465,Ovarian cancer,2,Female,9.86140170667047,81987
+10,Delaware,10001,Kent County,2009,465,Ovarian cancer,2,Female,9.74259062394037,83199
+10,Delaware,10001,Kent County,2010,465,Ovarian cancer,2,Female,9.58349894032656,84562
+10,Delaware,10003,New Castle County,2000,465,Ovarian cancer,2,Female,9.87707034869488,258121
+10,Delaware,10003,New Castle County,2001,465,Ovarian cancer,2,Female,10.3490255072607,260548
+10,Delaware,10003,New Castle County,2002,465,Ovarian cancer,2,Female,9.68276638364926,262482
+10,Delaware,10003,New Castle County,2003,465,Ovarian cancer,2,Female,9.6144653986754,264831
+10,Delaware,10003,New Castle County,2004,465,Ovarian cancer,2,Female,9.60731122530059,267132
+10,Delaware,10003,New Castle County,2005,465,Ovarian cancer,2,Female,9.62153015701341,269689
+10,Delaware,10003,New Castle County,2006,465,Ovarian cancer,2,Female,9.25800073394505,271709
+10,Delaware,10003,New Castle County,2007,465,Ovarian cancer,2,Female,9.06162919538629,273693
+10,Delaware,10003,New Castle County,2008,465,Ovarian cancer,2,Female,9.01506572957568,275175
+10,Delaware,10003,New Castle County,2009,465,Ovarian cancer,2,Female,8.88495161450956,276943
+10,Delaware,10003,New Castle County,2010,465,Ovarian cancer,2,Female,8.65911359728985,277971
+10,Delaware,10005,Sussex County,2000,465,Ovarian cancer,2,Female,9.95091470918466,80448
+10,Delaware,10005,Sussex County,2001,465,Ovarian cancer,2,Female,10.1836726838667,81921
+10,Delaware,10005,Sussex County,2002,465,Ovarian cancer,2,Female,9.78119691682845,83834
+10,Delaware,10005,Sussex County,2003,465,Ovarian cancer,2,Female,9.93117171191906,86187
+10,Delaware,10005,Sussex County,2004,465,Ovarian cancer,2,Female,9.58047130288944,88093
+10,Delaware,10005,Sussex County,2005,465,Ovarian cancer,2,Female,9.62887155407681,90525
+10,Delaware,10005,Sussex County,2006,465,Ovarian cancer,2,Female,9.44277395806993,93316
+10,Delaware,10005,Sussex County,2007,465,Ovarian cancer,2,Female,9.37377209800483,95737
+10,Delaware,10005,Sussex County,2008,465,Ovarian cancer,2,Female,9.06585663398364,98319
+10,Delaware,10005,Sussex County,2009,465,Ovarian cancer,2,Female,8.99319943691976,99653
+10,Delaware,10005,Sussex County,2010,465,Ovarian cancer,2,Female,8.96580460431635,101264
+10,Delaware,10001,Kent County,2000,438,Prostate cancer,1,Male,31.4084233426684,61351
+10,Delaware,10001,Kent County,2001,438,Prostate cancer,1,Male,32.1052777939504,62348
+10,Delaware,10001,Kent County,2002,438,Prostate cancer,1,Male,30.624090672602,63488
+10,Delaware,10001,Kent County,2003,438,Prostate cancer,1,Male,30.1293142008163,64821
+10,Delaware,10001,Kent County,2004,438,Prostate cancer,1,Male,29.101074554337,67247
+10,Delaware,10001,Kent County,2005,438,Prostate cancer,1,Male,28.8511068660818,69572
+10,Delaware,10001,Kent County,2006,438,Prostate cancer,1,Male,27.2528414783505,71963
+10,Delaware,10001,Kent County,2007,438,Prostate cancer,1,Male,26.3297358489238,74001
+10,Delaware,10001,Kent County,2008,438,Prostate cancer,1,Male,27.079454620683,75938
+10,Delaware,10001,Kent County,2009,438,Prostate cancer,1,Male,25.8854620613962,76882
+10,Delaware,10001,Kent County,2010,438,Prostate cancer,1,Male,25.4168157351547,78350
+10,Delaware,10003,New Castle County,2000,438,Prostate cancer,1,Male,32.7648789711244,243716
+10,Delaware,10003,New Castle County,2001,438,Prostate cancer,1,Male,34.3233201490786,245478
+10,Delaware,10003,New Castle County,2002,438,Prostate cancer,1,Male,32.1391476666664,247676
+10,Delaware,10003,New Castle County,2003,438,Prostate cancer,1,Male,31.5937166504711,249938
+10,Delaware,10003,New Castle County,2004,438,Prostate cancer,1,Male,30.8937001440775,251812
+10,Delaware,10003,New Castle County,2005,438,Prostate cancer,1,Male,29.7641786575738,253654
+10,Delaware,10003,New Castle County,2006,438,Prostate cancer,1,Male,28.386356659384,255465
+10,Delaware,10003,New Castle County,2007,438,Prostate cancer,1,Male,27.7950938716156,256862
+10,Delaware,10003,New Castle County,2008,438,Prostate cancer,1,Male,28.4023711825966,258783
+10,Delaware,10003,New Castle County,2009,438,Prostate cancer,1,Male,26.6140553217868,259955
+10,Delaware,10003,New Castle County,2010,438,Prostate cancer,1,Male,26.763634343514,261015
+10,Delaware,10005,Sussex County,2000,438,Prostate cancer,1,Male,30.3643652819628,76859
+10,Delaware,10005,Sussex County,2001,438,Prostate cancer,1,Male,28.9497720823616,78524
+10,Delaware,10005,Sussex County,2002,438,Prostate cancer,1,Male,28.2334447335537,80353
+10,Delaware,10005,Sussex County,2003,438,Prostate cancer,1,Male,27.3772597819048,82442
+10,Delaware,10005,Sussex County,2004,438,Prostate cancer,1,Male,26.4839298625202,84424
+10,Delaware,10005,Sussex County,2005,438,Prostate cancer,1,Male,25.5958148379597,86697
+10,Delaware,10005,Sussex County,2006,438,Prostate cancer,1,Male,24.2796221854278,89074
+10,Delaware,10005,Sussex County,2007,438,Prostate cancer,1,Male,23.4419946056312,91488
+10,Delaware,10005,Sussex County,2008,438,Prostate cancer,1,Male,21.9675120544679,93672
+10,Delaware,10005,Sussex County,2009,438,Prostate cancer,1,Male,22.4051364104235,95098
+10,Delaware,10005,Sussex County,2010,438,Prostate cancer,1,Male,21.8743742895261,96607
+10,Delaware,10001,Kent County,2000,468,Testicular cancer,1,Male,0.242011807651495,61351
+10,Delaware,10001,Kent County,2001,468,Testicular cancer,1,Male,0.252271216935183,62348
+10,Delaware,10001,Kent County,2002,468,Testicular cancer,1,Male,0.247746106162358,63488
+10,Delaware,10001,Kent County,2003,468,Testicular cancer,1,Male,0.244856355412564,64821
+10,Delaware,10001,Kent County,2004,468,Testicular cancer,1,Male,0.242552704883792,67247
+10,Delaware,10001,Kent County,2005,468,Testicular cancer,1,Male,0.240089214231715,69572
+10,Delaware,10001,Kent County,2006,468,Testicular cancer,1,Male,0.236050507482546,71963
+10,Delaware,10001,Kent County,2007,468,Testicular cancer,1,Male,0.233083784871278,74001
+10,Delaware,10001,Kent County,2008,468,Testicular cancer,1,Male,0.238200962601926,75938
+10,Delaware,10001,Kent County,2009,468,Testicular cancer,1,Male,0.233964687966931,76882
+10,Delaware,10001,Kent County,2010,468,Testicular cancer,1,Male,0.228715438170391,78350
+10,Delaware,10003,New Castle County,2000,468,Testicular cancer,1,Male,0.222700727672327,243716
+10,Delaware,10003,New Castle County,2001,468,Testicular cancer,1,Male,0.22118890955384,245478
+10,Delaware,10003,New Castle County,2002,468,Testicular cancer,1,Male,0.215995299577492,247676
+10,Delaware,10003,New Castle County,2003,468,Testicular cancer,1,Male,0.213877478323562,249938
+10,Delaware,10003,New Castle County,2004,468,Testicular cancer,1,Male,0.217216508586768,251812
+10,Delaware,10003,New Castle County,2005,468,Testicular cancer,1,Male,0.21750583300144,253654
+10,Delaware,10003,New Castle County,2006,468,Testicular cancer,1,Male,0.216136559508114,255465
+10,Delaware,10003,New Castle County,2007,468,Testicular cancer,1,Male,0.212294877159778,256862
+10,Delaware,10003,New Castle County,2008,468,Testicular cancer,1,Male,0.208090318953753,258783
+10,Delaware,10003,New Castle County,2009,468,Testicular cancer,1,Male,0.201221902072119,259955
+10,Delaware,10003,New Castle County,2010,468,Testicular cancer,1,Male,0.206502186540621,261015
+10,Delaware,10005,Sussex County,2000,468,Testicular cancer,1,Male,0.268785171609221,76859
+10,Delaware,10005,Sussex County,2001,468,Testicular cancer,1,Male,0.2693493156989,78524
+10,Delaware,10005,Sussex County,2002,468,Testicular cancer,1,Male,0.274527190910185,80353
+10,Delaware,10005,Sussex County,2003,468,Testicular cancer,1,Male,0.261560638774041,82442
+10,Delaware,10005,Sussex County,2004,468,Testicular cancer,1,Male,0.263553509151218,84424
+10,Delaware,10005,Sussex County,2005,468,Testicular cancer,1,Male,0.265049617190384,86697
+10,Delaware,10005,Sussex County,2006,468,Testicular cancer,1,Male,0.262125064300575,89074
+10,Delaware,10005,Sussex County,2007,468,Testicular cancer,1,Male,0.250064963687584,91488
+10,Delaware,10005,Sussex County,2008,468,Testicular cancer,1,Male,0.236804194844516,93672
+10,Delaware,10005,Sussex County,2009,468,Testicular cancer,1,Male,0.239094233205629,95098
+10,Delaware,10005,Sussex County,2010,468,Testicular cancer,1,Male,0.236130361488276,96607
+10,Delaware,10001,Kent County,2000,471,Kidney cancer,1,Male,6.8551630342132,61351
+10,Delaware,10001,Kent County,2001,471,Kidney cancer,1,Male,7.10547326940545,62348
+10,Delaware,10001,Kent County,2002,471,Kidney cancer,1,Male,6.98781994671278,63488
+10,Delaware,10001,Kent County,2003,471,Kidney cancer,1,Male,7.00847407631517,64821
+10,Delaware,10001,Kent County,2004,471,Kidney cancer,1,Male,6.8777504429015,67247
+10,Delaware,10001,Kent County,2005,471,Kidney cancer,1,Male,6.95172053432459,69572
+10,Delaware,10001,Kent County,2006,471,Kidney cancer,1,Male,6.76088859149588,71963
+10,Delaware,10001,Kent County,2007,471,Kidney cancer,1,Male,6.66382353515284,74001
+10,Delaware,10001,Kent County,2008,471,Kidney cancer,1,Male,6.84773617402797,75938
+10,Delaware,10001,Kent County,2009,471,Kidney cancer,1,Male,6.78489623557808,76882
+10,Delaware,10001,Kent County,2010,471,Kidney cancer,1,Male,6.70380633034489,78350
+10,Delaware,10001,Kent County,2000,471,Kidney cancer,2,Female,3.15557564027634,65878
+10,Delaware,10001,Kent County,2001,471,Kidney cancer,2,Female,3.20958606901075,66880
+10,Delaware,10001,Kent County,2002,471,Kidney cancer,2,Female,3.10762082452558,68336
+10,Delaware,10001,Kent County,2003,471,Kidney cancer,2,Female,3.10322948640048,69784
+10,Delaware,10001,Kent County,2004,471,Kidney cancer,2,Female,3.09548782546923,72095
+10,Delaware,10001,Kent County,2005,471,Kidney cancer,2,Female,3.13372388921699,75013
+10,Delaware,10001,Kent County,2006,471,Kidney cancer,2,Female,3.0433385646824,77741
+10,Delaware,10001,Kent County,2007,471,Kidney cancer,2,Female,2.99615260489767,79968
+10,Delaware,10001,Kent County,2008,471,Kidney cancer,2,Female,2.98846543129399,81987
+10,Delaware,10001,Kent County,2009,471,Kidney cancer,2,Female,2.98543337703112,83199
+10,Delaware,10001,Kent County,2010,471,Kidney cancer,2,Female,2.96644678400225,84562
+10,Delaware,10003,New Castle County,2000,471,Kidney cancer,1,Male,6.65667906310397,243716
+10,Delaware,10003,New Castle County,2001,471,Kidney cancer,1,Male,6.83341717545401,245478
+10,Delaware,10003,New Castle County,2002,471,Kidney cancer,1,Male,6.69266292687617,247676
+10,Delaware,10003,New Castle County,2003,471,Kidney cancer,1,Male,6.67433348692399,249938
+10,Delaware,10003,New Castle County,2004,471,Kidney cancer,1,Male,6.62207748218112,251812
+10,Delaware,10003,New Castle County,2005,471,Kidney cancer,1,Male,6.51988795417149,253654
+10,Delaware,10003,New Castle County,2006,471,Kidney cancer,1,Male,6.46490567312021,255465
+10,Delaware,10003,New Castle County,2007,471,Kidney cancer,1,Male,6.41429057517041,256862
+10,Delaware,10003,New Castle County,2008,471,Kidney cancer,1,Male,6.49613181968437,258783
+10,Delaware,10003,New Castle County,2009,471,Kidney cancer,1,Male,6.20363433617757,259955
+10,Delaware,10003,New Castle County,2010,471,Kidney cancer,1,Male,6.32953225365751,261015
+10,Delaware,10003,New Castle County,2000,471,Kidney cancer,2,Female,3.0303414229457,258121
+10,Delaware,10003,New Castle County,2001,471,Kidney cancer,2,Female,3.18126467750616,260548
+10,Delaware,10003,New Castle County,2002,471,Kidney cancer,2,Female,2.95567040335192,262482
+10,Delaware,10003,New Castle County,2003,471,Kidney cancer,2,Female,2.94968695569985,264831
+10,Delaware,10003,New Castle County,2004,471,Kidney cancer,2,Female,2.96076560076981,267132
+10,Delaware,10003,New Castle County,2005,471,Kidney cancer,2,Female,2.97944668063771,269689
+10,Delaware,10003,New Castle County,2006,471,Kidney cancer,2,Female,2.88345705661206,271709
+10,Delaware,10003,New Castle County,2007,471,Kidney cancer,2,Female,2.82958909384357,273693
+10,Delaware,10003,New Castle County,2008,471,Kidney cancer,2,Female,2.85484877875575,275175
+10,Delaware,10003,New Castle County,2009,471,Kidney cancer,2,Female,2.82723998509453,276943
+10,Delaware,10003,New Castle County,2010,471,Kidney cancer,2,Female,2.79087005017653,277971
+10,Delaware,10005,Sussex County,2000,471,Kidney cancer,1,Male,6.79088633831343,76859
+10,Delaware,10005,Sussex County,2001,471,Kidney cancer,1,Male,6.73393074490879,78524
+10,Delaware,10005,Sussex County,2002,471,Kidney cancer,1,Male,6.66901894085213,80353
+10,Delaware,10005,Sussex County,2003,471,Kidney cancer,1,Male,6.59072669034261,82442
+10,Delaware,10005,Sussex County,2004,471,Kidney cancer,1,Male,6.53991693315899,84424
+10,Delaware,10005,Sussex County,2005,471,Kidney cancer,1,Male,6.53792901395908,86697
+10,Delaware,10005,Sussex County,2006,471,Kidney cancer,1,Male,6.39151757034898,89074
+10,Delaware,10005,Sussex County,2007,471,Kidney cancer,1,Male,6.31186790012842,91488
+10,Delaware,10005,Sussex County,2008,471,Kidney cancer,1,Male,6.11297801353062,93672
+10,Delaware,10005,Sussex County,2009,471,Kidney cancer,1,Male,6.21914514845056,95098
+10,Delaware,10005,Sussex County,2010,471,Kidney cancer,1,Male,6.1636214404279,96607
+10,Delaware,10005,Sussex County,2000,471,Kidney cancer,2,Female,2.8731284498871,80448
+10,Delaware,10005,Sussex County,2001,471,Kidney cancer,2,Female,2.90940805707114,81921
+10,Delaware,10005,Sussex County,2002,471,Kidney cancer,2,Female,2.78378333678989,83834
+10,Delaware,10005,Sussex County,2003,471,Kidney cancer,2,Female,2.80696517382561,86187
+10,Delaware,10005,Sussex County,2004,471,Kidney cancer,2,Female,2.70019272434614,88093
+10,Delaware,10005,Sussex County,2005,471,Kidney cancer,2,Female,2.71388883466604,90525
+10,Delaware,10005,Sussex County,2006,471,Kidney cancer,2,Female,2.67297745008267,93316
+10,Delaware,10005,Sussex County,2007,471,Kidney cancer,2,Female,2.64835785015761,95737
+10,Delaware,10005,Sussex County,2008,471,Kidney cancer,2,Female,2.54963783469137,98319
+10,Delaware,10005,Sussex County,2009,471,Kidney cancer,2,Female,2.54653422244017,99653
+10,Delaware,10005,Sussex County,2010,471,Kidney cancer,2,Female,2.53562497636763,101264
+10,Delaware,10001,Kent County,2000,474,Bladder cancer,1,Male,9.75635587440717,61351
+10,Delaware,10001,Kent County,2001,474,Bladder cancer,1,Male,10.085163986096,62348
+10,Delaware,10001,Kent County,2002,474,Bladder cancer,1,Male,9.99816443926623,63488
+10,Delaware,10001,Kent County,2003,474,Bladder cancer,1,Male,10.1182448833198,64821
+10,Delaware,10001,Kent County,2004,474,Bladder cancer,1,Male,10.0038075653929,67247
+10,Delaware,10001,Kent County,2005,474,Bladder cancer,1,Male,10.1750081924009,69572
+10,Delaware,10001,Kent County,2006,474,Bladder cancer,1,Male,9.91707132536162,71963
+10,Delaware,10001,Kent County,2007,474,Bladder cancer,1,Male,9.77452900603349,74001
+10,Delaware,10001,Kent County,2008,474,Bladder cancer,1,Male,9.9963513836895,75938
+10,Delaware,10001,Kent County,2009,474,Bladder cancer,1,Male,9.91372899201117,76882
+10,Delaware,10001,Kent County,2010,474,Bladder cancer,1,Male,9.81598706084356,78350
+10,Delaware,10001,Kent County,2000,474,Bladder cancer,2,Female,3.1479155636088,65878
+10,Delaware,10001,Kent County,2001,474,Bladder cancer,2,Female,3.20503461260199,66880
+10,Delaware,10001,Kent County,2002,474,Bladder cancer,2,Female,3.16493942709517,68336
+10,Delaware,10001,Kent County,2003,474,Bladder cancer,2,Female,3.17463528867875,69784
+10,Delaware,10001,Kent County,2004,474,Bladder cancer,2,Female,3.19063207634198,72095
+10,Delaware,10001,Kent County,2005,474,Bladder cancer,2,Female,3.22420041733549,75013
+10,Delaware,10001,Kent County,2006,474,Bladder cancer,2,Female,3.17736994201478,77741
+10,Delaware,10001,Kent County,2007,474,Bladder cancer,2,Female,3.17788012719716,79968
+10,Delaware,10001,Kent County,2008,474,Bladder cancer,2,Female,3.16438612496584,81987
+10,Delaware,10001,Kent County,2009,474,Bladder cancer,2,Female,3.18455659656665,83199
+10,Delaware,10001,Kent County,2010,474,Bladder cancer,2,Female,3.18333420674935,84562
+10,Delaware,10003,New Castle County,2000,474,Bladder cancer,1,Male,10.0975468224923,243716
+10,Delaware,10003,New Castle County,2001,474,Bladder cancer,1,Male,10.4216903785982,245478
+10,Delaware,10003,New Castle County,2002,474,Bladder cancer,1,Male,10.2649278930893,247676
+10,Delaware,10003,New Castle County,2003,474,Bladder cancer,1,Male,10.3341276837093,249938
+10,Delaware,10003,New Castle County,2004,474,Bladder cancer,1,Male,10.3040953630312,251812
+10,Delaware,10003,New Castle County,2005,474,Bladder cancer,1,Male,10.1747242350714,253654
+10,Delaware,10003,New Castle County,2006,474,Bladder cancer,1,Male,10.0592628657924,255465
+10,Delaware,10003,New Castle County,2007,474,Bladder cancer,1,Male,9.94713710802079,256862
+10,Delaware,10003,New Castle County,2008,474,Bladder cancer,1,Male,10.1520383826189,258783
+10,Delaware,10003,New Castle County,2009,474,Bladder cancer,1,Male,9.75320854754421,259955
+10,Delaware,10003,New Castle County,2010,474,Bladder cancer,1,Male,9.97637737160425,261015
+10,Delaware,10003,New Castle County,2000,474,Bladder cancer,2,Female,3.21385569782045,258121
+10,Delaware,10003,New Castle County,2001,474,Bladder cancer,2,Female,3.33128504536401,260548
+10,Delaware,10003,New Castle County,2002,474,Bladder cancer,2,Female,3.19180737069372,262482
+10,Delaware,10003,New Castle County,2003,474,Bladder cancer,2,Female,3.16213404090967,264831
+10,Delaware,10003,New Castle County,2004,474,Bladder cancer,2,Female,3.23316752143421,267132
+10,Delaware,10003,New Castle County,2005,474,Bladder cancer,2,Female,3.20460673592515,269689
+10,Delaware,10003,New Castle County,2006,474,Bladder cancer,2,Female,3.10614076951931,271709
+10,Delaware,10003,New Castle County,2007,474,Bladder cancer,2,Female,3.07421529910228,273693
+10,Delaware,10003,New Castle County,2008,474,Bladder cancer,2,Female,3.15550166189459,275175
+10,Delaware,10003,New Castle County,2009,474,Bladder cancer,2,Female,3.10321922743204,276943
+10,Delaware,10003,New Castle County,2010,474,Bladder cancer,2,Female,3.06898414692563,277971
+10,Delaware,10005,Sussex County,2000,474,Bladder cancer,1,Male,9.37855112757346,76859
+10,Delaware,10005,Sussex County,2001,474,Bladder cancer,1,Male,9.24297169008542,78524
+10,Delaware,10005,Sussex County,2002,474,Bladder cancer,1,Male,9.27851212926122,80353
+10,Delaware,10005,Sussex County,2003,474,Bladder cancer,1,Male,9.20419432802949,82442
+10,Delaware,10005,Sussex County,2004,474,Bladder cancer,1,Male,9.17082719960267,84424
+10,Delaware,10005,Sussex County,2005,474,Bladder cancer,1,Male,9.19735313712654,86697
+10,Delaware,10005,Sussex County,2006,474,Bladder cancer,1,Male,9.06667555062736,89074
+10,Delaware,10005,Sussex County,2007,474,Bladder cancer,1,Male,8.94261197837238,91488
+10,Delaware,10005,Sussex County,2008,474,Bladder cancer,1,Male,8.67670169169024,93672
+10,Delaware,10005,Sussex County,2009,474,Bladder cancer,1,Male,8.83460639224743,95098
+10,Delaware,10005,Sussex County,2010,474,Bladder cancer,1,Male,8.76777830356274,96607
+10,Delaware,10005,Sussex County,2000,474,Bladder cancer,2,Female,2.95949801632194,80448
+10,Delaware,10005,Sussex County,2001,474,Bladder cancer,2,Female,3.02234329314667,81921
+10,Delaware,10005,Sussex County,2002,474,Bladder cancer,2,Female,2.9480577352597,83834
+10,Delaware,10005,Sussex County,2003,474,Bladder cancer,2,Female,2.98544639606958,86187
+10,Delaware,10005,Sussex County,2004,474,Bladder cancer,2,Female,2.88064321558021,88093
+10,Delaware,10005,Sussex County,2005,474,Bladder cancer,2,Female,2.90162745551318,90525
+10,Delaware,10005,Sussex County,2006,474,Bladder cancer,2,Female,2.87538291715596,93316
+10,Delaware,10005,Sussex County,2007,474,Bladder cancer,2,Female,2.86683774619402,95737
+10,Delaware,10005,Sussex County,2008,474,Bladder cancer,2,Female,2.83563837698592,98319
+10,Delaware,10005,Sussex County,2009,474,Bladder cancer,2,Female,2.81685971457842,99653
+10,Delaware,10005,Sussex County,2010,474,Bladder cancer,2,Female,2.82493623195704,101264
+10,Delaware,10001,Kent County,2000,477,Brain and nervous system cancer,1,Male,5.39554263710456,61351
+10,Delaware,10001,Kent County,2001,477,Brain and nervous system cancer,1,Male,5.54305628379799,62348
+10,Delaware,10001,Kent County,2002,477,Brain and nervous system cancer,1,Male,5.45327337087289,63488
+10,Delaware,10001,Kent County,2003,477,Brain and nervous system cancer,1,Male,5.47421485226919,64821
+10,Delaware,10001,Kent County,2004,477,Brain and nervous system cancer,1,Male,5.3916935683283,67247
+10,Delaware,10001,Kent County,2005,477,Brain and nervous system cancer,1,Male,5.44189308207509,69572
+10,Delaware,10001,Kent County,2006,477,Brain and nervous system cancer,1,Male,5.27790491860573,71963
+10,Delaware,10001,Kent County,2007,477,Brain and nervous system cancer,1,Male,5.24538628715603,74001
+10,Delaware,10001,Kent County,2008,477,Brain and nervous system cancer,1,Male,5.42665964065671,75938
+10,Delaware,10001,Kent County,2009,477,Brain and nervous system cancer,1,Male,5.39990783647236,76882
+10,Delaware,10001,Kent County,2010,477,Brain and nervous system cancer,1,Male,5.29498978035615,78350
+10,Delaware,10001,Kent County,2000,477,Brain and nervous system cancer,2,Female,3.63932199130261,65878
+10,Delaware,10001,Kent County,2001,477,Brain and nervous system cancer,2,Female,3.70335287030846,66880
+10,Delaware,10001,Kent County,2002,477,Brain and nervous system cancer,2,Female,3.5927705467836,68336
+10,Delaware,10001,Kent County,2003,477,Brain and nervous system cancer,2,Female,3.61970811271702,69784
+10,Delaware,10001,Kent County,2004,477,Brain and nervous system cancer,2,Female,3.63235064784696,72095
+10,Delaware,10001,Kent County,2005,477,Brain and nervous system cancer,2,Female,3.69229237108596,75013
+10,Delaware,10001,Kent County,2006,477,Brain and nervous system cancer,2,Female,3.55835117060276,77741
+10,Delaware,10001,Kent County,2007,477,Brain and nervous system cancer,2,Female,3.55190974291651,79968
+10,Delaware,10001,Kent County,2008,477,Brain and nervous system cancer,2,Female,3.6301808487853,81987
+10,Delaware,10001,Kent County,2009,477,Brain and nervous system cancer,2,Female,3.60832886429783,83199
+10,Delaware,10001,Kent County,2010,477,Brain and nervous system cancer,2,Female,3.56938368324671,84562
+10,Delaware,10003,New Castle County,2000,477,Brain and nervous system cancer,1,Male,5.61619729671082,243716
+10,Delaware,10003,New Castle County,2001,477,Brain and nervous system cancer,1,Male,5.70369700720335,245478
+10,Delaware,10003,New Castle County,2002,477,Brain and nervous system cancer,1,Male,5.52893676503763,247676
+10,Delaware,10003,New Castle County,2003,477,Brain and nervous system cancer,1,Male,5.54050645999444,249938
+10,Delaware,10003,New Castle County,2004,477,Brain and nervous system cancer,1,Male,5.51237306572792,251812
+10,Delaware,10003,New Castle County,2005,477,Brain and nervous system cancer,1,Male,5.42796495987844,253654
+10,Delaware,10003,New Castle County,2006,477,Brain and nervous system cancer,1,Male,5.4142792971182,255465
+10,Delaware,10003,New Castle County,2007,477,Brain and nervous system cancer,1,Male,5.3229617805162,256862
+10,Delaware,10003,New Castle County,2008,477,Brain and nervous system cancer,1,Male,5.42747931200537,258783
+10,Delaware,10003,New Castle County,2009,477,Brain and nervous system cancer,1,Male,5.26277993824986,259955
+10,Delaware,10003,New Castle County,2010,477,Brain and nervous system cancer,1,Male,5.28619286300473,261015
+10,Delaware,10003,New Castle County,2000,477,Brain and nervous system cancer,2,Female,3.92036413267244,258121
+10,Delaware,10003,New Castle County,2001,477,Brain and nervous system cancer,2,Female,4.068498428854,260548
+10,Delaware,10003,New Castle County,2002,477,Brain and nervous system cancer,2,Female,3.88882503438997,262482
+10,Delaware,10003,New Castle County,2003,477,Brain and nervous system cancer,2,Female,3.80159705585235,264831
+10,Delaware,10003,New Castle County,2004,477,Brain and nervous system cancer,2,Female,3.76197183301336,267132
+10,Delaware,10003,New Castle County,2005,477,Brain and nervous system cancer,2,Female,3.86572453364158,269689
+10,Delaware,10003,New Castle County,2006,477,Brain and nervous system cancer,2,Female,3.76430318235193,271709
+10,Delaware,10003,New Castle County,2007,477,Brain and nervous system cancer,2,Female,3.73119943401344,273693
+10,Delaware,10003,New Castle County,2008,477,Brain and nervous system cancer,2,Female,3.85635608118844,275175
+10,Delaware,10003,New Castle County,2009,477,Brain and nervous system cancer,2,Female,3.77569490965164,276943
+10,Delaware,10003,New Castle County,2010,477,Brain and nervous system cancer,2,Female,3.67938349027467,277971
+10,Delaware,10005,Sussex County,2000,477,Brain and nervous system cancer,1,Male,5.7189326338732,76859
+10,Delaware,10005,Sussex County,2001,477,Brain and nervous system cancer,1,Male,5.69466655956239,78524
+10,Delaware,10005,Sussex County,2002,477,Brain and nervous system cancer,1,Male,5.65217752996142,80353
+10,Delaware,10005,Sussex County,2003,477,Brain and nervous system cancer,1,Male,5.58494457830033,82442
+10,Delaware,10005,Sussex County,2004,477,Brain and nervous system cancer,1,Male,5.57317437002201,84424
+10,Delaware,10005,Sussex County,2005,477,Brain and nervous system cancer,1,Male,5.66981400212519,86697
+10,Delaware,10005,Sussex County,2006,477,Brain and nervous system cancer,1,Male,5.60309173639194,89074
+10,Delaware,10005,Sussex County,2007,477,Brain and nervous system cancer,1,Male,5.50137850451119,91488
+10,Delaware,10005,Sussex County,2008,477,Brain and nervous system cancer,1,Male,5.2956936340757,93672
+10,Delaware,10005,Sussex County,2009,477,Brain and nervous system cancer,1,Male,5.48981980665966,95098
+10,Delaware,10005,Sussex County,2010,477,Brain and nervous system cancer,1,Male,5.39102071741458,96607
+10,Delaware,10005,Sussex County,2000,477,Brain and nervous system cancer,2,Female,3.76503538865221,80448
+10,Delaware,10005,Sussex County,2001,477,Brain and nervous system cancer,2,Female,3.84704811583128,81921
+10,Delaware,10005,Sussex County,2002,477,Brain and nervous system cancer,2,Female,3.70305247212888,83834
+10,Delaware,10005,Sussex County,2003,477,Brain and nervous system cancer,2,Female,3.76285637685395,86187
+10,Delaware,10005,Sussex County,2004,477,Brain and nervous system cancer,2,Female,3.66845292396271,88093
+10,Delaware,10005,Sussex County,2005,477,Brain and nervous system cancer,2,Female,3.70705439852117,90525
+10,Delaware,10005,Sussex County,2006,477,Brain and nervous system cancer,2,Female,3.68983936543728,93316
+10,Delaware,10005,Sussex County,2007,477,Brain and nervous system cancer,2,Female,3.73825492947533,95737
+10,Delaware,10005,Sussex County,2008,477,Brain and nervous system cancer,2,Female,3.64888535837513,98319
+10,Delaware,10005,Sussex County,2009,477,Brain and nervous system cancer,2,Female,3.67182643908574,99653
+10,Delaware,10005,Sussex County,2010,477,Brain and nervous system cancer,2,Female,3.67865772635728,101264
+10,Delaware,10001,Kent County,2000,480,Thyroid cancer,1,Male,0.608065674995267,61351
+10,Delaware,10001,Kent County,2001,480,Thyroid cancer,1,Male,0.631351928780147,62348
+10,Delaware,10001,Kent County,2002,480,Thyroid cancer,1,Male,0.616550140264838,63488
+10,Delaware,10001,Kent County,2003,480,Thyroid cancer,1,Male,0.613420968978888,64821
+10,Delaware,10001,Kent County,2004,480,Thyroid cancer,1,Male,0.608030904604595,67247
+10,Delaware,10001,Kent County,2005,480,Thyroid cancer,1,Male,0.624177233101434,69572
+10,Delaware,10001,Kent County,2006,480,Thyroid cancer,1,Male,0.608624684242587,71963
+10,Delaware,10001,Kent County,2007,480,Thyroid cancer,1,Male,0.604751694357544,74001
+10,Delaware,10001,Kent County,2008,480,Thyroid cancer,1,Male,0.630416694425387,75938
+10,Delaware,10001,Kent County,2009,480,Thyroid cancer,1,Male,0.6277996493985,76882
+10,Delaware,10001,Kent County,2010,480,Thyroid cancer,1,Male,0.624676105183001,78350
+10,Delaware,10001,Kent County,2000,480,Thyroid cancer,2,Female,0.53074605449448,65878
+10,Delaware,10001,Kent County,2001,480,Thyroid cancer,2,Female,0.537223641394019,66880
+10,Delaware,10001,Kent County,2002,480,Thyroid cancer,2,Female,0.532164003310282,68336
+10,Delaware,10001,Kent County,2003,480,Thyroid cancer,2,Female,0.53651715616005,69784
+10,Delaware,10001,Kent County,2004,480,Thyroid cancer,2,Female,0.538588106502557,72095
+10,Delaware,10001,Kent County,2005,480,Thyroid cancer,2,Female,0.548234471151932,75013
+10,Delaware,10001,Kent County,2006,480,Thyroid cancer,2,Female,0.541489886374586,77741
+10,Delaware,10001,Kent County,2007,480,Thyroid cancer,2,Female,0.540218118083962,79968
+10,Delaware,10001,Kent County,2008,480,Thyroid cancer,2,Female,0.55158374066685,81987
+10,Delaware,10001,Kent County,2009,480,Thyroid cancer,2,Female,0.554438423866608,83199
+10,Delaware,10001,Kent County,2010,480,Thyroid cancer,2,Female,0.547458830460711,84562
+10,Delaware,10003,New Castle County,2000,480,Thyroid cancer,1,Male,0.583511695869416,243716
+10,Delaware,10003,New Castle County,2001,480,Thyroid cancer,1,Male,0.598521607876225,245478
+10,Delaware,10003,New Castle County,2002,480,Thyroid cancer,1,Male,0.578565792819773,247676
+10,Delaware,10003,New Castle County,2003,480,Thyroid cancer,1,Male,0.570112562017479,249938
+10,Delaware,10003,New Castle County,2004,480,Thyroid cancer,1,Male,0.569297882531867,251812
+10,Delaware,10003,New Castle County,2005,480,Thyroid cancer,1,Male,0.5671433037295,253654
+10,Delaware,10003,New Castle County,2006,480,Thyroid cancer,1,Male,0.562222051874275,255465
+10,Delaware,10003,New Castle County,2007,480,Thyroid cancer,1,Male,0.563328021037396,256862
+10,Delaware,10003,New Castle County,2008,480,Thyroid cancer,1,Male,0.572923398995587,258783
+10,Delaware,10003,New Castle County,2009,480,Thyroid cancer,1,Male,0.555966255170709,259955
+10,Delaware,10003,New Castle County,2010,480,Thyroid cancer,1,Male,0.564887246136367,261015
+10,Delaware,10003,New Castle County,2000,480,Thyroid cancer,2,Female,0.55224804158901,258121
+10,Delaware,10003,New Castle County,2001,480,Thyroid cancer,2,Female,0.573421275801364,260548
+10,Delaware,10003,New Castle County,2002,480,Thyroid cancer,2,Female,0.548070177452577,262482
+10,Delaware,10003,New Castle County,2003,480,Thyroid cancer,2,Female,0.547441964256605,264831
+10,Delaware,10003,New Castle County,2004,480,Thyroid cancer,2,Female,0.558629890263663,267132
+10,Delaware,10003,New Castle County,2005,480,Thyroid cancer,2,Female,0.564833680895382,269689
+10,Delaware,10003,New Castle County,2006,480,Thyroid cancer,2,Female,0.552998912800073,271709
+10,Delaware,10003,New Castle County,2007,480,Thyroid cancer,2,Female,0.554402270805781,273693
+10,Delaware,10003,New Castle County,2008,480,Thyroid cancer,2,Female,0.570373924059782,275175
+10,Delaware,10003,New Castle County,2009,480,Thyroid cancer,2,Female,0.568196359383096,276943
+10,Delaware,10003,New Castle County,2010,480,Thyroid cancer,2,Female,0.555908532853568,277971
+10,Delaware,10005,Sussex County,2000,480,Thyroid cancer,1,Male,0.589384631397144,76859
+10,Delaware,10005,Sussex County,2001,480,Thyroid cancer,1,Male,0.584165042422458,78524
+10,Delaware,10005,Sussex County,2002,480,Thyroid cancer,1,Male,0.575805630076761,80353
+10,Delaware,10005,Sussex County,2003,480,Thyroid cancer,1,Male,0.560976437680221,82442
+10,Delaware,10005,Sussex County,2004,480,Thyroid cancer,1,Male,0.562394783513191,84424
+10,Delaware,10005,Sussex County,2005,480,Thyroid cancer,1,Male,0.5717292045447,86697
+10,Delaware,10005,Sussex County,2006,480,Thyroid cancer,1,Male,0.562682858542822,89074
+10,Delaware,10005,Sussex County,2007,480,Thyroid cancer,1,Male,0.563027152902815,91488
+10,Delaware,10005,Sussex County,2008,480,Thyroid cancer,1,Male,0.545405317011188,93672
+10,Delaware,10005,Sussex County,2009,480,Thyroid cancer,1,Male,0.563009376121259,95098
+10,Delaware,10005,Sussex County,2010,480,Thyroid cancer,1,Male,0.557841674905451,96607
+10,Delaware,10005,Sussex County,2000,480,Thyroid cancer,2,Female,0.492088047733904,80448
+10,Delaware,10005,Sussex County,2001,480,Thyroid cancer,2,Female,0.498716385499315,81921
+10,Delaware,10005,Sussex County,2002,480,Thyroid cancer,2,Female,0.489257983945034,83834
+10,Delaware,10005,Sussex County,2003,480,Thyroid cancer,2,Female,0.496078930175479,86187
+10,Delaware,10005,Sussex County,2004,480,Thyroid cancer,2,Female,0.482876407061126,88093
+10,Delaware,10005,Sussex County,2005,480,Thyroid cancer,2,Female,0.489824976253284,90525
+10,Delaware,10005,Sussex County,2006,480,Thyroid cancer,2,Female,0.486645335736755,93316
+10,Delaware,10005,Sussex County,2007,480,Thyroid cancer,2,Female,0.49128616760207,95737
+10,Delaware,10005,Sussex County,2008,480,Thyroid cancer,2,Female,0.484915014301014,98319
+10,Delaware,10005,Sussex County,2009,480,Thyroid cancer,2,Female,0.488917122400072,99653
+10,Delaware,10005,Sussex County,2010,480,Thyroid cancer,2,Female,0.48439325925756,101264
+10,Delaware,10001,Kent County,2000,483,Mesothelioma,1,Male,2.29292151653213,61351
+10,Delaware,10001,Kent County,2001,483,Mesothelioma,1,Male,2.36016116761415,62348
+10,Delaware,10001,Kent County,2002,483,Mesothelioma,1,Male,2.32691301890983,63488
+10,Delaware,10001,Kent County,2003,483,Mesothelioma,1,Male,2.34490462846406,64821
+10,Delaware,10001,Kent County,2004,483,Mesothelioma,1,Male,2.34718119005423,67247
+10,Delaware,10001,Kent County,2005,483,Mesothelioma,1,Male,2.36236443595683,69572
+10,Delaware,10001,Kent County,2006,483,Mesothelioma,1,Male,2.26015698015155,71963
+10,Delaware,10001,Kent County,2007,483,Mesothelioma,1,Male,2.2001487983612,74001
+10,Delaware,10001,Kent County,2008,483,Mesothelioma,1,Male,2.24702938143193,75938
+10,Delaware,10001,Kent County,2009,483,Mesothelioma,1,Male,2.19974862695111,76882
+10,Delaware,10001,Kent County,2010,483,Mesothelioma,1,Male,2.17692036824232,78350
+10,Delaware,10001,Kent County,2000,483,Mesothelioma,2,Female,0.347041250798588,65878
+10,Delaware,10001,Kent County,2001,483,Mesothelioma,2,Female,0.347410539478438,66880
+10,Delaware,10001,Kent County,2002,483,Mesothelioma,2,Female,0.339806792605744,68336
+10,Delaware,10001,Kent County,2003,483,Mesothelioma,2,Female,0.347217530426283,69784
+10,Delaware,10001,Kent County,2004,483,Mesothelioma,2,Female,0.354029803155508,72095
+10,Delaware,10001,Kent County,2005,483,Mesothelioma,2,Female,0.357432498482067,75013
+10,Delaware,10001,Kent County,2006,483,Mesothelioma,2,Female,0.343882294745821,77741
+10,Delaware,10001,Kent County,2007,483,Mesothelioma,2,Female,0.342856331860921,79968
+10,Delaware,10001,Kent County,2008,483,Mesothelioma,2,Female,0.357601378312061,81987
+10,Delaware,10001,Kent County,2009,483,Mesothelioma,2,Female,0.352177204954287,83199
+10,Delaware,10001,Kent County,2010,483,Mesothelioma,2,Female,0.352347910564041,84562
+10,Delaware,10003,New Castle County,2000,483,Mesothelioma,1,Male,2.63097770131908,243716
+10,Delaware,10003,New Castle County,2001,483,Mesothelioma,1,Male,2.68243128419251,245478
+10,Delaware,10003,New Castle County,2002,483,Mesothelioma,1,Male,2.61238817672251,247676
+10,Delaware,10003,New Castle County,2003,483,Mesothelioma,1,Male,2.6150847554963,249938
+10,Delaware,10003,New Castle County,2004,483,Mesothelioma,1,Male,2.62907762897455,251812
+10,Delaware,10003,New Castle County,2005,483,Mesothelioma,1,Male,2.56852820990296,253654
+10,Delaware,10003,New Castle County,2006,483,Mesothelioma,1,Male,2.48985993487049,255465
+10,Delaware,10003,New Castle County,2007,483,Mesothelioma,1,Male,2.43211015647704,256862
+10,Delaware,10003,New Castle County,2008,483,Mesothelioma,1,Male,2.47126865850224,258783
+10,Delaware,10003,New Castle County,2009,483,Mesothelioma,1,Male,2.35680809206818,259955
+10,Delaware,10003,New Castle County,2010,483,Mesothelioma,1,Male,2.39928724055547,261015
+10,Delaware,10003,New Castle County,2000,483,Mesothelioma,2,Female,0.415168735647744,258121
+10,Delaware,10003,New Castle County,2001,483,Mesothelioma,2,Female,0.423716356658832,260548
+10,Delaware,10003,New Castle County,2002,483,Mesothelioma,2,Female,0.395597174929719,262482
+10,Delaware,10003,New Castle County,2003,483,Mesothelioma,2,Female,0.399517755658565,264831
+10,Delaware,10003,New Castle County,2004,483,Mesothelioma,2,Female,0.409563990980463,267132
+10,Delaware,10003,New Castle County,2005,483,Mesothelioma,2,Female,0.416445316175866,269689
+10,Delaware,10003,New Castle County,2006,483,Mesothelioma,2,Female,0.393707917349078,271709
+10,Delaware,10003,New Castle County,2007,483,Mesothelioma,2,Female,0.393828000750333,273693
+10,Delaware,10003,New Castle County,2008,483,Mesothelioma,2,Female,0.40976300221616,275175
+10,Delaware,10003,New Castle County,2009,483,Mesothelioma,2,Female,0.408148819842716,276943
+10,Delaware,10003,New Castle County,2010,483,Mesothelioma,2,Female,0.400885096775923,277971
+10,Delaware,10005,Sussex County,2000,483,Mesothelioma,1,Male,2.33511950800204,76859
+10,Delaware,10005,Sussex County,2001,483,Mesothelioma,1,Male,2.28734045584909,78524
+10,Delaware,10005,Sussex County,2002,483,Mesothelioma,1,Male,2.28217635105065,80353
+10,Delaware,10005,Sussex County,2003,483,Mesothelioma,1,Male,2.26196039056255,82442
+10,Delaware,10005,Sussex County,2004,483,Mesothelioma,1,Male,2.29169494600529,84424
+10,Delaware,10005,Sussex County,2005,483,Mesothelioma,1,Male,2.28449171482434,86697
+10,Delaware,10005,Sussex County,2006,483,Mesothelioma,1,Male,2.21267830616756,89074
+10,Delaware,10005,Sussex County,2007,483,Mesothelioma,1,Male,2.17051633496989,91488
+10,Delaware,10005,Sussex County,2008,483,Mesothelioma,1,Male,2.08779433698858,93672
+10,Delaware,10005,Sussex County,2009,483,Mesothelioma,1,Male,2.11265786756511,95098
+10,Delaware,10005,Sussex County,2010,483,Mesothelioma,1,Male,2.10065394761789,96607
+10,Delaware,10005,Sussex County,2000,483,Mesothelioma,2,Female,0.336183772118677,80448
+10,Delaware,10005,Sussex County,2001,483,Mesothelioma,2,Female,0.333875749416678,81921
+10,Delaware,10005,Sussex County,2002,483,Mesothelioma,2,Female,0.322778467118314,83834
+10,Delaware,10005,Sussex County,2003,483,Mesothelioma,2,Female,0.333441874641725,86187
+10,Delaware,10005,Sussex County,2004,483,Mesothelioma,2,Female,0.332338787092745,88093
+10,Delaware,10005,Sussex County,2005,483,Mesothelioma,2,Female,0.335926786346985,90525
+10,Delaware,10005,Sussex County,2006,483,Mesothelioma,2,Female,0.328486983054614,93316
+10,Delaware,10005,Sussex County,2007,483,Mesothelioma,2,Female,0.338811736785072,95737
+10,Delaware,10005,Sussex County,2008,483,Mesothelioma,2,Female,0.328617052826391,98319
+10,Delaware,10005,Sussex County,2009,483,Mesothelioma,2,Female,0.33469170582187,99653
+10,Delaware,10005,Sussex County,2010,483,Mesothelioma,2,Female,0.334595863505631,101264
+10,Delaware,10001,Kent County,2000,484,Hodgkin lymphoma,1,Male,0.643360246456966,61351
+10,Delaware,10001,Kent County,2001,484,Hodgkin lymphoma,1,Male,0.662912969981759,62348
+10,Delaware,10001,Kent County,2002,484,Hodgkin lymphoma,1,Male,0.63880781420158,63488
+10,Delaware,10001,Kent County,2003,484,Hodgkin lymphoma,1,Male,0.628053413809152,64821
+10,Delaware,10001,Kent County,2004,484,Hodgkin lymphoma,1,Male,0.612265549609366,67247
+10,Delaware,10001,Kent County,2005,484,Hodgkin lymphoma,1,Male,0.603747295152718,69572
+10,Delaware,10001,Kent County,2006,484,Hodgkin lymphoma,1,Male,0.586645525620837,71963
+10,Delaware,10001,Kent County,2007,484,Hodgkin lymphoma,1,Male,0.556573692453766,74001
+10,Delaware,10001,Kent County,2008,484,Hodgkin lymphoma,1,Male,0.558378581412324,75938
+10,Delaware,10001,Kent County,2009,484,Hodgkin lymphoma,1,Male,0.539576127285561,76882
+10,Delaware,10001,Kent County,2010,484,Hodgkin lymphoma,1,Male,0.518671209079801,78350
+10,Delaware,10001,Kent County,2000,484,Hodgkin lymphoma,2,Female,0.505825422561404,65878
+10,Delaware,10001,Kent County,2001,484,Hodgkin lymphoma,2,Female,0.502564566406288,66880
+10,Delaware,10001,Kent County,2002,484,Hodgkin lymphoma,2,Female,0.487841566269825,68336
+10,Delaware,10001,Kent County,2003,484,Hodgkin lymphoma,2,Female,0.482616254592923,69784
+10,Delaware,10001,Kent County,2004,484,Hodgkin lymphoma,2,Female,0.467882220924709,72095
+10,Delaware,10001,Kent County,2005,484,Hodgkin lymphoma,2,Female,0.466335933987948,75013
+10,Delaware,10001,Kent County,2006,484,Hodgkin lymphoma,2,Female,0.441871715873376,77741
+10,Delaware,10001,Kent County,2007,484,Hodgkin lymphoma,2,Female,0.431513673332274,79968
+10,Delaware,10001,Kent County,2008,484,Hodgkin lymphoma,2,Female,0.426134360776703,81987
+10,Delaware,10001,Kent County,2009,484,Hodgkin lymphoma,2,Female,0.419719399960314,83199
+10,Delaware,10001,Kent County,2010,484,Hodgkin lymphoma,2,Female,0.396625780305808,84562
+10,Delaware,10003,New Castle County,2000,484,Hodgkin lymphoma,1,Male,0.578974697932625,243716
+10,Delaware,10003,New Castle County,2001,484,Hodgkin lymphoma,1,Male,0.571441263169406,245478
+10,Delaware,10003,New Castle County,2002,484,Hodgkin lymphoma,1,Male,0.54974564074166,247676
+10,Delaware,10003,New Castle County,2003,484,Hodgkin lymphoma,1,Male,0.538757300422138,249938
+10,Delaware,10003,New Castle County,2004,484,Hodgkin lymphoma,1,Male,0.529378719368938,251812
+10,Delaware,10003,New Castle County,2005,484,Hodgkin lymphoma,1,Male,0.510700399378192,253654
+10,Delaware,10003,New Castle County,2006,484,Hodgkin lymphoma,1,Male,0.502634878978312,255465
+10,Delaware,10003,New Castle County,2007,484,Hodgkin lymphoma,1,Male,0.481803605173822,256862
+10,Delaware,10003,New Castle County,2008,484,Hodgkin lymphoma,1,Male,0.463113274776296,258783
+10,Delaware,10003,New Castle County,2009,484,Hodgkin lymphoma,1,Male,0.436587344754841,259955
+10,Delaware,10003,New Castle County,2010,484,Hodgkin lymphoma,1,Male,0.431197754452837,261015
+10,Delaware,10003,New Castle County,2000,484,Hodgkin lymphoma,2,Female,0.469943256486213,258121
+10,Delaware,10003,New Castle County,2001,484,Hodgkin lymphoma,2,Female,0.484020310934194,260548
+10,Delaware,10003,New Castle County,2002,484,Hodgkin lymphoma,2,Female,0.443021944431609,262482
+10,Delaware,10003,New Castle County,2003,484,Hodgkin lymphoma,2,Female,0.437653975652979,264831
+10,Delaware,10003,New Castle County,2004,484,Hodgkin lymphoma,2,Female,0.423804895092584,267132
+10,Delaware,10003,New Castle County,2005,484,Hodgkin lymphoma,2,Female,0.421136881261639,269689
+10,Delaware,10003,New Castle County,2006,484,Hodgkin lymphoma,2,Female,0.394083726330917,271709
+10,Delaware,10003,New Castle County,2007,484,Hodgkin lymphoma,2,Female,0.383606513118296,273693
+10,Delaware,10003,New Castle County,2008,484,Hodgkin lymphoma,2,Female,0.373980754832779,275175
+10,Delaware,10003,New Castle County,2009,484,Hodgkin lymphoma,2,Female,0.368323317765633,276943
+10,Delaware,10003,New Castle County,2010,484,Hodgkin lymphoma,2,Female,0.34720917440575,277971
+10,Delaware,10005,Sussex County,2000,484,Hodgkin lymphoma,1,Male,0.654751311076676,76859
+10,Delaware,10005,Sussex County,2001,484,Hodgkin lymphoma,1,Male,0.641837716504296,78524
+10,Delaware,10005,Sussex County,2002,484,Hodgkin lymphoma,1,Male,0.627457606659007,80353
+10,Delaware,10005,Sussex County,2003,484,Hodgkin lymphoma,1,Male,0.611574166136895,82442
+10,Delaware,10005,Sussex County,2004,484,Hodgkin lymphoma,1,Male,0.597271669561064,84424
+10,Delaware,10005,Sussex County,2005,484,Hodgkin lymphoma,1,Male,0.590576296090087,86697
+10,Delaware,10005,Sussex County,2006,484,Hodgkin lymphoma,1,Male,0.577214345616165,89074
+10,Delaware,10005,Sussex County,2007,484,Hodgkin lymphoma,1,Male,0.547113238114047,91488
+10,Delaware,10005,Sussex County,2008,484,Hodgkin lymphoma,1,Male,0.503035085141434,93672
+10,Delaware,10005,Sussex County,2009,484,Hodgkin lymphoma,1,Male,0.501001878737786,95098
+10,Delaware,10005,Sussex County,2010,484,Hodgkin lymphoma,1,Male,0.480876877928216,96607
+10,Delaware,10005,Sussex County,2000,484,Hodgkin lymphoma,2,Female,0.498832959743799,80448
+10,Delaware,10005,Sussex County,2001,484,Hodgkin lymphoma,2,Female,0.494266945768308,81921
+10,Delaware,10005,Sussex County,2002,484,Hodgkin lymphoma,2,Female,0.47382565010895,83834
+10,Delaware,10005,Sussex County,2003,484,Hodgkin lymphoma,2,Female,0.475865996467897,86187
+10,Delaware,10005,Sussex County,2004,484,Hodgkin lymphoma,2,Female,0.449419254867142,88093
+10,Delaware,10005,Sussex County,2005,484,Hodgkin lymphoma,2,Female,0.44727684634524,90525
+10,Delaware,10005,Sussex County,2006,484,Hodgkin lymphoma,2,Female,0.432353923344952,93316
+10,Delaware,10005,Sussex County,2007,484,Hodgkin lymphoma,2,Female,0.423453821300084,95737
+10,Delaware,10005,Sussex County,2008,484,Hodgkin lymphoma,2,Female,0.403287811966847,98319
+10,Delaware,10005,Sussex County,2009,484,Hodgkin lymphoma,2,Female,0.393307018459294,99653
+10,Delaware,10005,Sussex County,2010,484,Hodgkin lymphoma,2,Female,0.381780603038809,101264
+10,Delaware,10001,Kent County,2000,485,Non-Hodgkin lymphoma,1,Male,12.23735718874,61351
+10,Delaware,10001,Kent County,2001,485,Non-Hodgkin lymphoma,1,Male,12.5507658210791,62348
+10,Delaware,10001,Kent County,2002,485,Non-Hodgkin lymphoma,1,Male,12.2797835710079,63488
+10,Delaware,10001,Kent County,2003,485,Non-Hodgkin lymphoma,1,Male,12.2632593685629,64821
+10,Delaware,10001,Kent County,2004,485,Non-Hodgkin lymphoma,1,Male,11.9174338748456,67247
+10,Delaware,10001,Kent County,2005,485,Non-Hodgkin lymphoma,1,Male,12.027030116085,69572
+10,Delaware,10001,Kent County,2006,485,Non-Hodgkin lymphoma,1,Male,11.6328337557376,71963
+10,Delaware,10001,Kent County,2007,485,Non-Hodgkin lymphoma,1,Male,11.4300432785305,74001
+10,Delaware,10001,Kent County,2008,485,Non-Hodgkin lymphoma,1,Male,11.6333924958956,75938
+10,Delaware,10001,Kent County,2009,485,Non-Hodgkin lymphoma,1,Male,11.5257731252884,76882
+10,Delaware,10001,Kent County,2010,485,Non-Hodgkin lymphoma,1,Male,11.2907447703582,78350
+10,Delaware,10001,Kent County,2000,485,Non-Hodgkin lymphoma,2,Female,7.33267276725604,65878
+10,Delaware,10001,Kent County,2001,485,Non-Hodgkin lymphoma,2,Female,7.33759093174542,66880
+10,Delaware,10001,Kent County,2002,485,Non-Hodgkin lymphoma,2,Female,7.04893079985219,68336
+10,Delaware,10001,Kent County,2003,485,Non-Hodgkin lymphoma,2,Female,6.96073369650235,69784
+10,Delaware,10001,Kent County,2004,485,Non-Hodgkin lymphoma,2,Female,6.86028635129046,72095
+10,Delaware,10001,Kent County,2005,485,Non-Hodgkin lymphoma,2,Female,6.8239056852458,75013
+10,Delaware,10001,Kent County,2006,485,Non-Hodgkin lymphoma,2,Female,6.6215024986651,77741
+10,Delaware,10001,Kent County,2007,485,Non-Hodgkin lymphoma,2,Female,6.48876898784339,79968
+10,Delaware,10001,Kent County,2008,485,Non-Hodgkin lymphoma,2,Female,6.41930812015094,81987
+10,Delaware,10001,Kent County,2009,485,Non-Hodgkin lymphoma,2,Female,6.36402330249391,83199
+10,Delaware,10001,Kent County,2010,485,Non-Hodgkin lymphoma,2,Female,6.26779963579642,84562
+10,Delaware,10003,New Castle County,2000,485,Non-Hodgkin lymphoma,1,Male,11.4322399827,243716
+10,Delaware,10003,New Castle County,2001,485,Non-Hodgkin lymphoma,1,Male,11.624673519666,245478
+10,Delaware,10003,New Castle County,2002,485,Non-Hodgkin lymphoma,1,Male,11.2607969208412,247676
+10,Delaware,10003,New Castle County,2003,485,Non-Hodgkin lymphoma,1,Male,11.2349569019108,249938
+10,Delaware,10003,New Castle County,2004,485,Non-Hodgkin lymphoma,1,Male,10.9958979002916,251812
+10,Delaware,10003,New Castle County,2005,485,Non-Hodgkin lymphoma,1,Male,10.7009387404228,253654
+10,Delaware,10003,New Castle County,2006,485,Non-Hodgkin lymphoma,1,Male,10.543678252803,255465
+10,Delaware,10003,New Castle County,2007,485,Non-Hodgkin lymphoma,1,Male,10.4234006496022,256862
+10,Delaware,10003,New Castle County,2008,485,Non-Hodgkin lymphoma,1,Male,10.4733644760009,258783
+10,Delaware,10003,New Castle County,2009,485,Non-Hodgkin lymphoma,1,Male,10.0629791083925,259955
+10,Delaware,10003,New Castle County,2010,485,Non-Hodgkin lymphoma,1,Male,10.160781838521,261015
+10,Delaware,10003,New Castle County,2000,485,Non-Hodgkin lymphoma,2,Female,7.80737965085225,258121
+10,Delaware,10003,New Castle County,2001,485,Non-Hodgkin lymphoma,2,Female,8.03578288409242,260548
+10,Delaware,10003,New Castle County,2002,485,Non-Hodgkin lymphoma,2,Female,7.42295316533161,262482
+10,Delaware,10003,New Castle County,2003,485,Non-Hodgkin lymphoma,2,Female,7.2599607752289,264831
+10,Delaware,10003,New Castle County,2004,485,Non-Hodgkin lymphoma,2,Female,7.21644803121753,267132
+10,Delaware,10003,New Castle County,2005,485,Non-Hodgkin lymphoma,2,Female,7.11072624719311,269689
+10,Delaware,10003,New Castle County,2006,485,Non-Hodgkin lymphoma,2,Female,6.81008103225077,271709
+10,Delaware,10003,New Castle County,2007,485,Non-Hodgkin lymphoma,2,Female,6.6346323681722,273693
+10,Delaware,10003,New Castle County,2008,485,Non-Hodgkin lymphoma,2,Female,6.66867470842758,275175
+10,Delaware,10003,New Castle County,2009,485,Non-Hodgkin lymphoma,2,Female,6.52742377901466,276943
+10,Delaware,10003,New Castle County,2010,485,Non-Hodgkin lymphoma,2,Female,6.39840778084145,277971
+10,Delaware,10005,Sussex County,2000,485,Non-Hodgkin lymphoma,1,Male,11.9721939241741,76859
+10,Delaware,10005,Sussex County,2001,485,Non-Hodgkin lymphoma,1,Male,11.7691650611894,78524
+10,Delaware,10005,Sussex County,2002,485,Non-Hodgkin lymphoma,1,Male,11.6250021621496,80353
+10,Delaware,10005,Sussex County,2003,485,Non-Hodgkin lymphoma,1,Male,11.4217279533659,82442
+10,Delaware,10005,Sussex County,2004,485,Non-Hodgkin lymphoma,1,Male,11.2111234724824,84424
+10,Delaware,10005,Sussex County,2005,485,Non-Hodgkin lymphoma,1,Male,11.1221719574059,86697
+10,Delaware,10005,Sussex County,2006,485,Non-Hodgkin lymphoma,1,Male,10.8855336248707,89074
+10,Delaware,10005,Sussex County,2007,485,Non-Hodgkin lymphoma,1,Male,10.6843620162854,91488
+10,Delaware,10005,Sussex County,2008,485,Non-Hodgkin lymphoma,1,Male,10.3332682115367,93672
+10,Delaware,10005,Sussex County,2009,485,Non-Hodgkin lymphoma,1,Male,10.4809146315881,95098
+10,Delaware,10005,Sussex County,2010,485,Non-Hodgkin lymphoma,1,Male,10.3042504315138,96607
+10,Delaware,10005,Sussex County,2000,485,Non-Hodgkin lymphoma,2,Female,7.61004677235658,80448
+10,Delaware,10005,Sussex County,2001,485,Non-Hodgkin lymphoma,2,Female,7.65271595018488,81921
+10,Delaware,10005,Sussex County,2002,485,Non-Hodgkin lymphoma,2,Female,7.30335545842916,83834
+10,Delaware,10005,Sussex County,2003,485,Non-Hodgkin lymphoma,2,Female,7.29586962410353,86187
+10,Delaware,10005,Sussex County,2004,485,Non-Hodgkin lymphoma,2,Female,6.95211465570552,88093
+10,Delaware,10005,Sussex County,2005,485,Non-Hodgkin lymphoma,2,Female,6.93257597178747,90525
+10,Delaware,10005,Sussex County,2006,485,Non-Hodgkin lymphoma,2,Female,6.80289083218382,93316
+10,Delaware,10005,Sussex County,2007,485,Non-Hodgkin lymphoma,2,Female,6.72547832247211,95737
+10,Delaware,10005,Sussex County,2008,485,Non-Hodgkin lymphoma,2,Female,6.53967931811148,98319
+10,Delaware,10005,Sussex County,2009,485,Non-Hodgkin lymphoma,2,Female,6.48609533167585,99653
+10,Delaware,10005,Sussex County,2010,485,Non-Hodgkin lymphoma,2,Female,6.44216266544827,101264
+10,Delaware,10001,Kent County,2000,486,Multiple myeloma,1,Male,5.40459329938907,61351
+10,Delaware,10001,Kent County,2001,486,Multiple myeloma,1,Male,5.57212582098342,62348
+10,Delaware,10001,Kent County,2002,486,Multiple myeloma,1,Male,5.50550956026466,63488
+10,Delaware,10001,Kent County,2003,486,Multiple myeloma,1,Male,5.49690081468713,64821
+10,Delaware,10001,Kent County,2004,486,Multiple myeloma,1,Male,5.34742887503406,67247
+10,Delaware,10001,Kent County,2005,486,Multiple myeloma,1,Male,5.40312464278792,69572
+10,Delaware,10001,Kent County,2006,486,Multiple myeloma,1,Male,5.21562392762765,71963
+10,Delaware,10001,Kent County,2007,486,Multiple myeloma,1,Male,5.10052764427998,74001
+10,Delaware,10001,Kent County,2008,486,Multiple myeloma,1,Male,5.26310135969159,75938
+10,Delaware,10001,Kent County,2009,486,Multiple myeloma,1,Male,5.20857709992012,76882
+10,Delaware,10001,Kent County,2010,486,Multiple myeloma,1,Male,5.13253661071148,78350
+10,Delaware,10001,Kent County,2000,486,Multiple myeloma,2,Female,3.58077101659038,65878
+10,Delaware,10001,Kent County,2001,486,Multiple myeloma,2,Female,3.63702919702158,66880
+10,Delaware,10001,Kent County,2002,486,Multiple myeloma,2,Female,3.49886248205004,68336
+10,Delaware,10001,Kent County,2003,486,Multiple myeloma,2,Female,3.4802197698994,69784
+10,Delaware,10001,Kent County,2004,486,Multiple myeloma,2,Female,3.42721424442121,72095
+10,Delaware,10001,Kent County,2005,486,Multiple myeloma,2,Female,3.44842361393918,75013
+10,Delaware,10001,Kent County,2006,486,Multiple myeloma,2,Female,3.35271516486816,77741
+10,Delaware,10001,Kent County,2007,486,Multiple myeloma,2,Female,3.26951028461697,79968
+10,Delaware,10001,Kent County,2008,486,Multiple myeloma,2,Female,3.28912210390039,81987
+10,Delaware,10001,Kent County,2009,486,Multiple myeloma,2,Female,3.26481036708024,83199
+10,Delaware,10001,Kent County,2010,486,Multiple myeloma,2,Female,3.2675525413673,84562
+10,Delaware,10003,New Castle County,2000,486,Multiple myeloma,1,Male,5.82732571272732,243716
+10,Delaware,10003,New Castle County,2001,486,Multiple myeloma,1,Male,5.97153976397987,245478
+10,Delaware,10003,New Castle County,2002,486,Multiple myeloma,1,Male,5.82013897600882,247676
+10,Delaware,10003,New Castle County,2003,486,Multiple myeloma,1,Male,5.81185101939905,249938
+10,Delaware,10003,New Castle County,2004,486,Multiple myeloma,1,Male,5.70622155901902,251812
+10,Delaware,10003,New Castle County,2005,486,Multiple myeloma,1,Male,5.63713457970659,253654
+10,Delaware,10003,New Castle County,2006,486,Multiple myeloma,1,Male,5.53757656229952,255465
+10,Delaware,10003,New Castle County,2007,486,Multiple myeloma,1,Male,5.4906948799889,256862
+10,Delaware,10003,New Castle County,2008,486,Multiple myeloma,1,Male,5.55854827104368,258783
+10,Delaware,10003,New Castle County,2009,486,Multiple myeloma,1,Male,5.36185406511029,259955
+10,Delaware,10003,New Castle County,2010,486,Multiple myeloma,1,Male,5.41953001849297,261015
+10,Delaware,10003,New Castle County,2000,486,Multiple myeloma,2,Female,3.75332010859138,258121
+10,Delaware,10003,New Castle County,2001,486,Multiple myeloma,2,Female,3.86778549012891,260548
+10,Delaware,10003,New Castle County,2002,486,Multiple myeloma,2,Female,3.5927769794284,262482
+10,Delaware,10003,New Castle County,2003,486,Multiple myeloma,2,Female,3.54851366735501,264831
+10,Delaware,10003,New Castle County,2004,486,Multiple myeloma,2,Female,3.51502350963875,267132
+10,Delaware,10003,New Castle County,2005,486,Multiple myeloma,2,Female,3.54197725899116,269689
+10,Delaware,10003,New Castle County,2006,486,Multiple myeloma,2,Female,3.37075504767997,271709
+10,Delaware,10003,New Castle County,2007,486,Multiple myeloma,2,Female,3.30256339832684,273693
+10,Delaware,10003,New Castle County,2008,486,Multiple myeloma,2,Female,3.33925406257488,275175
+10,Delaware,10003,New Castle County,2009,486,Multiple myeloma,2,Female,3.29186798294859,276943
+10,Delaware,10003,New Castle County,2010,486,Multiple myeloma,2,Female,3.24573546470365,277971
+10,Delaware,10005,Sussex County,2000,486,Multiple myeloma,1,Male,5.29861438596128,76859
+10,Delaware,10005,Sussex County,2001,486,Multiple myeloma,1,Male,5.19971719531131,78524
+10,Delaware,10005,Sussex County,2002,486,Multiple myeloma,1,Male,5.15260321071324,80353
+10,Delaware,10005,Sussex County,2003,486,Multiple myeloma,1,Male,5.04257477558608,82442
+10,Delaware,10005,Sussex County,2004,486,Multiple myeloma,1,Male,4.95897817362671,84424
+10,Delaware,10005,Sussex County,2005,486,Multiple myeloma,1,Male,4.94859083472821,86697
+10,Delaware,10005,Sussex County,2006,486,Multiple myeloma,1,Male,4.79015036635325,89074
+10,Delaware,10005,Sussex County,2007,486,Multiple myeloma,1,Male,4.6958493327905,91488
+10,Delaware,10005,Sussex County,2008,486,Multiple myeloma,1,Male,4.49167655982148,93672
+10,Delaware,10005,Sussex County,2009,486,Multiple myeloma,1,Male,4.59149276199897,95098
+10,Delaware,10005,Sussex County,2010,486,Multiple myeloma,1,Male,4.51201323131672,96607
+10,Delaware,10005,Sussex County,2000,486,Multiple myeloma,2,Female,3.31442472617135,80448
+10,Delaware,10005,Sussex County,2001,486,Multiple myeloma,2,Female,3.3363240950974,81921
+10,Delaware,10005,Sussex County,2002,486,Multiple myeloma,2,Female,3.16143760711072,83834
+10,Delaware,10005,Sussex County,2003,486,Multiple myeloma,2,Female,3.16914198288657,86187
+10,Delaware,10005,Sussex County,2004,486,Multiple myeloma,2,Female,3.01364008427512,88093
+10,Delaware,10005,Sussex County,2005,486,Multiple myeloma,2,Female,3.01320473602216,90525
+10,Delaware,10005,Sussex County,2006,486,Multiple myeloma,2,Female,2.93311731296322,93316
+10,Delaware,10005,Sussex County,2007,486,Multiple myeloma,2,Female,2.89600162741554,95737
+10,Delaware,10005,Sussex County,2008,486,Multiple myeloma,2,Female,2.76575765273688,98319
+10,Delaware,10005,Sussex County,2009,486,Multiple myeloma,2,Female,2.77328588402168,99653
+10,Delaware,10005,Sussex County,2010,486,Multiple myeloma,2,Female,2.76896403685796,101264
+10,Delaware,10001,Kent County,2000,487,Leukemia,1,Male,12.7153544063937,61351
+10,Delaware,10001,Kent County,2001,487,Leukemia,1,Male,13.2035223480959,62348
+10,Delaware,10001,Kent County,2002,487,Leukemia,1,Male,13.030983060011,63488
+10,Delaware,10001,Kent County,2003,487,Leukemia,1,Male,13.1656461346608,64821
+10,Delaware,10001,Kent County,2004,487,Leukemia,1,Male,12.9143936575452,67247
+10,Delaware,10001,Kent County,2005,487,Leukemia,1,Male,13.0899301053277,69572
+10,Delaware,10001,Kent County,2006,487,Leukemia,1,Male,12.6960701013008,71963
+10,Delaware,10001,Kent County,2007,487,Leukemia,1,Male,12.4915744179139,74001
+10,Delaware,10001,Kent County,2008,487,Leukemia,1,Male,12.9008354025732,75938
+10,Delaware,10001,Kent County,2009,487,Leukemia,1,Male,12.853840092506,76882
+10,Delaware,10001,Kent County,2010,487,Leukemia,1,Male,12.6536949458788,78350
+10,Delaware,10001,Kent County,2000,487,Leukemia,2,Female,7.09521587255905,65878
+10,Delaware,10001,Kent County,2001,487,Leukemia,2,Female,7.16843274662738,66880
+10,Delaware,10001,Kent County,2002,487,Leukemia,2,Female,6.98675730181922,68336
+10,Delaware,10001,Kent County,2003,487,Leukemia,2,Female,6.98201431890569,69784
+10,Delaware,10001,Kent County,2004,487,Leukemia,2,Female,6.9341655871369,72095
+10,Delaware,10001,Kent County,2005,487,Leukemia,2,Female,6.95471669622784,75013
+10,Delaware,10001,Kent County,2006,487,Leukemia,2,Female,6.78989906223844,77741
+10,Delaware,10001,Kent County,2007,487,Leukemia,2,Female,6.72673118807655,79968
+10,Delaware,10001,Kent County,2008,487,Leukemia,2,Female,6.73393279013091,81987
+10,Delaware,10001,Kent County,2009,487,Leukemia,2,Female,6.72119854855466,83199
+10,Delaware,10001,Kent County,2010,487,Leukemia,2,Female,6.6514726671703,84562
+10,Delaware,10003,New Castle County,2000,487,Leukemia,1,Male,13.0173976569968,243716
+10,Delaware,10003,New Castle County,2001,487,Leukemia,1,Male,13.3377536461374,245478
+10,Delaware,10003,New Castle County,2002,487,Leukemia,1,Male,13.1261217416378,247676
+10,Delaware,10003,New Castle County,2003,487,Leukemia,1,Male,13.2169272135449,249938
+10,Delaware,10003,New Castle County,2004,487,Leukemia,1,Male,13.0306865438061,251812
+10,Delaware,10003,New Castle County,2005,487,Leukemia,1,Male,12.8605877686755,253654
+10,Delaware,10003,New Castle County,2006,487,Leukemia,1,Male,12.7133043356617,255465
+10,Delaware,10003,New Castle County,2007,487,Leukemia,1,Male,12.5966587499697,256862
+10,Delaware,10003,New Castle County,2008,487,Leukemia,1,Male,12.8198292419405,258783
+10,Delaware,10003,New Castle County,2009,487,Leukemia,1,Male,12.4346979326547,259955
+10,Delaware,10003,New Castle County,2010,487,Leukemia,1,Male,12.5635706657231,261015
+10,Delaware,10003,New Castle County,2000,487,Leukemia,2,Female,7.36557799812683,258121
+10,Delaware,10003,New Castle County,2001,487,Leukemia,2,Female,7.63244060120682,260548
+10,Delaware,10003,New Castle County,2002,487,Leukemia,2,Female,7.14684686106313,262482
+10,Delaware,10003,New Castle County,2003,487,Leukemia,2,Female,7.09015938999137,264831
+10,Delaware,10003,New Castle County,2004,487,Leukemia,2,Female,7.10760308649704,267132
+10,Delaware,10003,New Castle County,2005,487,Leukemia,2,Female,7.07732138445362,269689
+10,Delaware,10003,New Castle County,2006,487,Leukemia,2,Female,6.82356722687899,271709
+10,Delaware,10003,New Castle County,2007,487,Leukemia,2,Female,6.7203390073423,273693
+10,Delaware,10003,New Castle County,2008,487,Leukemia,2,Female,6.83238895318254,275175
+10,Delaware,10003,New Castle County,2009,487,Leukemia,2,Female,6.74076118051199,276943
+10,Delaware,10003,New Castle County,2010,487,Leukemia,2,Female,6.61862414196104,277971
+10,Delaware,10005,Sussex County,2000,487,Leukemia,1,Male,13.2167873454341,76859
+10,Delaware,10005,Sussex County,2001,487,Leukemia,1,Male,13.0585077532426,78524
+10,Delaware,10005,Sussex County,2002,487,Leukemia,1,Male,13.0364993951964,80353
+10,Delaware,10005,Sussex County,2003,487,Leukemia,1,Male,12.9401097987975,82442
+10,Delaware,10005,Sussex County,2004,487,Leukemia,1,Male,12.7965620903144,84424
+10,Delaware,10005,Sussex County,2005,487,Leukemia,1,Male,12.838771717321,86697
+10,Delaware,10005,Sussex County,2006,487,Leukemia,1,Male,12.6209177474646,89074
+10,Delaware,10005,Sussex County,2007,487,Leukemia,1,Male,12.4719858984683,91488
+10,Delaware,10005,Sussex County,2008,487,Leukemia,1,Male,12.0055110524015,93672
+10,Delaware,10005,Sussex County,2009,487,Leukemia,1,Male,12.3932397697987,95098
+10,Delaware,10005,Sussex County,2010,487,Leukemia,1,Male,12.1924563902432,96607
+10,Delaware,10005,Sussex County,2000,487,Leukemia,2,Female,7.18941691473527,80448
+10,Delaware,10005,Sussex County,2001,487,Leukemia,2,Female,7.25433896564349,81921
+10,Delaware,10005,Sussex County,2002,487,Leukemia,2,Female,7.01261686090535,83834
+10,Delaware,10005,Sussex County,2003,487,Leukemia,2,Female,7.0696732651682,86187
+10,Delaware,10005,Sussex County,2004,487,Leukemia,2,Female,6.78340331157383,88093
+10,Delaware,10005,Sussex County,2005,487,Leukemia,2,Female,6.80373762019832,90525
+10,Delaware,10005,Sussex County,2006,487,Leukemia,2,Female,6.71596266874382,93316
+10,Delaware,10005,Sussex County,2007,487,Leukemia,2,Female,6.69753591343835,95737
+10,Delaware,10005,Sussex County,2008,487,Leukemia,2,Female,6.54382364608592,98319
+10,Delaware,10005,Sussex County,2009,487,Leukemia,2,Female,6.53324961423211,99653
+10,Delaware,10005,Sussex County,2010,487,Leukemia,2,Female,6.49583361519711,101264
+10,Delaware,10001,Kent County,2000,845,Acute lymphoid leukemia,1,Male,0.9005334318877,61351
+10,Delaware,10001,Kent County,2001,845,Acute lymphoid leukemia,1,Male,0.928973568746687,62348
+10,Delaware,10001,Kent County,2002,845,Acute lymphoid leukemia,1,Male,0.893068845980898,63488
+10,Delaware,10001,Kent County,2003,845,Acute lymphoid leukemia,1,Male,0.900560214054837,64821
+10,Delaware,10001,Kent County,2004,845,Acute lymphoid leukemia,1,Male,0.877969146900384,67247
+10,Delaware,10001,Kent County,2005,845,Acute lymphoid leukemia,1,Male,0.87151385373535,69572
+10,Delaware,10001,Kent County,2006,845,Acute lymphoid leukemia,1,Male,0.834002615072282,71963
+10,Delaware,10001,Kent County,2007,845,Acute lymphoid leukemia,1,Male,0.820930261093118,74001
+10,Delaware,10001,Kent County,2008,845,Acute lymphoid leukemia,1,Male,0.836390910985007,75938
+10,Delaware,10001,Kent County,2009,845,Acute lymphoid leukemia,1,Male,0.81284683894947,76882
+10,Delaware,10001,Kent County,2010,845,Acute lymphoid leukemia,1,Male,0.781984749826735,78350
+10,Delaware,10001,Kent County,2000,845,Acute lymphoid leukemia,2,Female,0.670205131346863,65878
+10,Delaware,10001,Kent County,2001,845,Acute lymphoid leukemia,2,Female,0.679387028849893,66880
+10,Delaware,10001,Kent County,2002,845,Acute lymphoid leukemia,2,Female,0.663158062627772,68336
+10,Delaware,10001,Kent County,2003,845,Acute lymphoid leukemia,2,Female,0.656572712806406,69784
+10,Delaware,10001,Kent County,2004,845,Acute lymphoid leukemia,2,Female,0.653078249908656,72095
+10,Delaware,10001,Kent County,2005,845,Acute lymphoid leukemia,2,Female,0.660169202708466,75013
+10,Delaware,10001,Kent County,2006,845,Acute lymphoid leukemia,2,Female,0.635195698969194,77741
+10,Delaware,10001,Kent County,2007,845,Acute lymphoid leukemia,2,Female,0.631346300565223,79968
+10,Delaware,10001,Kent County,2008,845,Acute lymphoid leukemia,2,Female,0.627426519386664,81987
+10,Delaware,10001,Kent County,2009,845,Acute lymphoid leukemia,2,Female,0.621718381735749,83199
+10,Delaware,10001,Kent County,2010,845,Acute lymphoid leukemia,2,Female,0.605390025314989,84562
+10,Delaware,10003,New Castle County,2000,845,Acute lymphoid leukemia,1,Male,0.877127651285635,243716
+10,Delaware,10003,New Castle County,2001,845,Acute lymphoid leukemia,1,Male,0.862850033112154,245478
+10,Delaware,10003,New Castle County,2002,845,Acute lymphoid leukemia,1,Male,0.842823560429372,247676
+10,Delaware,10003,New Castle County,2003,845,Acute lymphoid leukemia,1,Male,0.846188451654357,249938
+10,Delaware,10003,New Castle County,2004,845,Acute lymphoid leukemia,1,Male,0.834355998922455,251812
+10,Delaware,10003,New Castle County,2005,845,Acute lymphoid leukemia,1,Male,0.81550245747597,253654
+10,Delaware,10003,New Castle County,2006,845,Acute lymphoid leukemia,1,Male,0.796590689257606,255465
+10,Delaware,10003,New Castle County,2007,845,Acute lymphoid leukemia,1,Male,0.792512443039279,256862
+10,Delaware,10003,New Castle County,2008,845,Acute lymphoid leukemia,1,Male,0.783562841457012,258783
+10,Delaware,10003,New Castle County,2009,845,Acute lymphoid leukemia,1,Male,0.74867165083772,259955
+10,Delaware,10003,New Castle County,2010,845,Acute lymphoid leukemia,1,Male,0.740882956174575,261015
+10,Delaware,10003,New Castle County,2000,845,Acute lymphoid leukemia,2,Female,0.641686749965262,258121
+10,Delaware,10003,New Castle County,2001,845,Acute lymphoid leukemia,2,Female,0.664018105962929,260548
+10,Delaware,10003,New Castle County,2002,845,Acute lymphoid leukemia,2,Female,0.615651846188646,262482
+10,Delaware,10003,New Castle County,2003,845,Acute lymphoid leukemia,2,Female,0.612374267145332,264831
+10,Delaware,10003,New Castle County,2004,845,Acute lymphoid leukemia,2,Female,0.608810589196636,267132
+10,Delaware,10003,New Castle County,2005,845,Acute lymphoid leukemia,2,Female,0.620273108380879,269689
+10,Delaware,10003,New Castle County,2006,845,Acute lymphoid leukemia,2,Female,0.587800342142265,271709
+10,Delaware,10003,New Castle County,2007,845,Acute lymphoid leukemia,2,Female,0.582595609553607,273693
+10,Delaware,10003,New Castle County,2008,845,Acute lymphoid leukemia,2,Female,0.576095974748995,275175
+10,Delaware,10003,New Castle County,2009,845,Acute lymphoid leukemia,2,Female,0.575254380983373,276943
+10,Delaware,10003,New Castle County,2010,845,Acute lymphoid leukemia,2,Female,0.561362721500624,277971
+10,Delaware,10005,Sussex County,2000,845,Acute lymphoid leukemia,1,Male,0.958544242687936,76859
+10,Delaware,10005,Sussex County,2001,845,Acute lymphoid leukemia,1,Male,0.938265340739973,78524
+10,Delaware,10005,Sussex County,2002,845,Acute lymphoid leukemia,1,Male,0.920491998813878,80353
+10,Delaware,10005,Sussex County,2003,845,Acute lymphoid leukemia,1,Male,0.909823830975484,82442
+10,Delaware,10005,Sussex County,2004,845,Acute lymphoid leukemia,1,Male,0.897445873437244,84424
+10,Delaware,10005,Sussex County,2005,845,Acute lymphoid leukemia,1,Male,0.896739760903694,86697
+10,Delaware,10005,Sussex County,2006,845,Acute lymphoid leukemia,1,Male,0.869789922658314,89074
+10,Delaware,10005,Sussex County,2007,845,Acute lymphoid leukemia,1,Male,0.852329978203539,91488
+10,Delaware,10005,Sussex County,2008,845,Acute lymphoid leukemia,1,Male,0.789162674770802,93672
+10,Delaware,10005,Sussex County,2009,845,Acute lymphoid leukemia,1,Male,0.802093432053189,95098
+10,Delaware,10005,Sussex County,2010,845,Acute lymphoid leukemia,1,Male,0.769509626426517,96607
+10,Delaware,10005,Sussex County,2000,845,Acute lymphoid leukemia,2,Female,0.709767844021721,80448
+10,Delaware,10005,Sussex County,2001,845,Acute lymphoid leukemia,2,Female,0.710605394696998,81921
+10,Delaware,10005,Sussex County,2002,845,Acute lymphoid leukemia,2,Female,0.688322000306453,83834
+10,Delaware,10005,Sussex County,2003,845,Acute lymphoid leukemia,2,Female,0.692702669223908,86187
+10,Delaware,10005,Sussex County,2004,845,Acute lymphoid leukemia,2,Female,0.670801276843614,88093
+10,Delaware,10005,Sussex County,2005,845,Acute lymphoid leukemia,2,Female,0.680860159266796,90525
+10,Delaware,10005,Sussex County,2006,845,Acute lymphoid leukemia,2,Female,0.66606055969619,93316
+10,Delaware,10005,Sussex County,2007,845,Acute lymphoid leukemia,2,Female,0.666562114776593,95737
+10,Delaware,10005,Sussex County,2008,845,Acute lymphoid leukemia,2,Female,0.644038525444362,98319
+10,Delaware,10005,Sussex County,2009,845,Acute lymphoid leukemia,2,Female,0.635763156230978,99653
+10,Delaware,10005,Sussex County,2010,845,Acute lymphoid leukemia,2,Female,0.637365969528843,101264
+10,Delaware,10001,Kent County,2000,846,Chronic lymphoid leukemia,1,Male,4.34090486341244,61351
+10,Delaware,10001,Kent County,2001,846,Chronic lymphoid leukemia,1,Male,4.49019063150109,62348
+10,Delaware,10001,Kent County,2002,846,Chronic lymphoid leukemia,1,Male,4.43552341597,63488
+10,Delaware,10001,Kent County,2003,846,Chronic lymphoid leukemia,1,Male,4.46619659318268,64821
+10,Delaware,10001,Kent County,2004,846,Chronic lymphoid leukemia,1,Male,4.35712767167464,67247
+10,Delaware,10001,Kent County,2005,846,Chronic lymphoid leukemia,1,Male,4.41274493853967,69572
+10,Delaware,10001,Kent County,2006,846,Chronic lymphoid leukemia,1,Male,4.24586897874494,71963
+10,Delaware,10001,Kent County,2007,846,Chronic lymphoid leukemia,1,Male,4.13416735059538,74001
+10,Delaware,10001,Kent County,2008,846,Chronic lymphoid leukemia,1,Male,4.24680269698539,75938
+10,Delaware,10001,Kent County,2009,846,Chronic lymphoid leukemia,1,Male,4.20215845204185,76882
+10,Delaware,10001,Kent County,2010,846,Chronic lymphoid leukemia,1,Male,4.14717481370674,78350
+10,Delaware,10001,Kent County,2000,846,Chronic lymphoid leukemia,2,Female,1.94898037822952,65878
+10,Delaware,10001,Kent County,2001,846,Chronic lymphoid leukemia,2,Female,1.9416961300603,66880
+10,Delaware,10001,Kent County,2002,846,Chronic lymphoid leukemia,2,Female,1.89607280534207,68336
+10,Delaware,10001,Kent County,2003,846,Chronic lymphoid leukemia,2,Female,1.88035002234563,69784
+10,Delaware,10001,Kent County,2004,846,Chronic lymphoid leukemia,2,Female,1.85071652024952,72095
+10,Delaware,10001,Kent County,2005,846,Chronic lymphoid leukemia,2,Female,1.82438478634848,75013
+10,Delaware,10001,Kent County,2006,846,Chronic lymphoid leukemia,2,Female,1.76852250146921,77741
+10,Delaware,10001,Kent County,2007,846,Chronic lymphoid leukemia,2,Female,1.74001565627701,79968
+10,Delaware,10001,Kent County,2008,846,Chronic lymphoid leukemia,2,Female,1.72931494820178,81987
+10,Delaware,10001,Kent County,2009,846,Chronic lymphoid leukemia,2,Female,1.71965419910041,83199
+10,Delaware,10001,Kent County,2010,846,Chronic lymphoid leukemia,2,Female,1.70449013333564,84562
+10,Delaware,10003,New Castle County,2000,846,Chronic lymphoid leukemia,1,Male,4.37190863847652,243716
+10,Delaware,10003,New Castle County,2001,846,Chronic lymphoid leukemia,1,Male,4.49345600226225,245478
+10,Delaware,10003,New Castle County,2002,846,Chronic lymphoid leukemia,1,Male,4.42124693692141,247676
+10,Delaware,10003,New Castle County,2003,846,Chronic lymphoid leukemia,1,Male,4.42160057161906,249938
+10,Delaware,10003,New Castle County,2004,846,Chronic lymphoid leukemia,1,Male,4.33599391211812,251812
+10,Delaware,10003,New Castle County,2005,846,Chronic lymphoid leukemia,1,Male,4.26499555844418,253654
+10,Delaware,10003,New Castle County,2006,846,Chronic lymphoid leukemia,1,Male,4.17481883362234,255465
+10,Delaware,10003,New Castle County,2007,846,Chronic lymphoid leukemia,1,Male,4.09712134037799,256862
+10,Delaware,10003,New Castle County,2008,846,Chronic lymphoid leukemia,1,Male,4.15810149699374,258783
+10,Delaware,10003,New Castle County,2009,846,Chronic lymphoid leukemia,1,Male,4.00034913666038,259955
+10,Delaware,10003,New Castle County,2010,846,Chronic lymphoid leukemia,1,Male,4.04731320125868,261015
+10,Delaware,10003,New Castle County,2000,846,Chronic lymphoid leukemia,2,Female,2.0221657998152,258121
+10,Delaware,10003,New Castle County,2001,846,Chronic lymphoid leukemia,2,Female,2.06161979000857,260548
+10,Delaware,10003,New Castle County,2002,846,Chronic lymphoid leukemia,2,Female,1.94210524893982,262482
+10,Delaware,10003,New Castle County,2003,846,Chronic lymphoid leukemia,2,Female,1.89926865735755,264831
+10,Delaware,10003,New Castle County,2004,846,Chronic lymphoid leukemia,2,Female,1.89573220239342,267132
+10,Delaware,10003,New Castle County,2005,846,Chronic lymphoid leukemia,2,Female,1.84308586888786,269689
+10,Delaware,10003,New Castle County,2006,846,Chronic lymphoid leukemia,2,Female,1.76025872876547,271709
+10,Delaware,10003,New Castle County,2007,846,Chronic lymphoid leukemia,2,Female,1.72392034862412,273693
+10,Delaware,10003,New Castle County,2008,846,Chronic lymphoid leukemia,2,Female,1.75329563087995,275175
+10,Delaware,10003,New Castle County,2009,846,Chronic lymphoid leukemia,2,Female,1.70539672421382,276943
+10,Delaware,10003,New Castle County,2010,846,Chronic lymphoid leukemia,2,Female,1.66056250963918,277971
+10,Delaware,10005,Sussex County,2000,846,Chronic lymphoid leukemia,1,Male,4.73462460370619,76859
+10,Delaware,10005,Sussex County,2001,846,Chronic lymphoid leukemia,1,Male,4.65901598510887,78524
+10,Delaware,10005,Sussex County,2002,846,Chronic lymphoid leukemia,1,Male,4.64934367602883,80353
+10,Delaware,10005,Sussex County,2003,846,Chronic lymphoid leukemia,1,Male,4.59698997027858,82442
+10,Delaware,10005,Sussex County,2004,846,Chronic lymphoid leukemia,1,Male,4.51828625141405,84424
+10,Delaware,10005,Sussex County,2005,846,Chronic lymphoid leukemia,1,Male,4.51833852062953,86697
+10,Delaware,10005,Sussex County,2006,846,Chronic lymphoid leukemia,1,Male,4.40805465532341,89074
+10,Delaware,10005,Sussex County,2007,846,Chronic lymphoid leukemia,1,Male,4.33064167654742,91488
+10,Delaware,10005,Sussex County,2008,846,Chronic lymphoid leukemia,1,Male,4.14524958508915,93672
+10,Delaware,10005,Sussex County,2009,846,Chronic lymphoid leukemia,1,Male,4.25829490422616,95098
+10,Delaware,10005,Sussex County,2010,846,Chronic lymphoid leukemia,1,Male,4.19740571856007,96607
+10,Delaware,10005,Sussex County,2000,846,Chronic lymphoid leukemia,2,Female,2.10239426821391,80448
+10,Delaware,10005,Sussex County,2001,846,Chronic lymphoid leukemia,2,Female,2.10221848087917,81921
+10,Delaware,10005,Sussex County,2002,846,Chronic lymphoid leukemia,2,Female,2.03373337161567,83834
+10,Delaware,10005,Sussex County,2003,846,Chronic lymphoid leukemia,2,Female,2.03264960288122,86187
+10,Delaware,10005,Sussex County,2004,846,Chronic lymphoid leukemia,2,Female,1.92758774660568,88093
+10,Delaware,10005,Sussex County,2005,846,Chronic lymphoid leukemia,2,Female,1.90688233068797,90525
+10,Delaware,10005,Sussex County,2006,846,Chronic lymphoid leukemia,2,Female,1.86484622358179,93316
+10,Delaware,10005,Sussex County,2007,846,Chronic lymphoid leukemia,2,Female,1.85517903553249,95737
+10,Delaware,10005,Sussex County,2008,846,Chronic lymphoid leukemia,2,Female,1.79556625403262,98319
+10,Delaware,10005,Sussex County,2009,846,Chronic lymphoid leukemia,2,Female,1.79648004495516,99653
+10,Delaware,10005,Sussex County,2010,846,Chronic lymphoid leukemia,2,Female,1.76433031509827,101264
+10,Delaware,10001,Kent County,2000,847,Acute myeloid leukemia,1,Male,6.05902464811734,61351
+10,Delaware,10001,Kent County,2001,847,Acute myeloid leukemia,1,Male,6.44514645490253,62348
+10,Delaware,10001,Kent County,2002,847,Acute myeloid leukemia,1,Male,6.50140515413806,63488
+10,Delaware,10001,Kent County,2003,847,Acute myeloid leukemia,1,Male,6.67794260214855,64821
+10,Delaware,10001,Kent County,2004,847,Acute myeloid leukemia,1,Male,6.64341387620366,67247
+10,Delaware,10001,Kent County,2005,847,Acute myeloid leukemia,1,Male,6.81618031282289,69572
+10,Delaware,10001,Kent County,2006,847,Acute myeloid leukemia,1,Male,6.69321361599067,71963
+10,Delaware,10001,Kent County,2007,847,Acute myeloid leukemia,1,Male,6.66836621224979,74001
+10,Delaware,10001,Kent County,2008,847,Acute myeloid leukemia,1,Male,6.93992490626002,75938
+10,Delaware,10001,Kent County,2009,847,Acute myeloid leukemia,1,Male,6.99892019699373,76882
+10,Delaware,10001,Kent County,2010,847,Acute myeloid leukemia,1,Male,6.90681344391942,78350
+10,Delaware,10001,Kent County,2000,847,Acute myeloid leukemia,2,Female,3.65112830284809,65878
+10,Delaware,10001,Kent County,2001,847,Acute myeloid leukemia,2,Female,3.77819813995532,66880
+10,Delaware,10001,Kent County,2002,847,Acute myeloid leukemia,2,Female,3.73802803187429,68336
+10,Delaware,10001,Kent County,2003,847,Acute myeloid leukemia,2,Female,3.80916026387915,69784
+10,Delaware,10001,Kent County,2004,847,Acute myeloid leukemia,2,Female,3.83796457497927,72095
+10,Delaware,10001,Kent County,2005,847,Acute myeloid leukemia,2,Female,3.91279797722642,75013
+10,Delaware,10001,Kent County,2006,847,Acute myeloid leukemia,2,Female,3.86526207365015,77741
+10,Delaware,10001,Kent County,2007,847,Acute myeloid leukemia,2,Female,3.85867239037702,79968
+10,Delaware,10001,Kent County,2008,847,Acute myeloid leukemia,2,Female,3.90048610088511,81987
+10,Delaware,10001,Kent County,2009,847,Acute myeloid leukemia,2,Female,3.91111028011058,83199
+10,Delaware,10001,Kent County,2010,847,Acute myeloid leukemia,2,Female,3.8850341304466,84562
+10,Delaware,10003,New Castle County,2000,847,Acute myeloid leukemia,1,Male,6.34431449212145,243716
+10,Delaware,10003,New Castle County,2001,847,Acute myeloid leukemia,1,Male,6.65664202143725,245478
+10,Delaware,10003,New Castle County,2002,847,Acute myeloid leukemia,1,Male,6.67959694348852,247676
+10,Delaware,10003,New Castle County,2003,847,Acute myeloid leukemia,1,Male,6.84814112089924,249938
+10,Delaware,10003,New Castle County,2004,847,Acute myeloid leukemia,1,Male,6.83423303804607,251812
+10,Delaware,10003,New Castle County,2005,847,Acute myeloid leukemia,1,Male,6.82559959668728,253654
+10,Delaware,10003,New Castle County,2006,847,Acute myeloid leukemia,1,Male,6.83470298628408,255465
+10,Delaware,10003,New Castle County,2007,847,Acute myeloid leukemia,1,Male,6.84985466117275,256862
+10,Delaware,10003,New Castle County,2008,847,Acute myeloid leukemia,1,Male,7.02353323124297,258783
+10,Delaware,10003,New Castle County,2009,847,Acute myeloid leukemia,1,Male,6.88981564229325,259955
+10,Delaware,10003,New Castle County,2010,847,Acute myeloid leukemia,1,Male,6.97683277651126,261015
+10,Delaware,10003,New Castle County,2000,847,Acute myeloid leukemia,2,Female,3.87712651683572,258121
+10,Delaware,10003,New Castle County,2001,847,Acute myeloid leukemia,2,Female,4.12080162438333,260548
+10,Delaware,10003,New Castle County,2002,847,Acute myeloid leukemia,2,Female,3.90937973718428,262482
+10,Delaware,10003,New Castle County,2003,847,Acute myeloid leukemia,2,Female,3.9561841234207,264831
+10,Delaware,10003,New Castle County,2004,847,Acute myeloid leukemia,2,Female,4.01773066257186,267132
+10,Delaware,10003,New Castle County,2005,847,Acute myeloid leukemia,2,Female,4.06707061588623,269689
+10,Delaware,10003,New Castle County,2006,847,Acute myeloid leukemia,2,Female,3.97103564621324,271709
+10,Delaware,10003,New Castle County,2007,847,Acute myeloid leukemia,2,Female,3.93678879433166,273693
+10,Delaware,10003,New Castle County,2008,847,Acute myeloid leukemia,2,Female,4.03522034991026,275175
+10,Delaware,10003,New Castle County,2009,847,Acute myeloid leukemia,2,Female,4.00669226441464,276943
+10,Delaware,10003,New Castle County,2010,847,Acute myeloid leukemia,2,Female,3.96010010996723,277971
+10,Delaware,10005,Sussex County,2000,847,Acute myeloid leukemia,1,Male,6.01854661421355,76859
+10,Delaware,10005,Sussex County,2001,847,Acute myeloid leukemia,1,Male,6.10215189618433,78524
+10,Delaware,10005,Sussex County,2002,847,Acute myeloid leukemia,1,Male,6.23093550464324,80353
+10,Delaware,10005,Sussex County,2003,847,Acute myeloid leukemia,1,Male,6.29972985717496,82442
+10,Delaware,10005,Sussex County,2004,847,Acute myeloid leukemia,1,Male,6.32288213520291,84424
+10,Delaware,10005,Sussex County,2005,847,Acute myeloid leukemia,1,Male,6.42179629171268,86697
+10,Delaware,10005,Sussex County,2006,847,Acute myeloid leukemia,1,Male,6.39706862183016,89074
+10,Delaware,10005,Sussex County,2007,847,Acute myeloid leukemia,1,Male,6.39806475791563,91488
+10,Delaware,10005,Sussex County,2008,847,Acute myeloid leukemia,1,Male,6.22864803938568,93672
+10,Delaware,10005,Sussex County,2009,847,Acute myeloid leukemia,1,Male,6.49907177121054,95098
+10,Delaware,10005,Sussex County,2010,847,Acute myeloid leukemia,1,Male,6.41042711387616,96607
+10,Delaware,10005,Sussex County,2000,847,Acute myeloid leukemia,2,Female,3.51153575532286,80448
+10,Delaware,10005,Sussex County,2001,847,Acute myeloid leukemia,2,Female,3.63271742418734,81921
+10,Delaware,10005,Sussex County,2002,847,Acute myeloid leukemia,2,Female,3.56883453708463,83834
+10,Delaware,10005,Sussex County,2003,847,Acute myeloid leukemia,2,Female,3.670630938609,86187
+10,Delaware,10005,Sussex County,2004,847,Acute myeloid leukemia,2,Female,3.57777500519892,88093
+10,Delaware,10005,Sussex County,2005,847,Acute myeloid leukemia,2,Female,3.64285530308723,90525
+10,Delaware,10005,Sussex County,2006,847,Acute myeloid leukemia,2,Female,3.644057500533,93316
+10,Delaware,10005,Sussex County,2007,847,Acute myeloid leukemia,2,Female,3.65743392300354,95737
+10,Delaware,10005,Sussex County,2008,847,Acute myeloid leukemia,2,Female,3.61308385670124,98319
+10,Delaware,10005,Sussex County,2009,847,Acute myeloid leukemia,2,Female,3.61989757043413,99653
+10,Delaware,10005,Sussex County,2010,847,Acute myeloid leukemia,2,Female,3.62259347489339,101264
+10,Delaware,10001,Kent County,2000,848,Chronic myeloid leukemia,1,Male,1.4148914629762,61351
+10,Delaware,10001,Kent County,2001,848,Chronic myeloid leukemia,1,Male,1.33921169294564,62348
+10,Delaware,10001,Kent County,2002,848,Chronic myeloid leukemia,1,Male,1.20098564392208,63488
+10,Delaware,10001,Kent County,2003,848,Chronic myeloid leukemia,1,Male,1.12094672527469,64821
+10,Delaware,10001,Kent County,2004,848,Chronic myeloid leukemia,1,Male,1.0358829627665,67247
+10,Delaware,10001,Kent County,2005,848,Chronic myeloid leukemia,1,Male,0.98949100022975,69572
+10,Delaware,10001,Kent County,2006,848,Chronic myeloid leukemia,1,Male,0.922984891492949,71963
+10,Delaware,10001,Kent County,2007,848,Chronic myeloid leukemia,1,Male,0.868110593975652,74001
+10,Delaware,10001,Kent County,2008,848,Chronic myeloid leukemia,1,Male,0.877716888342755,75938
+10,Delaware,10001,Kent County,2009,848,Chronic myeloid leukemia,1,Male,0.839914604521005,76882
+10,Delaware,10001,Kent County,2010,848,Chronic myeloid leukemia,1,Male,0.817721938425885,78350
+10,Delaware,10001,Kent County,2000,848,Chronic myeloid leukemia,2,Female,0.824902060134574,65878
+10,Delaware,10001,Kent County,2001,848,Chronic myeloid leukemia,2,Female,0.769151447761866,66880
+10,Delaware,10001,Kent County,2002,848,Chronic myeloid leukemia,2,Female,0.689498401975087,68336
+10,Delaware,10001,Kent County,2003,848,Chronic myeloid leukemia,2,Female,0.635931319874497,69784
+10,Delaware,10001,Kent County,2004,848,Chronic myeloid leukemia,2,Female,0.592406241999448,72095
+10,Delaware,10001,Kent County,2005,848,Chronic myeloid leukemia,2,Female,0.557364729944487,75013
+10,Delaware,10001,Kent County,2006,848,Chronic myeloid leukemia,2,Female,0.520918788149889,77741
+10,Delaware,10001,Kent County,2007,848,Chronic myeloid leukemia,2,Female,0.496696840857299,79968
+10,Delaware,10001,Kent County,2008,848,Chronic myeloid leukemia,2,Female,0.476705221657362,81987
+10,Delaware,10001,Kent County,2009,848,Chronic myeloid leukemia,2,Female,0.468715687607918,83199
+10,Delaware,10001,Kent County,2010,848,Chronic myeloid leukemia,2,Female,0.456558378073064,84562
+10,Delaware,10003,New Castle County,2000,848,Chronic myeloid leukemia,1,Male,1.4240468751132,243716
+10,Delaware,10003,New Castle County,2001,848,Chronic myeloid leukemia,1,Male,1.3248055893257,245478
+10,Delaware,10003,New Castle County,2002,848,Chronic myeloid leukemia,1,Male,1.18245430079848,247676
+10,Delaware,10003,New Castle County,2003,848,Chronic myeloid leukemia,1,Male,1.10099706937228,249938
+10,Delaware,10003,New Castle County,2004,848,Chronic myeloid leukemia,1,Male,1.02610359471941,251812
+10,Delaware,10003,New Castle County,2005,848,Chronic myeloid leukemia,1,Male,0.954490156068112,253654
+10,Delaware,10003,New Castle County,2006,848,Chronic myeloid leukemia,1,Male,0.90719182649763,255465
+10,Delaware,10003,New Castle County,2007,848,Chronic myeloid leukemia,1,Male,0.857170305379686,256862
+10,Delaware,10003,New Castle County,2008,848,Chronic myeloid leukemia,1,Male,0.854631672246776,258783
+10,Delaware,10003,New Castle County,2009,848,Chronic myeloid leukemia,1,Male,0.79586150286337,259955
+10,Delaware,10003,New Castle County,2010,848,Chronic myeloid leukemia,1,Male,0.798541731778578,261015
+10,Delaware,10003,New Castle County,2000,848,Chronic myeloid leukemia,2,Female,0.824598931510642,258121
+10,Delaware,10003,New Castle County,2001,848,Chronic myeloid leukemia,2,Female,0.786001080851992,260548
+10,Delaware,10003,New Castle County,2002,848,Chronic myeloid leukemia,2,Female,0.679710028750386,262482
+10,Delaware,10003,New Castle County,2003,848,Chronic myeloid leukemia,2,Female,0.622332342067785,264831
+10,Delaware,10003,New Castle County,2004,848,Chronic myeloid leukemia,2,Female,0.585329632335116,267132
+10,Delaware,10003,New Castle County,2005,848,Chronic myeloid leukemia,2,Female,0.546891791298644,269689
+10,Delaware,10003,New Castle County,2006,848,Chronic myeloid leukemia,2,Female,0.504472509758008,271709
+10,Delaware,10003,New Castle County,2007,848,Chronic myeloid leukemia,2,Female,0.477034254832909,273693
+10,Delaware,10003,New Castle County,2008,848,Chronic myeloid leukemia,2,Female,0.467776997643336,275175
+10,Delaware,10003,New Castle County,2009,848,Chronic myeloid leukemia,2,Female,0.453417810900163,276943
+10,Delaware,10003,New Castle County,2010,848,Chronic myeloid leukemia,2,Female,0.436598800854007,277971
+10,Delaware,10005,Sussex County,2000,848,Chronic myeloid leukemia,1,Male,1.50507188482641,76859
+10,Delaware,10005,Sussex County,2001,848,Chronic myeloid leukemia,1,Male,1.35907453120946,78524
+10,Delaware,10005,Sussex County,2002,848,Chronic myeloid leukemia,1,Male,1.23572821571041,80353
+10,Delaware,10005,Sussex County,2003,848,Chronic myeloid leukemia,1,Male,1.13356614036848,82442
+10,Delaware,10005,Sussex County,2004,848,Chronic myeloid leukemia,1,Male,1.05794783026022,84424
+10,Delaware,10005,Sussex County,2005,848,Chronic myeloid leukemia,1,Male,1.00189714407514,86697
+10,Delaware,10005,Sussex County,2006,848,Chronic myeloid leukemia,1,Male,0.946004547652694,89074
+10,Delaware,10005,Sussex County,2007,848,Chronic myeloid leukemia,1,Male,0.890949485801665,91488
+10,Delaware,10005,Sussex County,2008,848,Chronic myeloid leukemia,1,Male,0.842450753155883,93672
+10,Delaware,10005,Sussex County,2009,848,Chronic myeloid leukemia,1,Male,0.83377966230884,95098
+10,Delaware,10005,Sussex County,2010,848,Chronic myeloid leukemia,1,Male,0.81511393138047,96607
+10,Delaware,10005,Sussex County,2000,848,Chronic myeloid leukemia,2,Female,0.86571904717678,80448
+10,Delaware,10005,Sussex County,2001,848,Chronic myeloid leukemia,2,Female,0.808797665879972,81921
+10,Delaware,10005,Sussex County,2002,848,Chronic myeloid leukemia,2,Female,0.721726951898598,83834
+10,Delaware,10005,Sussex County,2003,848,Chronic myeloid leukemia,2,Female,0.67369005445407,86187
+10,Delaware,10005,Sussex County,2004,848,Chronic myeloid leukemia,2,Female,0.607239282925617,88093
+10,Delaware,10005,Sussex County,2005,848,Chronic myeloid leukemia,2,Female,0.573139827156326,90525
+10,Delaware,10005,Sussex County,2006,848,Chronic myeloid leukemia,2,Female,0.540998384932843,93316
+10,Delaware,10005,Sussex County,2007,848,Chronic myeloid leukemia,2,Female,0.518360840125724,95737
+10,Delaware,10005,Sussex County,2008,848,Chronic myeloid leukemia,2,Female,0.491135009907707,98319
+10,Delaware,10005,Sussex County,2009,848,Chronic myeloid leukemia,2,Female,0.481108842611844,99653
+10,Delaware,10005,Sussex County,2010,848,Chronic myeloid leukemia,2,Female,0.471543855676602,101264

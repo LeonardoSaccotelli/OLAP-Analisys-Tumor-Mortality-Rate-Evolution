@@ -1,0 +1,88 @@
+
+Fri Sep 04 10:18:45 CEST 2020
+READING FROM ...
+- Reading from: Alabama_Mortality_2000_2010.csv
+- Reading from: Alaska_Mortality_2000_2010.csv
+- Reading from: Arizona_Mortality_2000_2010.csv
+- Reading from: Arkansas_Mortality_2000_2010.csv
+FILES READ CORRECTLY
+
+CLEANING FILES ...
+- Cleaning 1 file of 4
+  CLEANING STATUS: OK!
+
+- Cleaning 2 file of 4
+  CLEANING STATUS: OK!
+
+- Cleaning 3 file of 4
+  CLEANING STATUS: OK!
+
+- Cleaning 4 file of 4
+  CLEANING STATUS: OK!
+
+FILES CLEANED CORRECTLY
+
+TRANSFORMING FILES ...
+- Trasforming 1 file of 4
+- Trasforming 2 file of 4
+- Trasforming 3 file of 4
+- Trasforming 4 file of 4
+FILES TRANSFORMED CORRECTLY
+
+EXPORTING TABLES ... Please wait
+- Data in Sex Table already exists
+- Data in Years Table already exists
+- Data in Tumor Table already exists
+- Locality Table exporting ...
+     Rows Exported: 0
+     Rows NOT Exported (DUPLICATE ROWS): 186
+     Total Rows in Locality Table : 186
+- Locality Table exported
+- Mortality Table exporting ...
+     Rows Exported: 0
+     Rows NOT Exported (DUPLICATE ROWS): 116622
+     Total Rows in Mortality Table : 116622
+- Mortality Table exported
+
+Fri Sep 04 10:19:16 CEST 2020
+READING FROM ...
+- Reading from: Delaware_Mortality_2000_2010.csv
+- Reading from: Florida_Mortality_2000_2010.csv
+- Reading from: Georgia_Mortality_2000_2010.csv
+- Reading from: Hawaii_Mortality_2000_2010.csv
+FILES READ CORRECTLY
+
+CLEANING FILES ...
+- Cleaning 1 file of 4
+  CLEANING STATUS: OK!
+
+- Cleaning 2 file of 4
+  CLEANING STATUS: OK!
+
+- Cleaning 3 file of 4
+  CLEANING STATUS: OK!
+
+- Cleaning 4 file of 4
+FILES CLEANED CORRECTLY
+
+TRANSFORMING FILES ...
+  CLEANING STATUS: OK!
+
+- Trasforming 1 file of 4
+- Trasforming 2 file of 4
+- Trasforming 3 file of 4
+- Trasforming 4 file of 4
+FILES TRANSFORMED CORRECTLY
+
+EXPORTING TABLES ... Please wait
+- Data in Sex Table already exists
+- Data in Years Table already exists
+- Data in Tumor Table already exists
+- Locality Table exporting ...
+     Rows Exported: 0
+     Rows NOT Exported (DUPLICATE ROWS): 234
+     Total Rows in Locality Table : 234
+- Locality Table exported
+- Mortality Table exporting ...
+     Rows Exported: 0
+     Rows NOT Exported (DUPLICATE ROWS): 146718
